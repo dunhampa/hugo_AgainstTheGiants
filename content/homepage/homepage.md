@@ -1,14 +1,13 @@
 ---
-title: "Pete Homepage"
+title: "Against The Giants Home"
 date: 2020-01-26T23:11:13Z
 draft: false
-tags: ["foo", "bar"]
-categories: ["holler1", "holler2"]
-summary: "Holler holler hollering"
+tags: []
+categories: []
+summary: "Against The Giants"
 ---
-Its my homepage
+Against the Giants future home
 
-test
 
 
   <div class="row">
