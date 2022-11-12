@@ -29,11 +29,6 @@ unsafe = true
     url = "/categories/"
     weight = 4
   [[menu.main]]
-    name = "Me"
-    pre = "Me"
-    url = "https://www.petedunham.com"
-    weight = 5
-  [[menu.main]]
     name = "Links"
     pre = "link"
     url = "/links/"
