@@ -14,27 +14,13 @@ unsafe = true
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Posts"
+    name = "Days"
     pre = "pen-tool"
-    url = "/posts/"
+    url = "/days/"
     weight = 2
-  [[menu.main]]
-    name = "Tags"
-    pre = "tag"
-    url = "/tags/"
-    weight = 3
-  [[menu.main]]
-    name = "Cats"
-    pre = "category"
-    url = "/categories/"
-    weight = 4
   [[menu.main]]
     name = "Links"
     pre = "link"
     url = "/links/"
     weight = 3
-  [[menu.main]]
-    name = "Apps"
-    pre = "eye"
-    url = "/apps/"
-    weight = 3
+  
