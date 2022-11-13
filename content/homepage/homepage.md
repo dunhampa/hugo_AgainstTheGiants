@@ -6,18 +6,4 @@ tags: []
 categories: []
 summary: "Against The Giants"
 ---
-Against the Giants future home
-
-
-
-  <div class="row">
-    <div class="col-sm">
-      <h1> One of three columns
-    </div>
-    <div class="col-sm">
-      <h2> One of three columns
-    </div>
-    <div class="col-sm">
-      <h3> One of three columns
-    </div>
-  </div>
+<img src="DALL·E 2022-11-12 17.40.44 - An old warrior giant wrinkled and mean with frost beard and giant frost axe lit face in dark background.png" alt="An old warrior giant wrinkled and mean with frost beard and giant frost axe lit face in dark background.png" style="width:600px"></img></p>
