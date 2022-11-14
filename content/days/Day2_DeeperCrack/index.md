@@ -4,7 +4,7 @@ date: 2010-11-27T23:53:00+01:00
 draft: false
 type: "project"
 hideLastModified: true
-summary: "Day 2: Deeper in the crack"
+summary: "After a battle with the wolves and finding a cave of fallen heros, our team pushed further in the glacier on the hunt for the Jarl and his army"
 summaryImage: ""
 tags: []
 weight: 65
