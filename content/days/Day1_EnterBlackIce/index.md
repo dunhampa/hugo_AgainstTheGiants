@@ -4,14 +4,12 @@ date: 2019-10-27T23:53:00+01:00
 draft: false
 type: "project"
 hideLastModified: true
-summary: "Entering the Dark Ice: After facing death numerous times against the hill giants, Silvius is writing our story and will be constantly telling everyone about it (Bards gotta bard)."
+summary: "Entering the Black Ice: After facing death numerous times against the hill giants, Silvius is writing our story and will be constantly telling everyone about it (Bards gotta bard)."
 summaryImage: ""
 tags: []
 weight: 65
 ---
 After facing death numerous times against the hill giants, Silvius is writing our story and will be constantly telling everyone about it (Bards gotta bard). 
-
-**Bolded pieces should be a 30 sec read for those TL:DR inclined**
 <p>
 <p>
 
@@ -46,4 +44,3 @@ We find ourselves now in a moment of eerie calm. Unknown dangers and treasure in
 Do we track down and kill the wolf?
 Is the mystery magic and treasure worth the risks?
 How do we prepare for what the wolf may bring? 
-For those that made it to the end, this is what happens when I have to listen to 90 minutes of pointless zoom training on a Friday :) 
