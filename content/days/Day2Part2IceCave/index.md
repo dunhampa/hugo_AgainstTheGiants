@@ -4,7 +4,7 @@ date: 2010-10-27T23:53:00+01:00
 draft: false
 type: "project"
 hideLastModified: true
-summary: "Day 2: Part 2: The Black Ice Cave"
+summary: "The team ran in to a Frost Giant blocking their path and reach to fight. The battle with Jarl's army truly begins"
 summaryImage: ""
 tags: []
 weight: 65
