@@ -1,5 +1,5 @@
 ---
-title: "Day 1: Entering the Dark Ice"
+title: "Day 1: Entering the Black Ice"
 date: 2019-10-27T23:53:00+01:00
 draft: false
 type: "project"
