@@ -9,9 +9,6 @@ summaryImage: ""
 tags: []
 weight: 65
 ---
-After facing death numerous times against the hill giants, Silvius is writing our story and will be constantly telling everyone about it (Bards gotta bard). 
-<p>
-<p>
 
 After taking the hill giant stronghold and saving the enslaved orcs from Nosnra, his hill giant battalion, and others from across the giant ordering, **we agreed to venture to the black ice to collect knowledge on the plans of the Jarl and prevent future attacks.**
 
