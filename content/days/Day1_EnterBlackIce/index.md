@@ -4,7 +4,7 @@ date: 2010-12-27T23:53:00+01:00
 draft: false
 type: "project"
 hideLastModified: true
-summary: "Entering the Black Ice: After facing death numerous times against the hill giants, Silvius is writing our story and will be constantly telling everyone about it (Bards gotta bard)."
+summary: "Entering the Black Ice: The team has defeated the hill giants, freed the Orcs, and sent the Orcs on a path to their home. However, they've found an even larger source of the giant's threat to peace in this world. A map and a magic chain can guide them to the stronghold of the Jarl "
 summaryImage: ""
 tags: []
 weight: 65
