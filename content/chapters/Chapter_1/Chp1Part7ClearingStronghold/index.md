@@ -13,6 +13,11 @@ The team was curious as to if any of the items they picked up were magic. Silviu
 Silvius cautiosly approached torch and slightly tapped it with his spectral hand. As the hand made contact, reality would slightly bend out of the illusion showing the bottom of a sword scabbard. His magic hand wasn't strong enough to free the illusory torch. Silvius approached and as he lifted the torch he realized it was a stunning greatsword and could feel it's power beyond the magical glow.
 
 "ADC what do you think of this?" Silvius called out as he approached the wizard preparing to rest. ADC at first was slightly annoyed from being disturbed from his preparations for the night. His eyes widened and seemed to glow as he realized what Silvius had found. "You say it's magic, Silvius?" ADC questioned as he studied the details of the sword's double cross-guard and it's long detailed etched blade, "Give me some time with it." ADC spent some time studying the blade while everyone prepared to rest and then told us of the swords power.
+<center>
+  {{<imageToClick imagePath = "DALL·E 2022-11-15 14.32.11 -  Realistic greatsword with steel blade and gold hilt glowing above a background of medieval tapestry.png" Capition = "This sword, Waythe,is able to think and communicate to the level of most of those here. He loves to strike down giants in the name of good. As in he will quite literally knock them to the ground..."  width = "50%" >}}
+</center>
+<br>
+<br>
 
 "This is Waythe. I introduce him since he is intelligent. Well, not ADC intelligent of course. However, he can think and communicate to the level of most of those here. He loves to strike down giants in the name of good. As in he will quite literally knock them to the ground... This is a special find for us and should be used by our most powerful warrior."
 
