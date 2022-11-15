@@ -2,6 +2,8 @@
 
 # from scratch clone and run
 
+redeploy
+
 ```
 git clone --recurse-submodules git@github.com:dunhampa/hugo_AgainstTheGiants.git
 ```
