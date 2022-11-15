@@ -1,6 +1,6 @@
 ---
-title: "Chapter 1: Part 6: The Battle for the Orcs"
-date: 2011-07-27T23:53:00+01:00
+title: "Part 1: Recruiting to Defend Greyhawk"
+date: 2011-12-27T23:53:00+01:00
 draft: false
 type: "project"
 hideLastModified: true

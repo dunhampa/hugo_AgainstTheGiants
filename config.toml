@@ -14,9 +14,9 @@ unsafe = true
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Days"
+    name = "Chapters"
     pre = "pen-tool"
-    url = "/days/"
+    url = "/chapters/"
     weight = 2
   [[menu.main]]
     name = "Links"
