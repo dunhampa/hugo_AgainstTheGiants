@@ -32,6 +32,21 @@ It was now late and the entire team decided to rest. Silvius let Grimfang and Ro
 
 In the morning the entire party was feeling wonderful after a long rest. They were all excited to see what else was to be found in the giant stronghold now that they could move freely without the giants. As they opened the door they were caught up in the flow of Orcs hurridly walking around in every direction carrying supplies found throughout the ground floor. 
 
+<center>
+  {{<imageToClick imagePath = "DALL·E 2022-11-15 17.17.33 - Fantasy a green orc and black orc running down dungeon hallway holding food and clothes_cleanup.png" Capition = "As they opened the door they were caught up in the flow of Orcs hurridly walking around in every direction carrying supplies found throughout the ground floor. "  width = "50%" >}}
+</center>
+
+<center>
+  {{<imageToClick imagePath = "DALL·E 2022-11-15 17.24.14 - Fantasy a green orc and black orc running down dungeon hallway holding food and clothes.png" Capition = "Orc prisoners set free and roaming to the exit"  width = "50%" >}}
+</center>
+<br>
+<br>
+
+
+
+
+
+
 Walking north up the hallway the team decided to do some searching. Oscorn and Silvius both prayed to their gods to detect the presense of any magic as the team walked through the other bedrooms. In one of the bedrooms they noticed a glow from inside one of the chests. Silvius popped the lid open and amongst the old clothes he found two vials. "Czolg catch!" as Silvius tossed the potion to Czolg he said "it'll make you strong as a storm giant." "Kalinar!" as Silvius passed the second potion he told him "invisibility, you might get hit less if nobody can see you" 
 
 As they left the bedroom Grimfang approached. "We have an issue we should discuss. We know how we would handle it," as he taps his bugbear mace, "but we thought you may have an opinion. Follow me." Silvius put his hand on Oscorn's shoulder and said "Oscorn and I are kind of in the finding treasure zone right now. How about Oscorn and I do a quick lap while we've got this vibe and meet you back at our room?" Everyone agreed and Fennuris, Kalinar, and Czolg followed Grimfang. 
