@@ -1,13 +1,8 @@
 ---
 title: "Day 1: Entering the Black Ice"
-date: 2010-12-27T23:53:00+01:00
 draft: false
-type: "project"
-hideLastModified: true
 summary: "Entering the Black Ice: The team has defeated the hill giants, freed the Orcs, and sent the Orcs on a path to their home. However, they've found an even larger source of the giant's threat to peace in this world. A map and a magic chain can guide them to the stronghold of the Jarl "
-summaryImage: ""
-tags: []
-weight: 65
+weight: 1
 ---
 
 After taking the hill giant stronghold and saving the enslaved orcs from Nosnra, his hill giant battalion, and others from across the giant ordering, **we agreed to venture to the black ice to collect knowledge on the plans of the Jarl and prevent future attacks.**

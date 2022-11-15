@@ -1,13 +1,8 @@
 ---
 title: "Part 7: Clearing Nosnra's Stronghold"
-date: 2011-06-27T23:53:00+01:00
 draft: false
-type: "project"
-hideLastModified: true
-summary: "Story in progress"
-summaryImage: ""
-tags: []
-weight: 65
+summary: "The noises of the fight were replaced with the moans of the injured and frightened chatter across the commoner Orcs. Silvius walked up to Grimfang and said..."
+weight: 7
 ---
 
 The noises of the fight were replaced with the moans of the injured and frightened chatter across the commoner Orcs. Silvius walked up to Grimfang and said "We have much to discuss, but our team needs rest."

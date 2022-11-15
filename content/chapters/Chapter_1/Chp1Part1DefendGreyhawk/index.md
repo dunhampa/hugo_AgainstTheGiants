@@ -1,11 +1,6 @@
 ---
 title: "Part 1: Recruiting to Defend Greyhawk"
-date: 2011-12-27T23:53:00+01:00
-draft: false
-type: "project"
-hideLastModified: true
+draft: true
 summary: "Story in progress"
-summaryImage: ""
-tags: []
-weight: 65
+weight: 1
 ---

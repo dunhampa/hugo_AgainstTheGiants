@@ -2,12 +2,8 @@
 title: "Day 2: Part 3: The Ice Cave Battle Royale"
 date: 2010-09-27T23:53:00+01:00
 draft: false
-type: "project"
-hideLastModified: true
 summary: "The team finds treasure protected by white dragons in what appears to be Jarl's stronghold"
-summaryImage: ""
-tags: []
-weight: 65
+weight: 4
 ---
 Silvius stood in shock looking down at his acid burned hands as chunks of Erik’s and his own flesh dropped to the ground. Looking back at the flaming ice centipede’s split open bubbling carcass, he thought about the similar fate of Kazzug still inside. There was a heavy silence as he gazed across the rest of the party. All the faces he saw were tired, beaten, and frozen from the fight.
 

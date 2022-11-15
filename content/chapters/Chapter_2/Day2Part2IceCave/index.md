@@ -2,12 +2,8 @@
 title: "Day 2: Part 2: The Black Ice Cave"
 date: 2010-10-27T23:53:00+01:00
 draft: false
-type: "project"
-hideLastModified: true
 summary: "The team ran in to a Frost Giant blocking their path and reach to fight. The battle with Jarl's army truly begins"
-summaryImage: ""
-tags: []
-weight: 65
+weight: 3
 ---
 The frost giant wasn’t there to talk and Silvius found him stunning. His look in this battle would be brought to perfection if he was covered in glistening snow so Silvius made it snow on the battlefield.
 

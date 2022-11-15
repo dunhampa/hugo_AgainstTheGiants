@@ -2,12 +2,8 @@
 title: "Day 3: Part 1: Attack of the toads"
 date: 2010-08-27T23:53:00+01:00
 draft: false
-type: "project"
-hideLastModified: true
 summary: "Mourning those that have fallen against the dragons, giants, and flaming ice snake and moving on with the assault"
-summaryImage: ""
-tags: []
-weight: 65
+weight: 5
 ---
 The team feared the giants could still find or force their way into the dragons’ lair. So they split up to both prepare for a fight and gather treasure. Kalinar, ADC, Czolg took a break while Oscorn focused on feeling the magical energies emitted from within the piles of treasure and snow. Oscorn pointed Silvius to a glowing pile of armor while he inspected another smaller glow underneath a mass of snow and weapons. Silvius pulled out a stunning set of chain mail while Oscorn found a striking dagger. They also found several potions amongst a pile of bottles and vials. ADC later identified several useful ones including potions of poison, diminution, growth, and fire resistance as well as a healing potion from a giant bag. Silvius and Oscorn then turned to gather the gold and create a pile near the foot of the dragon's ledge. As the rest of the team woke up, Oscorn and Silvius passed out treasures:
 Oscorn lightened and brightened his armor with a beautiful set of +2 chain mail

@@ -2,12 +2,8 @@
 title: "Day 2: Deeper in the crack"
 date: 2010-11-27T23:53:00+01:00
 draft: false
-type: "project"
-hideLastModified: true
 summary: "After a battle with the wolves and finding a cave of fallen heros, our team pushed further in the glacier on the hunt for the Jarl and his army"
-summaryImage: ""
-tags: []
-weight: 65
+weight: 2
 ---
 Realizing there may be dangers coming, Silvius boldly strolled out of the cave entrance to check on the giants. What awaited was a flying boulder. A massive giant from across the valley slung a it at him, smashing him directly in the chest. The boulder struck with such force Silvius faked an avalanche with a permanent illusion made from light and shadows, blocking the mouth of the cave and the path from the north. 
 
