@@ -1,7 +1,7 @@
 ---
 title: "Part 7: Clearing Nosnra's Stronghold"
 draft: false
-summary: "The noises of the fight were replaced with the moans of the injured and frightened chatter across the commoner Orcs. Silvius walked up to Grimfang and said..."
+summary: "The Orcs are safe, but what else remains in Nosnra's lair..."
 weight: 7
 ---
 
