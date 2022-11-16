@@ -72,7 +72,7 @@ Silvius then moved on to the second locked chest. As he clicked the lock open, h
 Meanwhile Fennuris, Czolg, ADC, and Kalinar followed Grimfang through the maze of hustling Orcs to a room near the southern end of the stronghold. 
   
   
-“We found this room full of giant children and one matron. We killed all the adults, and they are refusing to leave. We may as well kill them now. Harder to deal with as adults.” Grimfang said as he opened the door to a room full of giant children of all ages playing and fighting amongst themselves. 
+“We found this room full of giant children and one matron. We killed all the adults, and they are refusing to leave. We may as well kill them now. Harder to deal with when they're fully grown.” Grimfang said as he opened the door to a room full of giant children of all ages playing and fighting amongst themselves. 
  <br>
 Waythe telepathically said to Czolg “You slayed all these children’s’ parents…”
  <br>
