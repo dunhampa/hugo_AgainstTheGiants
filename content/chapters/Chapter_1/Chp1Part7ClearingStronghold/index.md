@@ -5,7 +5,7 @@ summary: "The noises of the fight were replaced with the moans of the injured an
 weight: 7
 ---
 
-The noises of the fight were replaced with the moans of the injured and frightened chatter across the commoner Orcs. Silvius walked up to Grimfang and said "We have much to discuss, but our team needs rest."
+The noises of the fight were replaced with the moans of the injured and frightened chatter across the commoner Orcs. Silvius walked up to Grimfang and said "We have much to discuss, but our team needs rest." <br>
 Grimfang replied between orders to his Orcs "You and yours can take a break. We will gladley handle what's left of any of these giants and bugbears. Go ahead and take the sleeping room at the end of the hall." as he pointed down the hallway past the kitchen.
 
 The team was curious as to if any of the items they picked up were magic. Silvius called upon Ilmaters guidence to see the glows of any magic near him. None of what he had found had a glimpse of magic. However, as he walked to the other side of the room, he sensed a glow on the torch haning on the wall.
@@ -23,7 +23,7 @@ Silvius cautiosly approached torch and slightly tapped it with his spectral hand
 
 All eyes turned to Czolg as he tucked in Panzerfaust for the night then he turned to the party with a confused "What?" ADC walking over to Czolg told him "I present to you Waythe, the legendary giant slaying weapon." 
 
-Czolg picked up Waythe and gave some skilled and mighty practice swings then set it back down. "Too short and does not stab" he said as he tossed it down. 
+Czolg picked up Waythe and gave some skilled and mighty practice swings. "Too short and does not stab" he said as he tossed it down. 
 
 Silvius picked up Waythe and handed it back to him saying "Czolg, this is a legendary giant dropping sword for our legendary giant dropping barbarian. You have to at least try it out." Czolg staring back longingly and regretfully at Panzerfaust agreed to give Wayth a try.
 
@@ -52,13 +52,21 @@ Walking north up the hallway the team decided to do some searching. Oscorn and S
 As they left the bedroom Grimfang approached. "We have an issue we should discuss. We know how we would handle it," as he taps his bugbear mace, "but we thought you may have an opinion. Follow me." Silvius put his hand on Oscorn's shoulder and said "Oscorn and I are kind of in the finding treasure zone right now. How about Oscorn and I do a quick lap while we've got this vibe and meet you back at our room?" Everyone agreed and Fennuris, Kalinar, and Czolg followed Grimfang. 
 
 "Oscorn! We're going downstairs" Silvius excitedly said to Oscorn. 
+<br>
 Oscorn looked at Silvis confused "There is at least one Fire Giant down there. Why would only the two of us go?"
+<br>
 "Not that part of the basement. The one where I found this and this" Silvius said as he tapped his sword then showed him the map signed Ecvaldra. "There were manticores down there. They were not standing in the way of this stuff, but probably something else."
-"Plus, now the manticores are all dead" Oscorn as he started to get excited.
-"There must be something good. And it will be fun!"
+<br>
+"Plus, now the manticores are all dead" Oscorn replied as he started to get excited. 
+<br>
+Silvius smiled "There must be something else good down there..."
 
-Oscorn and Silvius agreed and Silvius led them to the secret door from Nosnra's planning room. As they walked Silvius told the tales of Kalinar and him the last time they were here. Oscorn grew more excited as they continued to walk down the stairs. Silvius then took him to the side only Kalinar had seen. Oscorn and Silvius checked out the fake treasure then noticed the doors further to the south. Walking inside the found several chests. Oscorn could feel the glow of magic inside one of the chests. Silvius started opening chest with his magic hand. Most of them popped right open but two appeared locked. Silvius got out his thieves tools and opened the first locked chest. He then opened the second locked chest. As he clicked the lock open, he heard an unusual click. An arrow shot out of the wall and hit him in the shoulder. Silvius could feel the sting of poison and tried to fight it off but it was too strong. Silvius could feel his mind dull and his body tire. 
-
+Oscorn and Silvius agreed and Silvius led them to the secret door from Nosnra's planning room. As they walked Silvius told the tales of Kalinar and him the last time they were here. Oscorn grew more excited as they continued to walk down the stairs. Silvius then took him to the side only Kalinar had seen. Oscorn and Silvius checked out the fake treasure then noticed the doors further to the south. Walking inside the found several chests. Oscorn could feel the glow of magic inside one of the chests. Silvius started opening chest with his magic hand and Oscorn started piling the treasrue inside his bag. Most of them popped right open but two appeared locked. Silvius got out his thieves tools and started working on the first chest.
+  
+Oscorn looking confused at Silvius asked "How does a man dedicated to the Gods learn of such things" <br>
+Silvius laying on his back looking up in to the lock continued to work with a pick and pliers and replied "Many are given the grace of the gods along with life..." the lock clicked open "us broken ones were saved by it." 
+  
+Silvius then moved on to the second locked chest. As he clicked the lock open, he heard an unusual click. An arrow shot out of the wall and hit him in the shoulder. Silvius could feel the sting of poison and tried to fight it off but it was too strong. Silvius could feel his mind dull and his body tire. 
 
 Held a meeting with the orc leaders and other key prisoners
 Agreed the orcs would go home after preparations 
