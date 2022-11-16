@@ -100,7 +100,7 @@ Silvius comforted Czolg and told him “You don’t need to use Waythe, Czolg. I
   <br>
 Everyone turned and stared at Oscorn until he filled the silence “I supposed I could try. I’m not much for fighting giants up front, but I could try with the power of Waythe”
   <br>
-Oscorn picked up Waythe and they both were glowing with excitement immediately. They talked about their glorious battles and the lives they’ve saved from certain doom. The dangerous and spectacular battles they’ve had with the giants to save Greyhawk and free the Orcs imprisoned here. They were quickly best friends.
+Oscorn picked up Waythe and they both were glowing with excitement immediately. They talked about their glorious battles and the lives they’ve saved from certain doom. Oscorn told Waythe of the dangerous and spectacular battles they’ve had with the giants to save Greyhawk and free the Orcs imprisoned here. They were quickly best friends.
   
 It quickly became time for the meeting to plan what to do with the hill giant stronghold and what should come next for the team and the Orcs. The team along with Rock, Grimfang, Kazzug, Erik, the mason, and Jimmy. Grimfang and Rock shared they must head back to their home as soon as preparations are made for the journey and the other prisoners would follow the Orcs. The team agreed to alert their allies to meet them on the way. Kazzug and Erik were up for continuing the fight starting with clearing out the lower level.
   
