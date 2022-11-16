@@ -54,9 +54,9 @@ Oscorn looked at Silvis confused "There is at least one Fire Giant down there. W
  <br>
 "Not that part of the basement. The one where I found this and this" Silvius said as he tapped his sword then showed him the map signed Eclavdra. "There were manticores down there. They were not standing in the way of this stuff, but probably something else."
   <br>
-"Plus, now the manticores are all dead" Oscorn replied as he started to get excited.
+"Plus, now the manticores are all dead" 
   <br>
-Silvius smiled "There must be something else good down there..."
+"There must be something else good down there..."
   
   
 Oscorn and Silvius agreed, and Silvius led them to the secret door from Nosnra's planning room. As they walked Silvius told the tales of Kalinar and him the last time they were here. Oscorn grew more excited as they continued to walk down the stairs. Silvius then took him to the side only Kalinar had seen. Oscorn and Silvius checked out the fake treasure then noticed the doors further to the south. Walking inside the found several chests. Oscorn could feel the glow of magic inside one of the chests. Silvius started opening chest with his magic hand and Oscorn started piling the treasure inside his bag. Most of them popped right open but two appeared locked. Silvius got out his thieves’ tools and started working on the first chest.
@@ -82,7 +82,7 @@ Grimfang “uh, great. So, we’ll kill them then…”
   <br>
 Czolg looking slightly confused “Well I guess if they won’t leave, we’ll have to kill them”
   <br>
-Waythe responded to only Czolg “We are not slaying unarmed captured children!”
+Waythe responded only to Czolg “We are not slaying unarmed captured children!”
   <br>
 “Fine! We won’t kill them” Czolg shot back.
   <br>
