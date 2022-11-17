@@ -12,6 +12,8 @@ Before leaving we gathered our friends Kazzug and knight elf and divided our **l
 * ADC now has **Keoghtons ointment to heal and cure any disease**
 * Oscorn with a **potion of fire breadth**
 * Silvius with a **lantern of revealing that sheds light upon all that is visible and invisible**
+* Silivius with a **<a href="DALL·E 2022-11-14 23.36.00 - A the back of a slender and pretty silver haired male elf holds a fancy lanterns facing the darkness_cleanup.png" data-lightbox="image-1" data-title="My caption">lantern of revealing that sheds light upon all that is visible and invisible</a>
+**
 
 We planned and prepared to go to the black ice by gathering wine barrels for a surprise delivery and Kalinar toasted to prepare himself for the glorious battle of magical patron pew pew pew.
 
@@ -28,9 +30,6 @@ Next to the dead end, we came across another cave that was silent and lit.
  We entered and found several dead and frozen heroes that came before us. They were presented along the walls as trophies, many glowing with magic. We tried melting and cutting out their potential gifts to us but it caused the ceiling to collapse alerting others from deeper within the cave.
 
 Five wolves appeared and Czolg faced off against them. The rest of us joined the fight using the fury of our gods, patrons, and weapons. ADC summoned a frightful construct causing several dogs to flee in terror. The wolves fought fiercely with their bites, claws, and freezing breadth. One wolf fled back along the path we came in on while the others stood firm and received the deaths they requested.
-
-<a href="DALL·E 2022-11-12 20.20.36 - A big black mountain with dark skys and cold ice with a castle type entrance.png" data-lightbox="image-1" data-title="My caption">Image #1</a>
-
 
 We find ourselves now in a moment of eerie calm. Unknown dangers and treasure in front of us and a wolf likely alerting even more dangerous enemies behind us. So we ask ourselves:
 Do we track down and kill the wolf?
