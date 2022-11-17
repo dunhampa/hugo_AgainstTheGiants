@@ -11,9 +11,8 @@ Before leaving we gathered our friends Kazzug and knight elf and divided our **l
 * Kalinar has **potions of invisibility and poison**
 * ADC now has **Keoghtons ointment to heal and cure any disease**
 * Oscorn with a **potion of fire breadth**
-* Silvius with a **lantern of revealing that sheds light upon all that is visible and invisible**
-* Silivius with a **<a href="DALL·E 2022-11-14 23.36.00 - A the back of a slender and pretty silver haired male elf holds a fancy lanterns facing the darkness_cleanup.png" data-lightbox="image-1" data-title="My caption">lantern of revealing that sheds light upon all that is visible and invisible</a>
-**
+* Silivius with a <b><a href="DALL·E 2022-11-14 23.36.00 - A the back of a slender and pretty silver haired male elf holds a fancy lanterns facing the darkness_cleanup.png" data-lightbox="image-1" data-title="Silvius with a lantern of revealing that sheds light upon all that is visible and invisible">lantern of revealing that sheds light upon all that is visible and invisible</a></b>
+
 
 We planned and prepared to go to the black ice by gathering wine barrels for a surprise delivery and Kalinar toasted to prepare himself for the glorious battle of magical patron pew pew pew.
 
