@@ -54,7 +54,7 @@ Oscorn looked at Silvis confused "There is at least one Fire Giant down there. W
  <br>
 "Not that part of the basement. The one where I found this and this" Silvius said as he tapped his sword then showed him the map signed Eclavdra. "There were manticores down there. They were not standing in the way of this stuff, but probably something else."
   <br>
-"Plus, now the manticores are all dead" 
+"Plus, now the manticores are all dead!" 
   <br>
 "There must be something else good down there..."
   
