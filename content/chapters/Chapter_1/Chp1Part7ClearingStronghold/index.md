@@ -39,7 +39,7 @@ In the morning the entire party was feeling wonderful after a long rest. They we
 </center>
 
 <center>
-  {{<imageToClick imagePath = "DALL·E 2022-11-15 17.24.14 - Fantasy a green orc and black orc running down dungeon hallway holding food and clothes.png" Capition = "Orc prisoners set free and roaming to the exit"  width = "50%" >}}
+  {{<imageToClick imagePath = "DALL·E 2022-11-17 00.31.03 - Fantasy green and black orc run down hallway holding food and luggage_cleanup.png" Capition = "Orc prisoners set free and roaming to the exit with found supplies"  width = "50%" >}}
 </center>
 <br>
 <br>
