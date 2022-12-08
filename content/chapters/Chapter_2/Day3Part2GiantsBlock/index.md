@@ -5,38 +5,29 @@ draft: false
 summary: "After battling the ice toads, the frost giants and ogres decide to block the team in"
 weight: 5
 ---
-ADC eventually tired of the boulders flying down the hallway and used his staff of frost to cast fog cloud. Keeping the sides from throwing at each other.
+ADC with one hand holding his remaining teeth in his mouth used his staff to cast a cloud of fog keeping the giants from aiming their boulders. Everyone waited to attack and Czolg taunted them to show themselves. 
 
-Everyone prepared to attack the giants once the fog lifted and Czolg taunted them.
+ADC, completely done with boulders, begged the group to fall back. The rest of the party shifted around positions until ADC shrugged and dropped his fog cloud.
+Czolg immediately charged with Panzerfaust string the nearest of the three frost giants. Silvius raced up behind him and called upon spirit guardians to fight alongside them both. ADC summoned Slad and commanded him to attack. 
 
-ADC begged the team to fall back.
+The team quickly slayed two of the frost giants and the third ran up the hallway in terror. The team chased the last frost giant that was trying to flee until the giant ran out of view out the entrance to the black ice.
 
-ADC drops fog cloud since everyone wanted to fight. The team sees four frost giants.
+All was quiet. The team waited a few moments. Still quiet.
 
-Czolg attacks with Panzerfaust
+Czolg became curious about what was to the door to the west and decided to open it. Suddenly the frost giant returned with a stone from the north entrance. At the same time a swarm of ogres came rushing to the open door. The party viciously attacked the stone giant until he deeply feared for his life. As he tried to flee, he ran over the frost giant as he desperately attempted to get to the door.
 
-Silvius calls on spirit guardians
+ADC turned to the ogres nearly breaching the door and created a wall of ice cutting in the middle of two ogres. One was pushed back inside the door while the other was frozen solid and broken in half by the cold.
 
-Pete summons Slad to attack
+ADC turned and ran back to the dragon lair yelling to seal everyone back inside, but the boulDOOR wasn’t in place and ADC didn’t have the strength to move it. As others came to help suddenly darkness surrounded the party. ADC felt for the presence of magic and found a glow of evocation from Czolg’s armor.
+The team was still trying to get the door closed when the darkness dropped. “I control the darkness!” the team heard from a booming voice. At that moment, the ogres smashed the ice wall, and it came crashing to the ground. Czolg grabbed an ogre and punched him in the face as he started to drag the ogre towards the dragons’ lair. Silvius mocked an ogre to death as the darkness came back. “I control the darkness!” 
 
-Team attacked and killed three frost giants while the last ran away
+Czolg and Oscorn walked back into the darkness with a rope attaching them together and hanging behind them. Silvius pulls out his lantern of revealing “better to control the darkness and the light” The magical darkness dissipated as the light from the lantern reached it.
 
-Team chased the last frost giant north
+What the team saw was a smaller but vicious looking blue giant with wild hair and long teeth. Silvius tried to speak to it and was blasted with a rush of cold along with Czolg and Oscorn.
 
-All seemed quiet so Czolg opened the door to the west across from the dragon's lair
+The blue beast ran away as Czolg continued to slay ogres that were trying to get to the door. More much larger giants appeared inside the western door as the ogres, frost, and stone giants continued to attack. Silvius cast a wall of force eight feet above the ground. High enough for us to stand, but not the giants and barely the ogres. Silvius also blocked the door with the exception of a five foot door.  
 
-Stone giant appeared from the cave entrance to the north
+An ogre tried to roll the boulder back to the door while the wall of force blocked his efforts as Silvius mocked him. Czolg stepped under the wall of force and returned to stabbing ogres. 
 
-Ogres swarmed from the western door
-
-Stone giant ran in fear and knocked over the frost giant
-
-ADC created a wall of ice from his staff hitting two ogres. one was cut in half
-
-ADC ran to the dragon lair yelling to seal everyone back inside, but the BOLDOOR wasn't in place
-
-Suddendly darkness surrounded the party
-
-Czolg's armor has an evocation spell cast on his armor for darkness so it's following him.
-
-Phantom dog is out
+Then Oscorn is lifted off the ground slightly before he gains control of himself and drops back down. Next Czolg is grabbed and pulled further away from the team.
+Will Czolg escape the giant’s magical grasp? Can the party make it back safely to the dragons’ lair? Is the dragons’ lair safe? Or will the team fight the entire frost giant army? 
