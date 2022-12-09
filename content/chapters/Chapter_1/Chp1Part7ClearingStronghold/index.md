@@ -124,7 +124,14 @@ Kalinar laughed and slapped ADC on the back saying “we’re lucky we’re not 
   
   
 ADC refused while the rest toasted and finished passing it around. The wine was strangely delicious and powerful enough for giants. Everyone but ADC enjoyed it. After the first round, Kalinar, Kazzug, and Silvius kept going. Silvius and Kazzug held their drink and stopped. Kalinar was hooked and only Czolg poking holes in the wine flask could get him to stop.  Kalinar was only then ready to move on and started stumbling around and babbling incoherently.
-  
+
+<center>
+  {{<imageToClick imagePath = "DALL·E 2022-12-09 00.37.04 - Realistic a slender green skinned half-orc warlock with purple robes getting drunk on wine from a wine skin cork in his teeth.png" Capition = "Kalinar was only then ready to move on and started stumbling around and babbling incoherently"  width = "50%" >}}
+</center>
+<br>
+<br>
+
+
   
 The team then began searching the northern part of the lower level. They found rooms that were under construction and another room that appeared to be a giant’s sleeping quarters. They found 4,000 gold coins in one of the chests but nothing else of interest. They next found a room filled with wine barrels. It looked and smelled like the wine from the sack. Kalinar desperately tried to get one more drink, but Czolg and Oscorn pulled him away, while Silvius filled up his wine skin for later.
   
