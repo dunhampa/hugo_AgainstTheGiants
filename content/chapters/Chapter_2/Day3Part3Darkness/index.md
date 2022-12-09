@@ -5,9 +5,9 @@ draft: false
 summary: "The Prince of Darkness works with the orge and giants against the party"
 weight: 5
 ---
-<b>
-<b>
-<b>
+<br>
+<br>
+<br>
 
 ### The Princess of Darkness
 
@@ -16,9 +16,9 @@ weight: 5
   {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png"  width = "60%" >}}
   
 
-  <b>
-    <b>
-      <b>
+  <br>
+    <br>
+      <br>
 
   {{<imageToClick imagePath = "ThePrinceOfDarknessRoll20.png" Capition = "Roll20 battle map"  width = "60%" >}}
   
