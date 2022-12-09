@@ -5,10 +5,20 @@ draft: false
 summary: "The Prince of Darkness works with the orge and giants against the party"
 weight: 5
 ---
+<b>
+<b>
+<b>
 
+### The Princess of Darkness
 
-## The Princess of Darkness
+<center>
 
+  {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png"  width = "75%" >}}
+  
+</center>
+
+  
+  
 <center>
 
   {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png"  width = "75%" >}}
