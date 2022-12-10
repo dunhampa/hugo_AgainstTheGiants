@@ -124,4 +124,11 @@ Cloud giant misty stepped and ran
 
   {{<imageToClick imagePath = "ThePrinceOfDarknessRoll20.png" Capition = "Roll20 battle map"  width = "60%" >}}
   
+
+
+
+
+
+  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-11-12 17.40.44 - An old warrior giant wrinkled and mean with frost beard and giant frost axe lit face in dark background.png" Capition = "giant test"  width = "60%" >}}
+  
 </center>
