@@ -39,7 +39,7 @@ The Frost giant swung its massive axe at Oscorn again as Silvius tried to distra
 
 ADC shouted, "I'm casting a spell that is kind of tiring! I wouldn't be doing this if I thought I could make it out of here without you!" His words were met with determination from his friends, who knew that they needed to work together to survive.
 
-Suddenly, a Stone giant appeared and hit Silvius with a massive boulder. Silvius held his concentration, determined to keep his spell active despite the pain. Fenuirs ran forward and shot an arrow at the Ogre, hoping to provide some relief for his friends.
+Suddenly, the Stone giant slung and hit Silvius with a massive boulder. Silvius held his concentration, determined to keep his spell active despite the pain. Fenuirs ran forward and shot an arrow at the Ogre, hoping to provide some relief for her friends.
 
 Kalinar, however, was not so lucky. An Ogre's club hit him with a brutal strike, smashing his upper right arm and severely injuring him. Despite the pain, Kalinar continued to fight, knowing that his friends were counting on him. 
 
@@ -65,7 +65,9 @@ The Ogres beat Slad to death as he lay on the ground, unable to defend himself. 
 
 The Cloud giant and Kalinar discussed the situation, with the Cloud giant suggesting that they could talk with Jarl to resolve their differences. Kalinar, however, denied the idea, insisting that they needed to continue fighting to protect themselves and their friends.
 
-The Stone giant tried to crawl away again, but Czolg stopped it and pulled it back with a panzerfaust strike. Fenuirs killed another Ogre with her bow, and Czolg continued to stab the Stone giant. Kalinar used his tentacles to slap an Ogre to death, finally finishing off the remaining creatures.
+The Stone giant tried to crawl away again, but Czolg stopped it and stopped it with a Panzerfaust strike. Fenuirs killed another Ogre with her bow, and Czolg continued to stab the Stone giant. Kalinar used his tentacles to slap an Ogre to death, finally finishing off the remaining creatures.
+  
+As the stone giant wound up to swing, Czolg reached for a deep black, obsidian stone hanging from his neck. Upon hit, Czolg invoked the powers of a once great cloud giant. The energy from his strike transformed into a swirling orb of wind that flew towards the POD and struck him dead.
   
 ADC cast a wall of ice that cut the Stone giant in half, sending the massive creature crashing to the ground. The Cloud and Frost giants, seeing that they were outnumbered and outmatched, fled from the battlefield.
 
