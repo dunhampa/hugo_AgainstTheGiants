@@ -6,14 +6,6 @@ summary: "The Prince of Darkness works with the orge and giants against the part
 weight: 5
 ---
 <br>
-
-### The Princess of Darkness
-
-<center>
-
-  {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png"  width = "60%" >}}
-  
-</center>
   
 The battle raged on around Oscorn as he struggled to free himself from the grip of the telekinetic force that had pulled him out into the open. He felt the rope around his belt grow taut as Silvius anchored him to the rope, preventing him from being pulled any further.
 
@@ -22,6 +14,12 @@ Kalinar leapt into action, jumping up onto an invisible wall of force and shooti
 Oscorn fought back against the Ogre in front of him, using the power of his god to strike at the creature until it fell at his feet. He took a moment to catch his breath and survey the battlefield, taking in the chaos and destruction all around him.
 
 Suddenly, a new threat emerged. The Prince of Darkness, now a human-sized figure wielding a glaive that he swung at Oscorn with deadly precision. Oscorn narrowly dodged the worst of the attack and scrambled to his feet, ready for the next strike.
+
+<center>
+
+  {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png"  width = "60%" >}}
+  
+</center>
 
 Silvius, never one to back down from a challenge, viciously mocked the next Ogre that approached, goading it into attacking him. The creature, enraged by Silvius' taunts, swung its massive club at him, but Silvius was ready and easily sidestepped the attack.
 
@@ -40,6 +38,13 @@ The Frost giant swung its massive axe at Oscorn again as Silvius tried to distra
 ADC shouted, "I'm casting a spell that is kind of tiring! I wouldn't be doing this if I thought I could make it out of here without you!" His words were met with determination from his friends, who knew that they needed to work together to survive.
 
 Suddenly, the Stone giant slung and hit Silvius with a massive boulder. Silvius held his concentration, determined to keep his spell active despite the pain to keep the wall of force in place and continue providing a valuable shield for his friends. 
+  
+<center>
+
+  {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "Suddenly, the Stone giant slung and hit Silvius with a massive boulder."  width = "60%" >}}
+  
+</center>  
+  
 
 Fenuirs ran forward and shot an arrow around ADC, taking out an Ogre that was threatening his friend. Kalinar, however, was not so lucky. He was hit with an Ogre's club, a brutal blow that smashed his upper right arm and left him severely injured.
   
