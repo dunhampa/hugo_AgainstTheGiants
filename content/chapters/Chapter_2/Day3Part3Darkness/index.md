@@ -39,11 +39,7 @@ The Frost giant swung its massive axe at Oscorn again as Silvius tried to distra
 
 ADC shouted, "I'm casting a spell that is kind of tiring! I wouldn't be doing this if I thought I could make it out of here without you!" His words were met with determination from his friends, who knew that they needed to work together to survive.
 
-Suddenly, the Stone giant slung and hit Silvius with a massive boulder. Silvius held his concentration, determined to keep his spell active despite the pain. Fenuirs ran forward and shot an arrow at the Ogre, hoping to provide some relief for her friends.
-
-Kalinar, however, was not so lucky. An Ogre's club hit him with a brutal strike, smashing his upper right arm and severely injuring him. Despite the pain, Kalinar continued to fight, knowing that his friends were counting on him. 
-
-The battle raged on as the Stone giant struck at Silvius with a massive boulder. Silvius, though nearly distracted by the pain, held his concentration and kept the wall of force in place, providing a valuable shield for his friends.
+Suddenly, the Stone giant slung and hit Silvius with a massive boulder. Silvius held his concentration, determined to keep his spell active despite the pain to keep the wall of force in place and continue providing a valuable shield for his friends. 
 
 Fenuirs ran forward and shot an arrow around ADC, taking out an Ogre that was threatening his friend. Kalinar, however, was not so lucky. He was hit with an Ogre's club, a brutal blow that smashed his upper right arm and left him severely injured.
   
@@ -51,9 +47,11 @@ Oscorn, seeing that the situation was becoming increasingly dangerous, ran back 
 
 Czolg, wielding Panzerfaust with deadly precision, killed an Ogre with a well-placed strike. Silvius, seeing an opportunity, jumped back into the dragon's lair and landed on the ground. He began to mock an Ogre, goading it into attacking him.
 
-A Cloud giant appeared and chased Silvius, its massive form casting a mist around the wall of force. The Stone giant struck at Czolg, but Czolg used his rune to deflect the attack and kill the Prince of Darkness.
+A Cloud giant appeared and chased Silvius, its massive form casting a mist around the wall of force.    
 
-Fenuirs continued to shoot arrows at the Stone giant, and managed to disarm an Ogre that was threatening ADC. The Ogre's club fell to the ground, but not before it hit ADC with a vicious blow. The Ogres continued to attack, hitting Slad and threatening to overwhelm the group.
+Fenuirs continued to shoot arrows at the Stone giant, and managed to disarm an Ogre that was threatening ADC. The Ogre's club fell to the ground, but not before it hit ADC with a vicious blow. The Ogres continued to attack, hitting Slad and threatening to overwhelm the group. 
+  
+As the stone giant wound up to swing, Czolg reached for a deep black, obsidian stone hanging from his neck. Upon hit, Czolg invoked the powers of a once great cloud giant. The energy from his strike transformed into a swirling orb of wind that flew towards the Prince of Darkness and struck him dead. 
 
 Oscorn, desperate for a break in the beating, begged for a moment of peace. Czolg, hearing his friend's plea, killed another Ogre and then turned to the Stone giant, stabbing it with his spear as he yelled "I'm working on it!" 
 
@@ -61,15 +59,13 @@ The battle raged on as Silvius cast another wall of force, pushing the Frost gia
 
 Kalinar, meanwhile, killed an Ogre with a series of magical blasts, each one striking true and taking out another of the monstrous creatures. The Stone giant tried to crawl away, but Fenuirs volleyed arrows at him with her bow.
 
-The Ogres beat Slad to death as he lay on the ground, unable to defend himself. Czolg attacked a Stone giant and stabbed it, but it continued to crawl away, determined to escape. Silvius, seeing this, used his fire sword to stab the giant in the butt, finally stopping its escape.
+The Ogres knocked sSlad down and beat Slad to death as he lay on the ground, unable to defend himself. Czolg attacked a Stone giant and stabbed it, but it continued to crawl away, determined to escape. Silvius, seeing this, used his fire sword to stab the giant in the butt, finally stopping its escape.
 
-The Cloud giant and Kalinar discussed the situation, with the Cloud giant suggesting that they could talk with Jarl to resolve their differences. Kalinar, however, denied the idea, insisting that they needed to continue fighting to protect themselves and their friends.
+The Cloud giant and Kalinar discussed the situation, with Kalinar suggesting that they could talk with Jarl to resolve their differences. The Cloud giant, however, denied the idea, insisting that this could only end in the teams death at the hands of the giants.
 
 The Stone giant tried to crawl away again, but Czolg stopped it and stopped it with a Panzerfaust strike. Fenuirs killed another Ogre with her bow, and Czolg continued to stab the Stone giant. Kalinar used his tentacles to slap an Ogre to death, finally finishing off the remaining creatures.
   
-As the stone giant wound up to swing, Czolg reached for a deep black, obsidian stone hanging from his neck. Upon hit, Czolg invoked the powers of a once great cloud giant. The energy from his strike transformed into a swirling orb of wind that flew towards the POD and struck him dead.
-  
-ADC cast a wall of ice that cut the Stone giant in half, sending the massive creature crashing to the ground. The Cloud and Frost giants, seeing that they were outnumbered and outmatched, fled from the battlefield.
+ADC cast a wall of ice that cut the Stone giant in half, sending the massive creature crashing to the ground. The Cloud and Frost giants, seeing that they were outnumbered and outmatched, started to flee from the battlefield. Oscorn quickly held the frost giant in place with his divine magic.
 
 Fenuirs held her arrows and shot at the Frost giant as it fled, but the creature was too fast and managed to dodge her attacks. The Frost giant, injured and distracted by arrows, was quickly finsihed off by Silvius' flaming sword.
   
@@ -77,9 +73,7 @@ Fenuirs held her arrows and shot at the Frost giant as it fled, but the creature
 
 Silvius, seeing that Czolg was struggling to catch the giant, ran up to him while grabbing Panzerfaust from the ground. He teleported in front of the Cloud giant, surprising the creature with his sudden appearance. 
 
-ADC, seeing that the cloud giant was getting away, cast a wall of ice in front of it, cutting it in half and finally bringing it to a stop. Fenuirs set her hunters mark and struck with her bow, finally taking down the giant once and for all.
-
-Oscorn, seeing the cloud giant may escape and bring more giants to the fight, threw his javelin of lightning at the Cloud giant, striking it with a powerful blast of energy. Czolg attempted to run and throw a javelin at the creature, but it was too late. The Cloud giant misty stepped and continued running deeper in to Jarl's stronghold.
+Oscorn, seeing the cloud giant may escape and bring more giants to the fight, threw his javelin of lightning at the Cloud giant, striking it with a powerful blast of energy. Czolg attempted to stop the cloud giant with a strike from Panzerfaust, but it was too late. The Cloud giant misty stepped and continued running deeper in to Jarl's stronghold.
   
 Can the team stop and kill the cloud giant? Will the survive another wave of giants and enemies? Will the find a place to regroup and recover from the battle? We'll find out next time.
 
