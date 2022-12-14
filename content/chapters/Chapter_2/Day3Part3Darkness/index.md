@@ -6,8 +6,6 @@ summary: "The Prince of Darkness works with the orge and giants against the part
 weight: 5
 ---
 <br>
-<br>
-<br>
 
 ### The Princess of Darkness
 
@@ -82,7 +80,6 @@ Can the team stop and kill the cloud giant? Will the survive another wave of gia
   <center>
 
   {{<imageToClick imagePath = "ThePrinceOfDarknessRoll20.png" Capition = "Roll20 battle map"  width = "60%" >}}
-  
-  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-11-12 17.40.44 - An old warrior giant wrinkled and mean with frost beard and giant frost axe lit face in dark background.png" Capition = "giant test"  width = "60%" >}}
+ 
   
 </center>
