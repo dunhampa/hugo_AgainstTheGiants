@@ -14,113 +14,72 @@ weight: 5
 <center>
 
   {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png"  width = "60%" >}}
-Silvius ties a rope around Oscorn’s belt
+  
+The battle raged on around Oscorn as he struggled to free himself from the grip of the telekinetic force that had pulled him out into the open. He felt the rope around his belt grow taut as Silvius anchored him to the rope, preventing him from being pulled any further.
 
-Oscorn was magically pulled out
+Kalinar leapt into action, jumping up onto an invisible wall of force and shooting at the magical force beneath his feet as Silvius shot him a face-palm stare. ADC joined the fray, running up to an Ogre and killing it by taking advantage of his wounds by tolling the dead.
 
-Kalinar jumped up on the WoF and shot the wall of force ground beneath him
+Oscorn fought back against the Ogre in front of him, using the power of his god to strike at the creature until it fell at his feet. He took a moment to catch his breath and survey the battlefield, taking in the chaos and destruction all around him.
 
-ADC ran up and killed an Ogre by tolling the dead
+Suddenly, a new threat emerged. The Prince of Darkness, now a human-sized figure wielding a glaive that he swung at Oscorn with deadly precision. Oscorn narrowly dodged the worst of the attack and scrambled to his feet, ready for the next strike.
 
-Oscorn killed the Ogre in front of him and ran his feet around the ground
+Silvius, never one to back down from a challenge, viciously mocked the next Ogre that approached, goading it into attacking him. The creature, enraged by Silvius' taunts, swung its massive club at him, but Silvius was ready and easily sidestepped the attack.
 
-Silvius viciously mocked the next ogre
+The Frost giant roared and swung its massive fist at Oscorn, barely grazing his arm as he ducked out of the way. The telekinetic force pulling at him grew stronger, threatening to drag him further into the fray.
 
-Master of darkness appeared human size and swung at Oscorn and missed with his glaive 
+Oscorn gritted his teeth and fought back against the giants, determined to survive and protect his friends. He knew that they were all in this battle together, and that they would emerge victorious if they worked together and fought with all their might.
 
-Oscorn gets pulled further out
+Kalinar raised his hand and cast a powerful enervation spell, putting piercing tentacles of inky darkness into the Prince of Darkness. The tentacles drained the life from the prince, weakening him with each passing moment.
 
-Frost giant swung at Oscorn and barely hit him (14 damage)
+ADC summoned Slad, a powerful creature that immediately began attacking the Prince of Darkness and the other monsters on the battlefield. Oscorn, still caught in the grip of the telekinetic force, misty stepped back up onto the invisible wall of force, but he was still within the grasp of the giants.
 
-Kalinar cast enervation and put tentacles in to the master of darkness
+Silvius, seeing that Oscorn was in trouble, grabbed the rope from Fenuirs and jumped up onto the wall of force. He quickly again tied off the rope around Oscorn's belt, securing him in place. Silvius then closed his eyes and prayed for sanctuary, hoping to protect himself from the dangers around them.
 
-ADC summoned Slad that started attacking.
+The Frost giant swung its massive axe at Oscorn again as Silvius tried to distract the giant with a well-placed taunt. Meanwhile, Kalinar continued to hurt the Master of Darkness with his inky tentacles, weakening the creature as time passed.
 
-Oscorn misty stepped back up on top of WoF, but still was in grasp
+ADC shouted, "I'm casting a spell that is kind of tiring! I wouldn't be doing this if I thought I could make it out of here without you!" His words were met with determination from his friends, who knew that they needed to work together to survive.
 
-Silvius grabbed the rope from Fenuris, jumped up the wof, and tied off tim. Then prayed for sanctuary
+Suddenly, a Stone giant appeared and hit Silvius with a massive boulder. Silvius held his concentration, determined to keep his spell active despite the pain. Fenuirs ran forward and shot an arrow at the Ogre, hoping to provide some relief for his friends.
 
-Frost giant hit Oscorn, Silvius tried to distract him
+Kalinar, however, was not so lucky. An Ogre's club hit him with a brutal strike, smashing his upper right arm and severely injuring him. Despite the pain, Kalinar continued to fight, knowing that his friends were counting on him. 
 
-Kalinar kept hurting the master of darkness with his inky tentacle 
+The battle raged on as the Stone giant struck at Silvius with a massive boulder. Silvius, though nearly distracted by the pain, held his concentration and kept the wall of force in place, providing a valuable shield for his friends.
 
-ADC “I’m casting a spell that is kind of tiring! I wouldn’t be doing this if I thought I could make it out of here without you”
+Fenuirs ran forward and shot an arrow around ADC, taking out an Ogre that was threatening his friend. Kalinar, however, was not so lucky. He was hit with an Ogre's club, a brutal blow that smashed his upper right arm and left him severely injured.
+  
+Oscorn, seeing that the situation was becoming increasingly dangerous, ran back and jumped off the invisible wall of force. He hid behind a nearby rock, hoping to catch his breath and regroup with his friends.
 
-Stone giant hit Silvius with a bolder. Silvius held concentration
+Czolg, wielding Panzerfaust with deadly precision, killed an Ogre with a well-placed strike. Silvius, seeing an opportunity, jumped back into the dragon's lair and landed on the ground. He began to mock an Ogre, goading it into attacking him.
 
-Fenuirs ran forward and shot an arrow around ADC at the ogre
+A Cloud giant appeared and chased Silvius, its massive form casting a mist around the wall of force. The Stone giant struck at Czolg, but Czolg used his rune to deflect the attack and kill the Prince of Darkness.
 
-Kalinar as hit with an Ogres club, brutal hit, upper right arm smashed. 
+Fenuirs continued to shoot arrows at the Stone giant, and managed to disarm an Ogre that was threatening ADC. The Ogre's club fell to the ground, but not before it hit ADC with a vicious blow. The Ogres continued to attack, hitting Slad and threatening to overwhelm the group.
 
-Oscorn ran back off the wof and hid.
+Oscorn, desperate for a break in the beating, begged for a moment of peace. Czolg, hearing his friend's plea, killed another Ogre and then turned to the Stone giant, stabbing it with his spear as he yelled "I'm working on it!" 
 
-Czolg killed an Ogre with his spear
+The battle raged on as Silvius cast another wall of force, pushing the Frost giant up into the air and the Stone giant down to the ground. The giants struggled against the magical barrier, but Silvius held them in place with his powerful magic.
 
-Silvius jumped back in the dragon’s lair over the WoF and landed on the ground. While mocking mocking an ogre
+Kalinar, meanwhile, killed an Ogre with a series of magical blasts, each one striking true and taking out another of the monstrous creatures. The Stone giant tried to crawl away, but Fenuirs volleyed arrows at him with her bow.
 
-Cloud giant chased Silvius and mist formed around the wall of force 
+The Ogres beat Slad to death as he lay on the ground, unable to defend himself. Czolg attacked a Stone giant and stabbed it, but it continued to crawl away, determined to escape. Silvius, seeing this, used his fire sword to stab the giant in the butt, finally stopping its escape.
 
-The stone giant struck at Czolg, Czolg used his rune to deflect to the master of darkness and killed him. I've got a necklace with a obsidian stone at the end of it. I grabbed it, rubbed it with my thumb to invoke it's abilities
+The Cloud giant and Kalinar discussed the situation, with the Cloud giant suggesting that they could talk with Jarl to resolve their differences. Kalinar, however, denied the idea, insisting that they needed to continue fighting to protect themselves and their friends.
 
+The Stone giant tried to crawl away again, but Czolg stopped it and pulled it back with a panzerfaust strike. Fenuirs killed another Ogre with her bow, and Czolg continued to stab the Stone giant. Kalinar used his tentacles to slap an Ogre to death, finally finishing off the remaining creatures.
+  
+ADC cast a wall of ice that cut the Stone giant in half, sending the massive creature crashing to the ground. The Cloud and Frost giants, seeing that they were outnumbered and outmatched, fled from the battlefield.
 
-Fenuris shot arrows at the stone giant. And disarmed the ogre in front of ADC. Club fell to the ground.
+Fenuirs held her arrows and shot at the Frost giant as it fled, but the creature was too fast and managed to dodge her attacks. The Frost giant, injured and distracted by arrows, was quickly finsihed off by Silvius' flaming sword.
+  
+"I lost my hold!" screamed Oscorn, as the Cloud giant managed to slip away from Oscorn's devine hold. "I can't stop him!" Kalinar shouted, slamming the giant with eldritch blasts in an attempt to slow it down. The cloud giant sprinted off seeming determined to warn the others. Czolg charged at the cloud giant to catch up to it and strike it down.
 
-Ogre his ADC with a vicious (critical) blow
+Silvius, seeing that Czolg was struggling to catch the giant, ran up to him while grabbing Panzerfaust from the ground. He teleported in front of the Cloud giant, surprising the creature with his sudden appearance. 
 
-Ogre’s hit the slad
+ADC, seeing that the cloud giant was getting away, cast a wall of ice in front of it, cutting it in half and finally bringing it to a stop. Fenuirs set her hunters mark and struck with her bow, finally taking down the giant once and for all.
 
-Oscorn begged for a break in the beating
-
-Czolg killed an Ogre and stabbed the stone giant
-
-Silvius cast WoF and pushed the frost giant up and the stone giant down
-
-Kalinar killed an ogre with magical blasts
-
-Stone giant tries to crawl away
-
-Fenuris volleyed at the Ogres
-
-Ogres beat slad to death as he laid on the ground
-
-Czolg attacked a stone giant and stabbed him
-
-Silvius fire sword stabbed the stone giant in the butt as he crawled away
-
-Cloud giant and Kalinar discussed. We can talk with Jarl. Kalinar denied 
-
-Stone giant tried to crawl away, Czolg stopped him and pulled him back with a panzerfaust strike
-
-Fennuirs killed an ogre with her bow
-
-Czolg stabbed the stone giant
-
-Kalinar tentacle slapped a ogre to death
-
-ADC cut the stone giant in half with a wall of ice
-
-The cloud giant and frost giant fleed
-
-Fenuris held arrows and shot at the frost giant as he fled
-
-Czolg charged the giant and and stabbed him
-
-Silvius killed the frost giant with a flaming sword
-
-“I lost my hold!” screamed Oscorn
-
-Kalinar said “I can’t stop him” put slammed him with eldritch blasts
-
-ADC cast wall of ice and cut in the middle of the cloud giant fleeing
-
-Fenurris set hunters mark, and struck with her bow
-Oscorn throws his javelin of lightning and strikes the cloud giant. 
-
-Czolg attempted to run and throw a javelin.
-
-Silvius ran up to Czolg, grabbed Panzerfaust, and teleported in front of the cloud giant
-
-Cloud giant misty stepped and ran
+Oscorn, seeing the cloud giant may escape and bring more giants to the fight, threw his javelin of lightning at the Cloud giant, striking it with a powerful blast of energy. Czolg attempted to run and throw a javelin at the creature, but it was too late. The Cloud giant misty stepped and continued running deeper in to Jarl's stronghold.
+  
+Can the team stop and kill the cloud giant? Will the survive another wave of giants and enemies? Will the find a place to regroup and recover from the battle? We'll find out next time.
 
   {{<imageToClick imagePath = "ThePrinceOfDarknessRoll20.png" Capition = "Roll20 battle map"  width = "60%" >}}
   
