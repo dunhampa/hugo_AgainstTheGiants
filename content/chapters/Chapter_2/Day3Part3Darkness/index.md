@@ -15,6 +15,8 @@ weight: 5
 
   {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png"  width = "60%" >}}
   
+</center>
+  
 The battle raged on around Oscorn as he struggled to free himself from the grip of the telekinetic force that had pulled him out into the open. He felt the rope around his belt grow taut as Silvius anchored him to the rope, preventing him from being pulled any further.
 
 Kalinar leapt into action, jumping up onto an invisible wall of force and shooting at the magical force beneath his feet as Silvius shot him a face-palm stare. ADC joined the fray, running up to an Ogre and killing it by taking advantage of his wounds by tolling the dead.
@@ -76,14 +78,11 @@ Silvius, seeing that Czolg was struggling to catch the giant, ran up to him whil
 Oscorn, seeing the cloud giant may escape and bring more giants to the fight, threw his javelin of lightning at the Cloud giant, striking it with a powerful blast of energy. Czolg attempted to stop the cloud giant with a strike from Panzerfaust, but it was too late. The Cloud giant misty stepped and continued running deeper in to Jarl's stronghold.
   
 Can the team stop and kill the cloud giant? Will the survive another wave of giants and enemies? Will the find a place to regroup and recover from the battle? We'll find out next time.
+  
+  <center>
 
   {{<imageToClick imagePath = "ThePrinceOfDarknessRoll20.png" Capition = "Roll20 battle map"  width = "60%" >}}
   
-
-
-
-
-
   {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-11-12 17.40.44 - An old warrior giant wrinkled and mean with frost beard and giant frost axe lit face in dark background.png" Capition = "giant test"  width = "60%" >}}
   
 </center>
