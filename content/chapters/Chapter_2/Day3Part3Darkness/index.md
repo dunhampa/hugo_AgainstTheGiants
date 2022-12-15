@@ -10,12 +10,14 @@ weight: 5
 
   <div class="row">
     <div class="col-sm">
-     
+     <br>
   {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-14 21.47.32 - medieval chainmail armored elf warrior pulled into air floating by telekinetic force in dark cave_cleanup.png" Capition = "Oscorn is contorted as a telekinetic force pulls him away"  width = "100%" >}}
-      
+      <br>
    </div>
     <div class="col-sm">
+    <br>
      The battle raged on around Oscorn as he struggled to free himself from the grip of the telekinetic force that had pulled him out into the open. He felt the rope around his belt grow taut as Silvius anchored him to the rope, preventing him from being pulled any further.
+     <br>
      <br>
 Kalinar leapt into action, jumping up onto an invisible wall of force and shooting at the magical force beneath his feet as Silvius shot him a face-palm stare. ADC joined the fray, running up to an Ogre and killing it by taking advantage of his wounds by tolling the dead.
     </div>
@@ -36,23 +38,72 @@ Oscorn fought back against the Ogre in front of him, using the power of his god 
   
   <div class="row">
     <div class="col-sm">  
+    <br>
 Suddenly, a new threat emerged. The Prince of Darkness, now a human-sized figure wielding a glaive that he swung at Oscorn with deadly precision. Oscorn narrowly dodged the worst of the attack and scrambled to his feet, ready for the next strike.
+ <br><br>
+ Silvius, never one to back down from a challenge, viciously mocked the next Ogre that approached, goading it into attacking him. The creature, enraged by Silvius' taunts, swung its massive club at him, but Silvius was ready and easily sidestepped the attack.
+ <br>
  </div>
     <div class="col-sm">      
 <center>
-
+<br>
   {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png"  width = "100%" >}}
+<br>
 </center>
       </div>
   </div>
+<br>
 
-Silvius, never one to back down from a challenge, viciously mocked the next Ogre that approached, goading it into attacking him. The creature, enraged by Silvius' taunts, swung its massive club at him, but Silvius was ready and easily sidestepped the attack.
 
-The Frost giant roared and swung its massive fist at Oscorn, barely grazing his arm as he ducked out of the way. The telekinetic force pulling at him grew stronger, threatening to drag him further into the fray.
 
+
+  <div class="row">
+    <div class="col-sm">
+     <br>
+  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-14 22.17.56 - An old warrior giant wrinkled and mean with frost beard angrily swinging  a huge metal battle axe over his head in a dark background.png" Capition = "The Frost giant roared and swung its massive fist at Oscorn"  width = "100%" >}}
+      <br>
+   </div>
+    <div class="col-sm">
+    <br>
+   The Frost giant roared and swung its massive fist at Oscorn, barely grazing his arm as he ducked out of the way. The telekinetic force pulling at him grew stronger, threatening to drag him further into the fray.
+     <br>
+     <br>
 Oscorn gritted his teeth and fought back against the giants, determined to survive and protect his friends. He knew that they were all in this battle together, and that they would emerge victorious if they worked together and fought with all their might.
+    </div>
+  </div>
 
+
+
+<br><br>
+
+
+
+<div class="row">
+    <div class="col-sm">  
+    <br>
 Kalinar raised his hand and cast a powerful enervation spell, putting piercing tentacles of inky darkness into the Prince of Darkness. The tentacles drained the life from the prince, weakening him with each passing moment.
+ <br><br>
+ <br>
+ </div>
+    <div class="col-sm">      
+<center>
+<br>
+  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-09 23.20.16 - A single realistic inky black tentacle cuts through the smog in a dark room.png" Capition = "Kalinar evokes piercing tentacles of inky darkness"  width = "100%" >}}
+<br>
+</center>
+      </div>
+  </div>
+<br>
+
+
+
+
+
+
+
+
+
+
 
 ADC summoned Slad, a powerful creature that immediately began attacking the Prince of Darkness and the other monsters on the battlefield. Oscorn, still caught in the grip of the telekinetic force, misty stepped back up onto the invisible wall of force, but he was still within the grasp of the giants.
 
