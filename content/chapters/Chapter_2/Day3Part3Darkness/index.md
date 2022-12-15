@@ -16,6 +16,8 @@ weight: 5
    </div>
     <div class="col-sm">
      The battle raged on around Oscorn as he struggled to free himself from the grip of the telekinetic force that had pulled him out into the open. He felt the rope around his belt grow taut as Silvius anchored him to the rope, preventing him from being pulled any further.
+     <br>
+Kalinar leapt into action, jumping up onto an invisible wall of force and shooting at the magical force beneath his feet as Silvius shot him a face-palm stare. ADC joined the fray, running up to an Ogre and killing it by taking advantage of his wounds by tolling the dead.
     </div>
   </div>
       
@@ -28,7 +30,6 @@ weight: 5
   
 
 
-Kalinar leapt into action, jumping up onto an invisible wall of force and shooting at the magical force beneath his feet as Silvius shot him a face-palm stare. ADC joined the fray, running up to an Ogre and killing it by taking advantage of his wounds by tolling the dead.
 
 Oscorn fought back against the Ogre in front of him, using the power of his god to strike at the creature until it fell at his feet. He took a moment to catch his breath and survey the battlefield, taking in the chaos and destruction all around him.
 
