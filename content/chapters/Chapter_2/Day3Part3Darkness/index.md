@@ -11,13 +11,7 @@ weight: 5
   <div class="row">
     <div class="col-sm">
      
- 
-
-
-
   {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-14 21.47.32 - medieval chainmail armored elf warrior pulled into air floating by telekinetic force in dark cave_cleanup.png" Capition = "Oscorn is contorted as a telekinetic force pulls him away"  width = "100%" >}}
-      
-      
       
    </div>
     <div class="col-sm">
@@ -38,13 +32,18 @@ Kalinar leapt into action, jumping up onto an invisible wall of force and shooti
 
 Oscorn fought back against the Ogre in front of him, using the power of his god to strike at the creature until it fell at his feet. He took a moment to catch his breath and survey the battlefield, taking in the chaos and destruction all around him.
 
+  
+  <div class="row">
+    <div class="col-sm">  
 Suddenly, a new threat emerged. The Prince of Darkness, now a human-sized figure wielding a glaive that he swung at Oscorn with deadly precision. Oscorn narrowly dodged the worst of the attack and scrambled to his feet, ready for the next strike.
-
+ </div>
+    <div class="col-sm">      
 <center>
 
-  {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png"  width = "60%" >}}
-  
+  {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png"  width = "100%" >}}
 </center>
+      </div>
+  </div>
 
 Silvius, never one to back down from a challenge, viciously mocked the next Ogre that approached, goading it into attacking him. The creature, enraged by Silvius' taunts, swung its massive club at him, but Silvius was ready and easily sidestepped the attack.
 
