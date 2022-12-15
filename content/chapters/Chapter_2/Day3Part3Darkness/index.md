@@ -6,6 +6,15 @@ summary: "The Prince of Darkness works with the orge and giants against the part
 weight: 5
 ---
 <br>
+
+<center>
+
+  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-14 21.47.32 - medieval chainmail armored elf warrior pulled into air floating by telekinetic force in dark cave_cleanup.png  " Capition = "The battle raged on around Oscorn as he struggled to free himself from the grip of the telekinetic force that had pulled him out into the open. He felt the rope around his belt grow taut as Silvius anchored him to the rope, preventing him from being pulled any further."  width = "60%" >}}
+  
+</center>
+  
+
+  
   
 The battle raged on around Oscorn as he struggled to free himself from the grip of the telekinetic force that had pulled him out into the open. He felt the rope around his belt grow taut as Silvius anchored him to the rope, preventing him from being pulled any further.
 
