@@ -93,7 +93,7 @@ Silvius, seeing that Oscorn was in trouble, grabbed the rope from Fenuirs and ju
   <div class="row">
     <div class="col-sm">
      <br>
-  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-14 22.17.56 - An old warrior giant wrinkled and mean with frost beard angrily swinging  a huge metal battle axe over his head in a dark background.png" Capition = "The Frost giant roared and swung its massive fist at Oscorn"  width = "100%" >}}
+  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-14 22.17.56 - An old warrior giant wrinkled and mean with frost beard angrily swinging  a huge metal battle axe over his head in a dark background.png" Capition = "The Frost giant swung its massive axe at Oscorn again as Silvius tried to distract the giant with a well-placed taunt"  width = "100%" >}}
       <br>
    </div>
     <div class="col-sm">
@@ -117,7 +117,8 @@ Suddenly, the Stone giant slung and hit Silvius with a massive boulder. Silvius 
     <div class="col-sm">      
 <center>
 <br>
-  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-09 23.59.14 - An giant warrior slings a large rock into the air at the camera  with dark background_cleanup.png" Capition = "The Prince of Darkness, now a human-sized figure wielding a glaive that he swung at Oscorn with deadly precision"  width = "100%" >}}
+  {{<imageToClickGlobal imagePath = "/img/
+  DALL·E 2022-12-09 23.59.14 - An giant warrior slings a large rock into the air at the camera  with dark background_cleanup.png" Capition = "the Stone giant slung and hit Silvius with a massive boulder"  width = "100%" >}}
 <br>
 </center>
       </div>
