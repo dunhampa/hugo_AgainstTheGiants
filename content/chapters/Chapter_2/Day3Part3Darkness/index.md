@@ -159,7 +159,7 @@ Silvius, seeing that Czolg was struggling to catch the giant, ran up to him whil
 
 Oscorn, seeing the cloud giant may escape and bring more giants to the fight, threw his javelin of lightning at the Cloud giant, striking it with a powerful blast of energy. Czolg attempted to stop the cloud giant with a strike from Panzerfaust, but it was too late. The Cloud giant misty stepped and continued running deeper in to Jarl's stronghold.
   
-Can the team stop and kill the cloud giant? Will the survive another wave of giants and enemies? Will the find a place to regroup and recover from the battle? We'll find out next time.
+Can the team stop and kill the cloud giant? Will they survive another wave of giants and enemies? Will they find a place to regroup and recover from the battle? We'll find out next time.
   
   <center>
 
