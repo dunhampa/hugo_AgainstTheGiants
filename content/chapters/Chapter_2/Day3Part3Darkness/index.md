@@ -126,18 +126,6 @@ Suddenly, the Stone giant slung and hit Silvius with a massive boulder. Silvius 
 <br>
 
 
-
-
-
-
-<center>
-
-  {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "Suddenly, the Stone giant slung and hit Silvius with a massive boulder."  width = "60%" >}}
-  
-</center>  
-  
-
-
   
 Oscorn, seeing that the situation was becoming increasingly dangerous, ran back and jumped off the invisible wall of force. He hid behind a nearby rock, hoping to catch his breath and regroup with his friends.
 
