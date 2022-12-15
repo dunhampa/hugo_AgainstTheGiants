@@ -47,7 +47,7 @@ Suddenly, a new threat emerged. The Prince of Darkness, now a human-sized figure
     <div class="col-sm">      
 <center>
 <br>
-  {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png"  width = "100%" >}}
+  {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "The Prince of Darkness, now a human-sized figure wielding a glaive that he swung at Oscorn with deadly precision"  width = "100%" >}}
 <br>
 </center>
       </div>
@@ -55,6 +55,39 @@ Suddenly, a new threat emerged. The Prince of Darkness, now a human-sized figure
 <br>
 
 
+   The Frost giant roared and swung its massive fist at Oscorn, barely grazing his arm as he ducked out of the way. The telekinetic force pulling at him grew stronger, threatening to drag him further into the fray.
+     <br>
+     <br>
+Oscorn gritted his teeth and fought back against the giants, determined to survive and protect his friends. He knew that they were all in this battle together, and that they would emerge victorious if they worked together and fought with all their might.
+
+
+
+
+
+
+
+
+<div class="row">
+    <div class="col-sm">      
+<center>
+<br>
+  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-09 23.20.16 - A single realistic inky black tentacle cuts through the smog in a dark room.png" Capition = "Kalinar evokes piercing tentacles of inky darkness"  width = "100%" >}}
+<br>
+</center>
+      </div>
+    <div class="col-sm">  
+    <br>
+Kalinar raised his hand and cast a powerful enervation spell, putting piercing tentacles of inky darkness into the Prince of Darkness. The tentacles drained the life from the prince, weakening him with each passing moment.
+<br><br>
+ADC summoned Slad, a powerful creature that immediately began attacking the Prince of Darkness and the other monsters on the battlefield. Oscorn, still caught in the grip of the telekinetic force, misty stepped back up onto the invisible wall of force, but he was still within the grasp of the giants.
+<br>
+ <br><br>
+ <br>
+ </div>
+
+  </div>
+<br>
+Silvius, seeing that Oscorn was in trouble, grabbed the rope from Fenuirs and jumped up onto the wall of force. He quickly again tied off the rope around Oscorn's belt, securing him in place. Silvius then closed his eyes and prayed for sanctuary, hoping to protect himself from the dangers around them.
 
 
   <div class="row">
@@ -65,30 +98,26 @@ Suddenly, a new threat emerged. The Prince of Darkness, now a human-sized figure
    </div>
     <div class="col-sm">
     <br>
-   The Frost giant roared and swung its massive fist at Oscorn, barely grazing his arm as he ducked out of the way. The telekinetic force pulling at him grew stronger, threatening to drag him further into the fray.
-     <br>
-     <br>
-Oscorn gritted his teeth and fought back against the giants, determined to survive and protect his friends. He knew that they were all in this battle together, and that they would emerge victorious if they worked together and fought with all their might.
+    The Frost giant swung its massive axe at Oscorn again as Silvius tried to distract the giant with a well-placed taunt. Meanwhile, Kalinar continued to hurt the Master of Darkness with his inky tentacles, weakening the creature as time passed.
+<br><br>ADC shouted, "I'm casting a spell that is kind of tiring! I wouldn't be doing this if I thought I could make it out of here without you!" His words were met with determination from his friends, who knew that they needed to work together to survive.
+<br>
     </div>
   </div>
 
-
-
-<br><br>
-
-
-
-<div class="row">
+  
+  <div class="row">
     <div class="col-sm">  
     <br>
-Kalinar raised his hand and cast a powerful enervation spell, putting piercing tentacles of inky darkness into the Prince of Darkness. The tentacles drained the life from the prince, weakening him with each passing moment.
+Suddenly, the Stone giant slung and hit Silvius with a massive boulder. Silvius held his concentration, determined to keep his spell active despite the pain to keep the wall of force in place and continue providing a valuable shield for his friends. 
+ <br><br>
+ Fenuirs ran forward and shot an arrow around ADC, taking out an Ogre that was threatening his friend. Kalinar, however, was not so lucky. He was hit with an Ogre's club, a brutal blow that smashed his upper right arm and left him severely injured.
  <br><br>
  <br>
  </div>
     <div class="col-sm">      
 <center>
 <br>
-  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-09 23.20.16 - A single realistic inky black tentacle cuts through the smog in a dark room.png" Capition = "Kalinar evokes piercing tentacles of inky darkness"  width = "100%" >}}
+  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-09 23.59.14 - An giant warrior slings a large rock into the air at the camera  with dark background_cleanup.png" Capition = "The Prince of Darkness, now a human-sized figure wielding a glaive that he swung at Oscorn with deadly precision"  width = "100%" >}}
 <br>
 </center>
       </div>
@@ -100,21 +129,6 @@ Kalinar raised his hand and cast a powerful enervation spell, putting piercing t
 
 
 
-
-
-
-
-
-ADC summoned Slad, a powerful creature that immediately began attacking the Prince of Darkness and the other monsters on the battlefield. Oscorn, still caught in the grip of the telekinetic force, misty stepped back up onto the invisible wall of force, but he was still within the grasp of the giants.
-
-Silvius, seeing that Oscorn was in trouble, grabbed the rope from Fenuirs and jumped up onto the wall of force. He quickly again tied off the rope around Oscorn's belt, securing him in place. Silvius then closed his eyes and prayed for sanctuary, hoping to protect himself from the dangers around them.
-
-The Frost giant swung its massive axe at Oscorn again as Silvius tried to distract the giant with a well-placed taunt. Meanwhile, Kalinar continued to hurt the Master of Darkness with his inky tentacles, weakening the creature as time passed.
-
-ADC shouted, "I'm casting a spell that is kind of tiring! I wouldn't be doing this if I thought I could make it out of here without you!" His words were met with determination from his friends, who knew that they needed to work together to survive.
-
-Suddenly, the Stone giant slung and hit Silvius with a massive boulder. Silvius held his concentration, determined to keep his spell active despite the pain to keep the wall of force in place and continue providing a valuable shield for his friends. 
-  
 <center>
 
   {{<imageToClick imagePath = "DALL·E 2022-12-08 22.05.42 - Realistic fantasy creature with blue skin, white hair, and sharp teeth open shirt swinging a glaive  fighting off  a tentacle of inky darkness.png" Capition = "Suddenly, the Stone giant slung and hit Silvius with a massive boulder."  width = "60%" >}}
@@ -122,7 +136,7 @@ Suddenly, the Stone giant slung and hit Silvius with a massive boulder. Silvius 
 </center>  
   
 
-Fenuirs ran forward and shot an arrow around ADC, taking out an Ogre that was threatening his friend. Kalinar, however, was not so lucky. He was hit with an Ogre's club, a brutal blow that smashed his upper right arm and left him severely injured.
+
   
 Oscorn, seeing that the situation was becoming increasingly dangerous, ran back and jumped off the invisible wall of force. He hid behind a nearby rock, hoping to catch his breath and regroup with his friends.
 
