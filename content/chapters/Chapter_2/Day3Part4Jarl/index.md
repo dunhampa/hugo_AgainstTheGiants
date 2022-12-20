@@ -108,4 +108,4 @@ A frost giant walked up behind ADC with three of his friends. "Well, if you want
 
 ADC quickly changed his mind. "Nope, nope, prefer the magic lever. Let's go," he said, joining the others in the room.
 
-Silvius pulled down the lever, and they felt themselves transport away. They also again felt they had all grown stronger and maybe even wiser as they left the black ice.
+Silvius pulled down the lever, and they felt themselves transport away. They also again felt they had all grown stronger and maybe even wiser as they left the black ice. 
