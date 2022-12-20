@@ -117,8 +117,7 @@ Suddenly, the Stone giant slung and hit Silvius with a massive boulder. Silvius 
     <div class="col-sm">      
 <center>
 <br>
-  {{<imageToClickGlobal imagePath = "/img/
-  DALL·E 2022-12-09 23.59.14 - An giant warrior slings a large rock into the air at the camera  with dark background_cleanup.png" Capition = "the Stone giant slung and hit Silvius with a massive boulder"  width = "100%" >}}
+  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-09 23.59.14 - An giant warrior slings a large rock into the air at the camera  with dark background_cleanup.png" Capition = "the Stone giant slung and hit Silvius with a massive boulder"  width = "100%" >}}
 <br>
 </center>
       </div>
