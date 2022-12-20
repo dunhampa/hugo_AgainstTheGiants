@@ -23,7 +23,9 @@ Silvius hung his head. "I'm too weak," he said. "Ilmater, I pray to you. Grant m
 
 Ilmater broke out in a hearty yet gentle laugh. "Silvius, when have you served our purpose well through your strength?" he asked.
 
-Silvius thought back to all the battles he had fought and the role he had played in each one. He thought of the bandits attack on the shipment from the Harp, and how he and his friends had fought bravely to push them back. He thought of Kalinar leaping over the giant's trap into Nosnra's secret room, and how he had found the path to the room and blocked Nosnra from entering and killing them both.
+Silvius thought back to all the battles he had fought and the role he had played in each one. He thought of the bandits attack on the shipment from the Harp, and how he and his friends had fought bravely to push them back. 
+
+He thought of Kalinar leaping over the giant's trap into Nosnra's secret room, and how he had found the path to the room and blocked Nosnra from entering and killing them both.
 
 He thought of fighting to free the Orcs from the bugbears, and how the Orcs had fought with their lives and the weapons he had given them. 
 
