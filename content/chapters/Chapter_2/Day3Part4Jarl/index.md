@@ -6,7 +6,7 @@ summary: "The team has their chance to speak with the Jarl"
 weight: 5
 ---
 <br>
-Kalinar ran past Silvius and Czolg, panting heavily as he tried to catch his breath. As he turned the corner, he saw a frost giant standing tall, its icy blue skin glinting in the sunlight. But the cloud giant that had been there just moments before was nowhere to be found.
+Kalinar ran past Silvius and Czolg, panting heavily as he tried to catch his breath. As he turned the corner, he saw a frost giant standing tall, its icy blue skin glinting in the cave lights. But the cloud giant that had been there just moments before was nowhere to be found.
 
 The frost giant looked down at Kalinar with a serious expression on its face. "The Jarl wishes to speak with you," it said in a deep, gravelly voice. "Gather your party and come with me."
 
