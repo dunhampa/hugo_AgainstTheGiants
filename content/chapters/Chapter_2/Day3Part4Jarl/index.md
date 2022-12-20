@@ -2,25 +2,25 @@
 title: "Day 3: Part 4: Audience with the Jarl"
 date: 2010-08-27T23:53:00+01:00
 draft: false
-summary: "The team has their chance to speak with the Jarl"
+summary: "The team has their chance to speak with the ruler of the black ice"
 weight: 5
 ---
 <br>
 Kalinar ran past Silvius and Czolg, panting heavily as he tried to catch his breath. As he turned the corner, he saw a frost giant standing tall, its icy blue skin glinting in the cave lights. But the cloud giant that had been there just moments before was nowhere to be found.
 
-The frost giant looked down at Kalinar with a serious expression on its face. "The Jarl wishes to speak with you," it said in a deep, gravelly voice. "Gather your party and come with me."
+The frost giant looked down at Kalinar with a serious expression on its face. "The Jarl wishes to speak with you," he said in a deep, gravelly voice. "Gather your party and come with me."
 
 Kalinar turned to Silvius and Czolg, who were standing behind him, looking just as confused as he was. "What do we do?" he asked them.
 
 Silvius thought for a moment before speaking. "We can gather the others and speak with the Jarl, but we need some time to prepare to hold court with him. It's not every day that we get an invitation to meet with the leader of the frost giants."
 
-The frost giant nodded. "You have one hour," he said.
+The frost giant nodded. "You have one hour" he said.
 
 Silvius nodded. "We'll gather the rest of us and meet you here," he said, turning to Kalinar and Czolg. "Come on, let's get moving."
 
 The three of them returned to the center hall, where they found the rest of their party waiting for them. "What's going on?" Oscorn asked as they approached.
 
-Silvius explained the situation to the group, and after discussing whether to run or fight, they began preparing for their meeting with the Jarl. Oscorn retrieved his javelin of lightning, and Silvius searched the price of darkness while the rest of the team searched the slain giants and ogres. They found:
+Silvius explained the situation to the rest of the group, and after discussing whether to run or fight, they began preparing for their meeting with the Jarl. Oscorn retrieved his javelin of lightning, and Silvius searched the price of darkness while the rest of the team searched the slain giants and ogres. They found:
 
 - 60 gold from the giants bags (Oscorn’s bag)
 - 3 more sashes 500gp each (Silvius put in his backpack)
@@ -42,17 +42,17 @@ The team walked back to the frost giant who was waiting for them, their nerves o
 
 "What is that?" he asked, pointing to ADC's fairy that was flitting about.
 
-ADC quickly stuffed the fairy into his cloak pocket, trying to play it cool. "Oh him… nothing at all," he said nervously.
+ADC quickly snatched the fairy from the air and stuffed it into his cloak pocket, trying to play it cool. "Oh him… nothing at all," he said nervously.
 
-The frost giant raised an eyebrow. "I see... None of that nonsense in front of the Jarl. Follow me," he said, turning to lead the group through a frozen gate.
+The frost giant raised an eyebrow. "I see... None of that nonsense in front of the Jarl. Follow me." he said, turning to lead the group through a frozen gate.
 
-The frost giant raised a horn and blew 2 low notes causing the gate to open. Kalinar elbowed Silvius and gave a quick nod. Silvius winked and mouthed the same low notes. The team followed the frost giant through the gate, walking into a grand hall lined with frost giants as well as a fire giant, a cloud giant, and many bears.
+The frost giant raised a horn and blew two low notes causing the gate to open. Kalinar elbowed Silvius and gave a quick nod. Silvius winked and mouthed the same low notes. The team followed the frost giant through the gate, walking into a grand hall lined with frost giants as well as a fire giant, a cloud giant, and many bears.
 
-The frost giant told the team to stand in the middle of the room, and they obeyed, looking around nervously at their surroundings. In front of them was a particularly large frost giant sitting on a throne covered with a polar bear pelt and a white dragon hide hanging behind him. This was Jarl, the leader of the frost giants and ruler of the black ice.
+The frost giant told the team to stand in the middle of the room, and they obeyed, looking around in awe of the giants and decorations that surrounded them. In front of them was a particularly large frost giant sitting on a throne covered with a polar bear pelt and a white dragon hide hanging behind him. This was Jarl, the leader of the frost giants and ruler of the black ice.
 
 The team of heroes stood before Jarl, the leader of the frost giants, as he glared at them with a mixture of anger and frustration. "You've caused me and my people great trouble," he said. "I've heard what you did to the steading. I can not let you go."
 
-Kalinar stepped forward, his eyes flashing with defiance. "Hey, we were only returning the favor," he said. "You've invaded our lands and indiscriminately killed our people."
+Kalinar stepped forward, his eyes flashing with defiance. "Hey, we were only returning the favor, you've invaded our lands and indiscriminately killed our people."
 
 Jarl scowled. "I take my orders from Snure, king of the fire giants," he said.
 
@@ -64,13 +64,13 @@ Kalinar nodded thoughtfully. "Sounds like maybe if you let us take care of Snure
 
 Jarl laughed. "You may have destroyed the steading, but that's nothing like the mountain of Snure. And even if you did defeat him, you'd have to deal with the priestess," he said.
 
-The team of heroes looked at each other, confused. "Ah yes, Ecvaldra…," Silvius said.
+The team of heroes looked at each other, confused. "Ah yes, Ecvaldra…" Silvius said.
 
 Jarl narrowed his eyes. "See, don't play games with me. You know the priestess, and you'd have to defeat her along with the rest of the Drow. So I can't let you go. The chance is too great. I need to stop you here," he said.
 
 The word "Drow" struck Silvius, and all went silent except for that word ringing in his ears as his skin crawled and bristled.
 
-"No, you won't be stopping us here because..." Silvius said, pointing at Jarl. "You know we'll take care of you first. Or at least you do now…," he said, his voice dripping with anger.
+"No, you won't be stopping us here because..." Silvius said, pointing at Jarl. "You know we'll take care of you first. Or at least you do now…," his voice dripping with anger.
 
 Oscorn, shocked, reached his arm across Silvius to stop him and calmly said to Jarl, "We are not here to end your people or cause you harm. We only intend to stop the war. There must be a way we can find some common ground for life and peace."
 
@@ -86,7 +86,7 @@ Jarl chuckled. "I took it from you. The Drow took it from me. Now they keep it d
 
 "It's… it's worth everything to me," Oscorn said, his voice shaking with emotion.
 
-"Well, it's far from here. Maybe several weeks' journey…," Jarl said.
+"Well, it's far from here. Maybe several weeks' journey…" Jarl said.
 
 Silvius interrupted him. "You're not taking orders and acting as a staging point from a place that can only be reached by a three-week journey. Where's your magic chain to get there?" he asked.
 
@@ -96,7 +96,7 @@ As they walked, they could hear the sound of children playing in a cave to the n
 
 Oscorn sighed. "My people's connection to our god. Our holy relic. They stole it, and it's my life's work to bring it back," he said.
 
-Czolg nodded. "Well, then it's my next life's work too. Only seems fair I make sure you can talk to your god after all the times you've kept me from seeing mine too early," he said, clapping Oscorn on the back.
+Czolg nodded. "Well, then it's my life's work now too. Only seems fair I make sure you can talk to your god after all the times you've kept me from seeing mine too early," he said, clapping Oscorn on the back.
 
 Oscorn could only mutter a thank you through his misting eyes.
 
