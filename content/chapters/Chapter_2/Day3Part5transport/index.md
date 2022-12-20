@@ -45,7 +45,7 @@ Ilmater continued…
 
 Silvius paused as he bowed his head. 
 
-“ilmater, please guide me with your vision and support me with your aid so that I may guide others on their paths”
+“Ilmater, please guide me with your vision and support me with your aid so that I may guide others on their paths”
 
 “Of course. I always have and will. And Remember Silvius, Even the deepest darkness is part of the shadows. many that seem gone are merely broken. Goodbye for now my son”
 
