@@ -148,7 +148,7 @@ The Cloud giant and Kalinar discussed the situation, with Kalinar suggesting tha
 
 <center>
 <br>
-  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-09 23.59.14 - An giant warrior slings a large rock into the air at the camera  with dark background_cleanup.png" Capition = "the Stone giant slung and hit Silvius with a massive boulder"  width = "50%" >}}
+  {{<imageToClickGlobal  imgPosition = "right" imagePath = "/img/DALL·E 2022-12-09 23.59.14 - An giant warrior slings a large rock into the air at the camera  with dark background_cleanup.png" Capition = "the Stone giant slung and hit Silvius with a massive boulder"  width = "70%" >}}
 <br>
 </center>
 
