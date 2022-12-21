@@ -146,6 +146,12 @@ The Ogres knocked sSlad down and beat Slad to death as he lay on the ground, una
 
 The Cloud giant and Kalinar discussed the situation, with Kalinar suggesting that they could talk with Jarl to resolve their differences. The Cloud giant, however, denied the idea, insisting that this could only end in the teams death at the hands of the giants.
 
+<center>
+<br>
+  {{<imageToClickGlobal imagePath = "/img/DALL·E 2022-12-09 23.59.14 - An giant warrior slings a large rock into the air at the camera  with dark background_cleanup.png" Capition = "the Stone giant slung and hit Silvius with a massive boulder"  width = "50%" >}}
+<br>
+</center>
+
 The Stone giant tried to crawl away again, but Czolg stopped it and stopped it with a Panzerfaust strike. Fenuirs killed another Ogre with her bow, and Czolg continued to stab the Stone giant. Kalinar used his tentacles to slap an Ogre to death, finally finishing off the remaining creatures.
   
 ADC cast a wall of ice that cut the Stone giant in half, sending the massive creature crashing to the ground. The Cloud and Frost giants, seeing that they were outnumbered and outmatched, started to flee from the battlefield. Oscorn quickly held the frost giant in place with his divine magic.
