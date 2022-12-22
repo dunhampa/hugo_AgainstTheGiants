@@ -5,10 +5,16 @@ draft: false
 summary: "The team has their chance to speak with the ruler of the black ice"
 weight: 5
 ---
-<br>
+
+<a href="/img/Roll20-MeetingJargle-2022-12-15_21-37-01.png" data-lightbox="image-1" data-title="The team followed the frost giant through the gate, walking into a grand hall lined with frost giants as well as a fire giant, a cloud giant, and many bears.">Battle map</a>
+    
+
 Kalinar ran past Silvius and Czolg, panting heavily as he tried to catch his breath. As he turned the corner, he saw a frost giant standing tall, its icy blue skin glinting in the cave lights. But the cloud giant that had been there just moments before was nowhere to be found.
 
 The frost giant looked down at Kalinar with a serious expression on its face. "The Jarl wishes to speak with you," he said in a deep, gravelly voice. "Gather your party and come with me."
+
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/DALL·E 2022-12-22 08.26.34 - An old warrior giant wrinkled and mean with frost beard angrily swinging  a huge axe over his head in a dark background.png" Capition = "The frost giant looked down at Kalinar with a serious expression on its face. “The Jarl wishes to speak with you,” he said in a deep, gravelly voice. “Gather your party and come with me.”"  width = "60%" >}}
+
 
 Kalinar turned to Silvius and Czolg, who were standing behind him, looking just as confused as he was. "What do we do?" he asked them.
 
@@ -30,6 +36,8 @@ Silvius explained the situation to the rest of the group, and after discussing w
 
 Silvius opened the scroll and read it to the rest of the group, revealing that it was an agreement between the Jarl and the Oni, the people of the prince of darkness, to join the war against humankind. The Jarl had offered them 25,000 gold pieces and the right to loot whatever they wanted from the battlefield. The agreement was set to be confirmed over drinks the following day.
 
+{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/DALL·E 2022-12-22 08.34.54 - From behind A handsome young silver haired elf reads a medieval scroll fantasy realistic standing in a dungeon with cold misty darkness.png" Capition = "Silvius opened the scroll and read it to the rest of the group, revealing that it was an agreement between the Jarl and the Oni, the people of the prince of darkness, to join the war against humankind"  width = "60%" >}}
+
 "This is the same symbol that was on the plans to attack we found hidden near Nosnra's planning. The one signed Ecvaldra" Silvius said as he pointed to the symbol on the scroll tube. 
 
 The group nodded grimly, knowing that they had to do something to stop the Oni from joining the war. "At least we stopped the Oni from joining… for now," Czolg said, trying to sound hopeful.
@@ -49,6 +57,9 @@ The frost giant raised an eyebrow. "I see... None of that nonsense in front of t
 The frost giant raised a horn and blew two low notes causing the gate to open. Kalinar elbowed Silvius and gave a quick nod. Silvius winked and mouthed the same low notes. The team followed the frost giant through the gate, walking into a grand hall lined with frost giants as well as a fire giant, a cloud giant, and many bears.
 
 The frost giant told the team to stand in the middle of the room, and they obeyed, looking around in awe of the giants and decorations that surrounded them. In front of them was a particularly large frost giant sitting on a throne covered with a polar bear pelt and a white dragon hide hanging behind him. This was Jarl, the leader of the frost giants and ruler of the black ice.
+
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/DALL·E 2022-12-22 08.26.04.png" Capition = "In front of them was a particularly large frost giant sitting on a throne covered with a polar bear pelt and a white dragon hide hanging behind him. This was Jarl, the leader of the frost giants and ruler of the black ice."  width = "60%" >}}
+
 
 The team of heroes stood before Jarl, the leader of the frost giants, as he glared at them with a mixture of anger and frustration. "You've caused me and my people great trouble," he said. "I've heard what you did to the steading. I can not let you go."
 
@@ -100,11 +111,16 @@ Czolg nodded. "Well, then it's my life's work now too. Only seems fair I make su
 
 Oscorn could only mutter a thank you through his misting eyes.
 
+
+{{<imageToClickGlobal imgPosition = "right"  imagePath = "/img/DALL·E 2022-12-22 08.25.18 - a medieval dungeon with a large mechanical switch stuck the wall .png" Capition = "Jarl led the team past a hide hanging on the wall, uncovering a room which was empty except for a metal handle. 'All of you get inside and pull the handle' he said."  width = "60%" >}}
+
 Jarl led the team past a hide hanging on the wall, uncovering a room which was empty except for a metal handle. "All of you get inside and pull the handle," he said.
 
 ADC waved his hands around frantically. "No, no, no. I will not be entering some room with all of us and pulling a handle. That could easily go down as the most ridiculous way a team of adventurers have ever all died together," he said.
 
 A frost giant walked up behind ADC with three of his friends. "Well, if you want to all die in battle, we can make it happen," he said, tapping his axe in his hand.
+
+{{<imageToClickGlobal imgPosition = "left"  imagePath = "/img/Jarle Reading 2022-12-15_22-08-10.png" Capition = "ADC waved his hands around frantically. 'No, no, no. I will not be entering some room with all of us and pulling a handle. That could easily go down as the most ridiculous way a team of adventurers have ever all died together' he said."  width = "60%" >}}
 
 ADC quickly changed his mind. "Nope, nope, prefer the magic lever. Let's go," he said, joining the others in the room.
 
