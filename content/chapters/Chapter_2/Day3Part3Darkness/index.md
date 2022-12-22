@@ -9,7 +9,7 @@ weight: 5
 
 
 
-{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/DALL·E 2022-12-14 21.47.32 - medieval chainmail armored elf warrior pulled into air floating by telekinetic force in dark cave_cleanup.png" Capition = "Oscorn is contorted as a telekinetic force pulls him away"  width = "50%" >}}
+{{<imageToClickGlobal imgPosition="right" imagePath="/img/DALL·E 2022-12-14 21.47.32 - medieval chainmail armored elf warrior pulled into air floating by telekinetic force in dark cave_cleanup.png" Capition="Oscorn is contorted as a telekinetic force pulls him away"  width="50%" >}}
      
 The battle raged on around Oscorn as he struggled to free himself from the grip of the telekinetic force that had pulled him out into the open. He felt the rope around his belt grow taut as Silvius anchored him to the rope, preventing him from being pulled any further.
      
@@ -26,20 +26,13 @@ Suddenly, a new threat emerged. The Prince of Darkness, now a human-sized figure
  Silvius, never one to back down from a challenge, viciously mocked the next Ogre that approached, goading it into attacking him. The creature, enraged by Silvius' taunts, swung its massive club at him, but Silvius was ready and easily sidestepped the attack.
 
 
-
 The Frost giant roared and swung its massive fist at Oscorn, barely grazing his arm as he ducked out of the way. The telekinetic force pulling at him grew stronger, threatening to drag him further into the fray.
   
 Oscorn gritted his teeth and fought back against the giants, determined to survive and protect his friends. He knew that they were all in this battle together, and that they would emerge victorious if they worked together and fought with all their might.
 
-<br>
-<br>
-<br>
-<br>
-
 Kalinar raised his hand and cast a powerful enervation spell, putting piercing tentacles of inky darkness into the Prince of Darkness. The tentacles drained the life from the prince, weakening him with each passing moment.
 
 {{<imageToClickGlobal  imgPosition = "right"  imagePath = "/img/DALL·E 2022-12-09 23.20.16 - A single realistic inky black tentacle cuts through the smog in a dark room.png" Capition = "Kalinar evokes piercing tentacles of inky darkness"  width = "60%" >}}
-
 
 
 ADC summoned Slad, a powerful creature that immediately began attacking the Prince of Darkness and the other monsters on the battlefield. Oscorn, still caught in the grip of the telekinetic force, misty stepped back up onto the invisible wall of force, but he was still within the grasp of the giants.
@@ -55,10 +48,6 @@ ADC shouted, "I'm casting a spell that is kind of tiring! I wouldn't be doing th
 Suddenly, the Stone giant slung and hit Silvius with a massive boulder. Silvius held his concentration, determined to keep his spell active despite the pain to keep the wall of force in place and continue providing a valuable shield for his friends. 
 
 Fenuirs ran forward and shot an arrow around ADC, taking out an Ogre that was threatening his friend. Kalinar, however, was not so lucky. He was hit with an Ogre's club, a brutal blow that smashed his upper right arm and left him severely injured.
-
-{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/DALL·E 2022-12-09 23.59.14 - An giant warrior slings a large rock into the air at the camera  with dark background_cleanup.png" Capition = "the Stone giant slung and hit Silvius with a massive boulder"  width = "50%" >}}
-
-
   
 Oscorn, seeing that the situation was becoming increasingly dangerous, ran back and jumped off the invisible wall of force. He hid behind a nearby rock, hoping to catch his breath and regroup with his friends.
 
@@ -98,9 +87,7 @@ Oscorn, seeing the cloud giant may escape and bring more giants to the fight, th
   
 Can the team stop and kill the cloud giant? Will they survive another wave of giants and enemies? Will they find a place to regroup and recover from the battle? We'll find out next time.
 
-
-
-  {{<imageToClickGlobal imagePath = "ThePrinceOfDarknessRoll20.png" Capition = "Roll20 battle map"  width = "60%" >}}
+{{<imageToClickGlobal imagePath = "ThePrinceOfDarknessRoll20.png" Capition = "Roll20 battle map"  width = "90%" >}}
  
   
 
