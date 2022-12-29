@@ -5,7 +5,6 @@ draft: false
 summary: "The team finds themselves at a bridge across a river a lava leading to Snure's volcano"
 weight: 3
 ---
-ROUGH DRAFT 
 
 The team appeared in front of a massive volcano with rivers of lava flowing down. There was a bridge 5 feet over a bridge of lava. On the far side of the bridge there were short platforms on either side of the bridge that appeared to be places for giants to greet others when they arrive.
 
