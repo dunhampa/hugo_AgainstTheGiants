@@ -12,6 +12,16 @@ Believe this would have worked for already cloned:
 ```
 git submodule update --init --recursive
 ```
+---
+
+Image examples
+
+```
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/DALL·E 2022-12-29 20.33.11 - medieval adventurers appeared in front of a massive volcano with orange rivers of lava flowing down. There was a bridge 5 feet over a bridge of lava_cleanup.png" Capition = "The team appeared in front of a massive volcano with rivers of lava flowing down. There was a bridge 5 feet over a bridge of lava. On the far side of the bridge there were short platforms on either side of the bridge that appeared to be places for giants to greet others when they arrive."  width = "60%" >}}
+
+```
+
+
 
 ---
 
