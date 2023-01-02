@@ -48,13 +48,47 @@ Czolg said as he pushed Jarl's body into the lava, "That would have been great a
 
 The team threw the remaining giant bodies into the lava, the team placed their magic items in their designated locations and spoke the magic words to go to the astral plane. Oscorn lit the beacon, signaling their location to any allies who might be nearby.
 
-Silvius summoned Kazik, a powerful celestial being, to their side. He began playing restful music as they all took a much-needed break. Eventually, an elf appeared before them. "Melf!" exclaimed Oscorn as he approached the elf. "Great to see you! Jarl was working with the Oni and planned to take over the world. Jarl is dead, along with many of his toughest warriors. There will be fewer in the black ice now. Jarl had also been recruiting others, including the Oni."
+Silvius summoned Kazik, the dire wolf as he began playing restful music as they all took a much-needed break. 
+
+Eventually, an elf appeared before them. "Melf!" exclaimed Oscorn as he approached the elf. "Great to see you! Jarl was working with the Oni and planned to take over the world. Jarl is dead, along with many of his toughest warriors. There will be fewer in the black ice now. Jarl had also been recruiting others, including the Oni."
 
 Silvius walked up and handed Melf the elf the agreement scroll between Jarl and the Oni. "It was signed and sealed," he said. 
 
 Oscorn continued, "Jarl also mentioned that a failure of the frost giants could incite issues between the giants in the ordering."
 
+"It's been known there are issues between giants on our plane from the others we've sent before," Melf began. "The giants from the other planes, the cloud and storm giants, tend to be the deciders of these things. When they come they call the shots."
 
+Kalinar spoke up. "What about Drow elves?"
 
+Melf shook his head. "Now that we have not heard of. They aren't known to work together."
 
+Czolg swung Jarl's pipe like a club as he spoke. "We killed a cloud giant. Stabbed him and burned him in the lava."
+
+Melf nodded. "If there was a cloud giant they would have been helpful to any giants on this plane. They carry clout."
+
+Silvius added, "There were more than one, only managed to put one in the bottom of the river of lava."
+
+Melf chuckled. "Ahh bragging rights. After the Greyhawk wars there have been peace, we do not know what could have sparked this."
+
+Kalinar stood up, ready to leave. "Well, We've done all that we've came to do. Sounds like it's time to get paid and go home."
+
+But Melf shook his head. "What you've done so far, while incredible, will not stop them. If you wish to run to the ocean, by all means, run. You are by far the most successful group so far. However, do not forget why you are here. The survival of all Greyhawk depends on stopping a greater foe. That's why this group was put together. That's why you are here."
+
+Kalinar sat back down, frustrated. "How many others?"
+
+"You are my first," Melf replied. "Owen sent others before. You've given us helpful information so far. Beware of the Drow. They can be tricky. Although they are best in their place. We rarely see them out and they struggle in the light."
+
+Czolg asked, "Any update from the front" as he continued swinging his pipe.
+
+Melf sighed. "The front has slowed. It would take weeks to shift to an attack in the Ladher mountains. Push in to the mountain, find the Drow, see where that leads."
+
+Oscorn spoke up. "We've heard there is a dragon."
+
+Melf's eyes lit up. "Ah so you've heard of the Wyrm. There are many dangers in the volcano. We've seen fire giants drag many prisoners into the volcano never to be seen again. Humans, orcs, even giants. It will be dangerous but you are in the best position to try. Is there anything else you need?"
+
+As Melf prepared to leave, Silvius asked, "We can't be sure we will make it back. Is there any way we can send any of the treasures we have to our loved ones?"
+
+Melf thought for a moment before shaking his head. "I can't take anything back now, we can bring a bag next time. Best of luck. Goodbye," he said, grabbing the medallion on his neck and disappearing.
+
+What will the team find beyond Snure's gate? What prisoners are held within? What dragon guards what the Drow and Oscorn value most? 
 
