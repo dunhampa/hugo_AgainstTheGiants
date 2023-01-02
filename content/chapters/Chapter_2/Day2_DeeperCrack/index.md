@@ -7,6 +7,10 @@ weight: 2
 ---
 Realizing there may be dangers coming, Silvius boldly strolled out of the cave entrance to check on the giants. What awaited was a flying boulder. A massive giant from across the valley slung a it at him, smashing him directly in the chest. The boulder struck with such force Silvius faked an avalanche with a permanent illusion made from light and shadows, blocking the mouth of the cave and the path from the north. 
 
+{{<imageToClickGlobal imgPosition = "left"  Caption = "Silvius faked an avalanche with a permanent illusion made from light and shadows, blocking the mouth of the cave and the path from the north" imagePath = "/img/Chp2-Day2 DALL·E 2023-01-02 00.04.38.png"  width = "60%" >}}
+
+
+
 The avalanche bought us time so Oscorn healed the party while the rest of us released the fallen heroes' gifts. ADC researched and revealed their true nature. Several of us received new items and treasure:
 Kazzug changed out his swords for a +1 Battleaxe 
 Czolg is protected with a ring of fire resistance
@@ -21,7 +25,14 @@ Feeling relatively safe in our hiding place, most of us decided to take a long r
 
 Several hours later we saw two giants appear through the avalanche illusion. They walked up to our hut but didn’t seem to know what it was. After spending some time confused about what changed in the cave, they wandered back the way they came.
 
-We woke up after our long rest and decided to head south. A giant was posted as a guard on the other side of the valley but couldn’t seem to see us through the illusion. The other challenge was the 30’ gap to continue along the cliff face remained in our way. ADC, using the icy power from his new staff, created a wall of ice for us to walk on and a wall to our north west to block us from the giants. We crossed the ice wall bridge across the gap as boulders slammed in to ADC’s wall raining chunks of ice and snow upon us. Despite the elements and the giants best efforts we all made safe passage. 
+We woke up after our long rest and decided to head south. A giant was posted as a guard on the other side of the valley but couldn’t seem to see us through the illusion. The other challenge was the 30’ gap to continue along the cliff face remained in our way. 
+
+{{<imageToClickGlobal imgPosition = "right"  Caption = "We crossed the ice wall bridge across the gap as boulders slammed in to ADC’s wall of ice" imagePath = "/img/Chp2-Day2-Part1  DALL·E 2022-12-29 23.48.39 - Battle scene of warriors having ice and boulders raining down on them.png"  width = "60%" >}}
+
+
+
+
+ADC, using the icy power from his new staff, created a wall of ice for us to walk on and a wall to our north west to block us from the giants. We crossed the ice wall bridge across the gap as boulders slammed in to ADC’s wall raining chunks of ice and snow upon us. Despite the elements and the giants best efforts we all made safe passage. 
 
 On the other side of the gap we found a dead end along the ledge and another cave entrance. Czolg led us through the entrance of the cave which turned to a three way fork. We took the middle path and we ran in to a giant blocking a large opening to a much larger space. We squared off against each other ready to start our battle.
 
