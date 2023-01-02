@@ -32,21 +32,27 @@ ADC waved his staff and created a wall of ice through the stone giant, but the g
 
 Fennuris shot at Jarl again, but the arrows seemed to be pulled in by his glowing shield, missing the Jarl. Oscorn backed away from the Jarl and healed Silvius again, begging him to leave. Czolg struck the Jarl and knocked him down, striking him again on the ground. 
 
-zolg approached Estia on the battlefield, saying to her "You are mighty fine" as he winked and his rune glowed. Czolg then asked her, "Who do you serve?" Estia replied, "I serve my husband, and all serve him."
+Czolg approached Estia on the battlefield, saying to her "You are mighty fine" as he winked and his rune glowed. Czolg then asked her, "Who do you serve?" Estia blushed and fluttered her eyes staring longingly at Czolg and replied, "I serve my husband Jarl, and all serve him."
 
 Silvius's spirit guardians hit Estia and knocked her out of her charm. Jarl called out, "Estia, run! Get the Snure!" The stone giant and Estia ran, but Czolg stopped her with a strike from his Panzerfaust. Kalinar drained the last bit of life from Jarl with his black tentacles, and ADC dropped Estia with a bolt of fire.
 
-Fennuris aimed and fired at the remaining stone giant, but the arrow snapped back and knocked her down. She tried to fire from the ground, but missed. Oscorn tried to stabilize Jarl using his medical knowledge, but Jarl coughed up blood and grew colder.
+Fennuris aimed and fired at the remaining stone giant, but the arrow snapped back and knocked her down. She tried to fire from the ground, but missed. Oscorn tried to stabilize Jarl using his medical knowledge. As he approached the Jarl he slipped and his hammer went right through one of Jarl's eyes to the back of his skull. Jarl coughed up blood and grew colder as Oscorn sheepishly stepped away.
 
-The stone giant continued to run towards Snure's gate. Czolg looked down at Estia and said, "Silvius, you owe me." Silvius, with a slight sigh, ran up to Czolg and grabbed him, dimension dooring him in front of the stone giant. Silvius then ran to the stone giant's back, and the spirit guardians surrounding him killed the stone giant.
+The stone giant, determined to get help, ran even faster towards Snure's gate. Czolg looked down at Estia and said, "Silvius, you owe me." Silvius, with a slight sigh, ran up to Czolg and grabbed him, dimension dooring him in front of the stone giant. Silvius then ran to the stone giant's back, and the spirit guardians surrounding him killed the stone giant.
 
 ADC declared, "Never fear, if Silvius didn't do that I would've had it covered!" as he wrung his hands. The team gathered together and Silvius detected magic. He pointed to the prince of darkness's glaive and said, "That's not magic." Czolg exhaled and disappointedly tossed it into the lava.
 
-He then walked up to Jarl, picked up the massive bone pipe the size of a club, and gave a few powerful swings, saying "I prefer this one anyway." Silvius said, "Cool, also not magic, but very cool. Now this is magic" as he held up the prince of darkness's necklace and tossed it to ADC. "What is it?" ADC took a hard look at it and declared, "It's a necklace of fireballs! Even these tiny beads are fireballs. There are nine of them!"
+He then walked up to Jarl, picked up the massive bone pipe that was the size of a club, and gave a few powerful swings, saying "I prefer this one anyway." Silvius said, "Cool, also not magic, but very cool. Now this is magic" as he held up the prince of darkness's necklace and tossed it to ADC. "What is it?" ADC took a hard look at it and declared, "It's a necklace of fireballs! Even these tiny beads are fireballs. There are nine of them!"
 
 Czolg said as he pushed Jarl's body into the lava, "That would have been great a few minutes ago!" 
 
-The team threw the remaining giant bodies into the lava, then placed their magic items in their locations and spoke the magic words to go to the astral plane and connect with their patrons.
+The team threw the remaining giant bodies into the lava, the team placed their magic items in their designated locations and spoke the magic words to go to the astral plane. Oscorn lit the beacon, signaling their location to any allies who might be nearby.
+
+Silvius summoned Kazik, a powerful celestial being, to their side. He began playing restful music as they all took a much-needed break. Eventually, an elf appeared before them. "Melf!" exclaimed Oscorn as he approached the elf. "Great to see you! Jarl was working with the Oni and planned to take over the world. Jarl is dead, along with many of his toughest warriors. There will be fewer in the black ice now. Jarl had also been recruiting others, including the Oni."
+
+Silvius walked up and handed Melf the elf the agreement scroll between Jarl and the Oni. "It was signed and sealed," he said. 
+
+Oscorn continued, "Jarl also mentioned that a failure of the frost giants could incite issues between the giants in the ordering."
 
 
 
