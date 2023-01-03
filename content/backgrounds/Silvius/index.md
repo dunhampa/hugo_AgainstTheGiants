@@ -2,7 +2,7 @@
 title: "Silvius of Innspa"
 date: 2010-10-27T23:53:00+01:00
 draft: false
-summary: "the bard of twilight and lore"
+summary: "the bard of twilight, lore, and walls"
 weight: 3
 ---
 Silvius was a half-elf bard, raised by his human mother in the town of Innspa and the surrounding forest. From a young age, he was immersed in music and song, learning bits of magic from the elves, druids, and others he encountered in the forest. His mother, who never spoke of his elvan father, had always told him that his father was a charismatic man with a dark side.
