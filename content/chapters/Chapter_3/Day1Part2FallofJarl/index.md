@@ -10,19 +10,21 @@ ADC had summoned his slaad to help fight the frost giant he faced. Kalinar chear
 
 Czolg quickly and repeatedly stabbed the frost giant in front of him. Oscorn ran to Silvius's side and cast beacon of hope and prayed for sanctuary.
 
-Silvius prayed to Ilmater for protection and cast spirit guardians, hitting both the stone giant and the frost giant. 
+Silvius prayed to Ilmater for protection and spirits swirled around him, hitting both the stone giant and the frost giant. 
 
 The frost giant that had fallen in to the lava and already nearly a skeleton from the molten rock, crawled out and hit Kalinar.
 
-But Kalinar was not one to be underestimated even as he faced two towering giants, and he quickly stabbed the stone giant with his dagger, killing him. Suddenly, a flash of light appeared, and another stone giant, Jarl, and Jarl's wife Estia materialized. Jarl looked around in confusion and shouted, "Braam is dead! Everything will fall apart without him!"
+But Kalinar was not one to be underestimated even as he faced two towering giants, and he quickly stabbed the stone giant with his dagger, killing him. 
+
+Suddenly, a flash of light appeared, and another stone giant, Jarl, and Jarl's wife Estia materialized. Jarl looked around in confusion and shouted, "Braam is dead! Everything will fall apart without him!"
 
 Jarl was immediately hit with Ilmater's protective spirits, but he fought on, determined to see his plan through. ADC and his trusty salad, attacked the frost giant from opposite sides, while Fennuris shot arrows at the frost giant. 
 
 Oscorn shouted at Jarl, "You sent us here, what are you doing?!" Jarl replied, "Your plan may give me the black ice, but mine gives me the world!" Oscorn cast a large heal on the team and urgently asked Silvius to back off the bridge.
 
-Silvius hesitated, but ultimately decided to step towards Estia as he apologized to Oscorn. He cast a much stronger spirit guardians. Jarl hit Silvius twice to break the spell although Silvius remainede focused on his prayer. 
+Silvius hesitated, but ultimately decided to step towards Estia as he apologized to Oscorn. He said an even stronger prayer to Ilmater and over twice as many spirits began to surround him. Jarl hit Silvius twice to break the spell although Silvius remainede focused on his prayer. 
 
-The frost giant near ADC screamed in blood lust as he crushed the slaad. Estia took two swings at Czolg with her massive morningstar. Kalinar, using his magic, waved his hands and caused the ground underneath Jarl and Estia to break apart, black tentacles breaking the surface from below.
+The frost giant near ADC screamed in blood lust as he crushed the slaad. Estia took two swings at Czolg with her massive morningstar. Kalinar, using his magic, waved his hands and created black tentacles that broek the surface of the ground underneath Jarl and Estia, restraining them both.
 
 The frost giant from the lava hit Kalinar, but Kalinar pointed back at him and flames erupted around the frost giant, dropping what was left of him.
 
@@ -34,9 +36,9 @@ Fennuris shot at Jarl again, but the arrows seemed to be pulled in by his glowin
 
 Czolg approached Estia on the battlefield, saying to her "You are mighty fine" as he winked and his rune glowed. Czolg then asked her, "Who do you serve?" Estia blushed and fluttered her eyes staring longingly at Czolg and replied, "I serve my husband Jarl, and all serve him."
 
-Silvius's spirit guardians hit Estia and knocked her out of her charm. Jarl called out, "Estia, run! Get the Snure!" The stone giant and Estia ran, but Czolg stopped her with a strike from his Panzerfaust. Kalinar drained the last bit of life from Jarl with his black tentacles, and ADC dropped Estia with a bolt of fire.
+Silvius's spirit guardians hit Estia and knocked her out of her charm. Jarl called out, "Estia, run! Get the Snure!" The stone giant and Estia ran, but Czolg stopped her with a strike from his Panzerfaust. Kalinar drained the last bit of life from Jarl with his black tentacles as ADC finished Estia with a bolt of fire. Fennuris aimed and fired at the remaining stone giant, but the arrow snapped back and knocked her down. She tried to fire from the ground, but missed. 
 
-Fennuris aimed and fired at the remaining stone giant, but the arrow snapped back and knocked her down. She tried to fire from the ground, but missed. Oscorn tried to stabilize Jarl using his medical knowledge. As he approached the Jarl he slipped and his hammer went right through one of Jarl's eyes to the back of his skull. Jarl coughed up blood and grew colder as Oscorn sheepishly stepped away.
+Oscorn tried to stabilize Jarl using his medical knowledge. As he approached the Jarl he slipped and his hammer went right through one of Jarl's eyes to the back of his skull. Jarl coughed up blood and grew colder as Oscorn sheepishly stepped away.
 
 The stone giant, determined to get help, ran even faster towards Snure's gate. Czolg looked down at Estia and said, "Silvius, you owe me." Silvius, with a slight sigh, ran up to Czolg and grabbed him, dimension dooring him in front of the stone giant. Silvius then ran to the stone giant's back, and the spirit guardians surrounding him killed the stone giant.
 
@@ -90,5 +92,5 @@ As Melf prepared to leave, Silvius asked, "We can't be sure we will make it back
 
 Melf thought for a moment before shaking his head. "I can't take anything back now, we can bring a bag next time. Best of luck. Goodbye," he said, grabbing the medallion on his neck and disappearing.
 
-What will the team find beyond Snure's gate? What prisoners are held within? What dragon guards what the Drow and Oscorn value most? 
+What will the team find beyond Snure's gate? What prisoners are held within? What dragon guards the posetions that the Drow and Oscorn value most? 
 
