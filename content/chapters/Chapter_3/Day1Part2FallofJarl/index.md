@@ -92,5 +92,5 @@ As Melf prepared to leave, Silvius asked, "We can't be sure we will make it back
 
 Melf thought for a moment before shaking his head. "I can't take anything back now, we can bring a bag next time. Best of luck. Goodbye," he said, grabbing the medallion on his neck and disappearing.
 
-What will the team find beyond Snure's gate? What prisoners are held within? What dragon guards the posetions that the Drow and Oscorn value most? 
+What will the team find beyond Snure's gate? What prisoners are held within? What dragon guards the possessions that the Drow and Oscorn value most? 
 
