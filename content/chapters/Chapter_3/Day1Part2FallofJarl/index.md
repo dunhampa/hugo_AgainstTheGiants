@@ -22,7 +22,7 @@ Jarl was immediately hit with Ilmater's protective spirits, but he fought on, de
 
 Oscorn shouted at Jarl, "You sent us here, what are you doing?!" Jarl replied, "Your plan may give me the black ice, but mine gives me the world!" Oscorn cast a large heal on the team and urgently asked Silvius to back off the bridge.
 
-Silvius hesitated, but ultimately decided to step towards Estia as he apologized to Oscorn. He said an even stronger prayer to Ilmater and over twice as many spirits began to surround him. Jarl hit Silvius twice to break the spell although Silvius remainede focused on his prayer. 
+Silvius hesitated, but ultimately decided to step towards Estia as he apologized to Oscorn. He said an even stronger prayer to Ilmater and over twice as many spirits began to surround him. Jarl hit Silvius twice to break the spell although Silvius remained focused on his prayer. 
 
 The frost giant near ADC screamed in blood lust as he crushed the slaad. Estia took two swings at Czolg with her massive morningstar. Kalinar, using his magic, waved his hands and created black tentacles that broek the surface of the ground underneath Jarl and Estia, restraining them both.
 
