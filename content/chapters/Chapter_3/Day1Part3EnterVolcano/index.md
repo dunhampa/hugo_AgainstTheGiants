@@ -33,13 +33,13 @@ Silvius replied, "Of course, tell us about this place you're protecting. Who's g
 
 The fire giant replied, "We have the watchers with many heads that help us. We need to keep an eye on the prisoners. We have some upstairs, downstairs, and all the way downstairs."
 
-As they approached the bridge over the river of lava, Silvius sent a telepathic message to Czolg, one of the fighters on the team. "We need to attack before we get across this bridge," he warned.
+As they approached the bridge over the river of lava, Silvius sent a telepathic message to Czolg. "We need to attack before we get across this bridge," he warned.
 
 Czolg asked the fire giant, "What about the dragon?"
 
 The fire giant responded, "Ah yes, him too."
 
-Silvius grew increasingly urgent. "Now Czolg!" he yelled as they neared the end of the bridge. He tried to keep pace on the opposite side of the fire giant.
+Silvius grew increasingly urgent. "Now Czolg!" he yelled as they neared the end of the bridge. He tried running to keep pace on the opposite side of the fire giant.
 
 Czolg, realizing the danger they were in, sprang into action. He struck the fire giant with Panzerfaust landing a vicious strike to the fire giant's chest. Oscorn, Fennuris, and Kalinar also released magic and arrows at the giant, but they missed their mark. Kazik ran forward and bit the giant.
 
