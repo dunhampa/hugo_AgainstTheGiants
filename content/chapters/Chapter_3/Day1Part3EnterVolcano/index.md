@@ -93,7 +93,9 @@ Arrows and blasts of magic flew at the fire wolves and two-header. The two-heade
 
 As Fennuris' arrows found their mark and killed a fire wolf, Silvius used his powers of mockery to defeat another. Oscorn, still wielding the radiant light of dawn, charged forward, chasing after the fleeing giants. Fennuris, ADC, and Kalinar joined in, finishing off the remaining fire wolves with blasts and arrows.
 
-Silvius once again hopped on Kazik's back and rode him up to Czolg. "Go get them, Czolg!" he shouted, as he hopped off and stabbed the two-headed giant with his flaming sword. Czolg mounted Kazik and charged forward, barreling towards the end of the long hallway, where the team could see many fire giants waiting for them, including a particularly large one.
+Silvius once again hopped on Kazik's back and rode him up to Czolg. He hopped off Kazik and stabbed the two-headed giant with his flaming sword. 
+
+The team could see a particular large giant with an iron crown sitting on a large thrown along with other fire giants nearby.
 
 Has the team found Snure? What other enemies will defend the volcano? Is Oscorn's sacred relic in this place of lava and fire?
 
