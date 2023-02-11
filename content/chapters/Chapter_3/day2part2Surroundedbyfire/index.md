@@ -20,7 +20,7 @@ As Czolg continues to battle the northern fire giant with vicious strikes, the r
 
 As Fennuris and Kalinar fire blasts at the fire giant to the south, ADC casts another wall of ice that kills the axe-wielding giant and pushes the other one further back. Meanwhile, Oscorn casts a healing spell that revives Silvius and heals the rest of the team. Oscorn runs up to Silvius to check on him.
 
-As Oscorn reaches Silvius to see if he's ok, the fire giant swings his sword over the wall of ice. Silvius, still on the ground and barely conscious, distracts the giant and saves Oscorn from being hit. The fire giant is furious at the miss and then swings his sword at Silvius. Silvius helplessly waits for the blow that will finish him off until Czolg notices what is about to happen and blocks the blow as his cloud rune glows. Silvius then calls out to the team, telling them to get into the room with him as he blocks the door with a wall of force.
+As Oscorn reaches Silvius to see if he's ok, the fire giant swings his sword over the wall of ice. Silvius, still on the ground and barely conscious, distracts the giant and saves Oscorn from being hit. The fire giant is furious at the miss and then swings his sword at Silvius. Silvius helplessly waits for the blow that will finish him off until Czolg notices what is about to happen and blocks the blow as his cloud rune glows. Silvius then calls out to the team, telling them to get into the room with him so he can block the door with a wall of force.
 
 ADC creates another wall of ice that damages the fire giants in the hallway, while Czolg and Fennuris back into the room as well. The fire giant in the room remains focused on Silvius and Oscorn, laughing at the bard lying on the ground. However, Oscorn commands the two nearest fire giant to flee, but only succeeds in distracting the fire giant in the hallway. 
 
@@ -38,7 +38,7 @@ Silvius, who knows that he cannot take a hit and maintain his focus on the wall 
 
 Fennuris takes aim and shoots the fire dog in the room, while Oscorn tolls the dead, killing the fire dog.
 
-Finally, ADC uses magic to lock the northern door, securing the room from any further attackers.
+Finally, ADC uses magic to lock the northern door, securing the room from any additional attackers.
 
 Oscorn, seeing the tapestry to the east covered a passage, checked the tapestry on the southern wall and found another concealed space with a chest of drawers. 
 
