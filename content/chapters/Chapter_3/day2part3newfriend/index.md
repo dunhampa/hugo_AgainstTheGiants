@@ -34,8 +34,6 @@ Oscorn cast Toll the Dead, attempting to weaken the creature. Kalinar, seeing an
 
 Czolg, taking advantage of the creature's distraction, attacked it with full force. His axe landed a devastating blow on the Chimera, causing it to roar in agony. The group continued their fierce assault, and eventually, Czolg landed a decisive blow that killed the beast.
 
-Breathless from the intense battle, the group paused to catch their breath and recover from their injuries. They took a moment to appreciate each other's bravery and skill, realizing that they made a formidable team. However, their mission was far from over, and they knew that more challenges and dangers awaited them on their quest to find Snure.
-
 Meanwhile, Silvius entered the adjacent room. He found a room that was surprisingly clear and contained a bed, chair, cabinet, and arming rack filled with impressively made armor and weapons hanging above the wall.
 
 Silvius felt a strange feeling as he gazed upon the equipment. He closed his eyes and prayed to Ilmater to guide him on what he was seeing. Suddenly, magical glows filled the room, and the armor, a hammer, shield, and something beside the bed began to glow.
