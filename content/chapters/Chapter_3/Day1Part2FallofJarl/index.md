@@ -50,8 +50,8 @@ Czolg said as he pushed Jarl's body into the lava, "That would have been great a
 
 The team threw the remaining giant bodies into the lava, the team placed their magic items in their designated locations and spoke the magic words to go to the astral plane. 
 
-<video controls>
-  <source src="Video to our patrons 2022-12-29_23-16-38.mp4" type="video/mp4">
+<video controls autoplay loop muted>
+  <source src="Video to our patrons 2022-12-29_23-16-38.mp4" type="video/mp4" >
 </video>
 
 
