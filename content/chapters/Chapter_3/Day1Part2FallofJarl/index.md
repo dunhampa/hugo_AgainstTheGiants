@@ -60,7 +60,7 @@ Oscorn lit the beacon, signaling their location to any allies who might be nearb
 
 Silvius summoned Kazik, the dire wolf as he began playing restful music as they all took a much-needed break. 
 
-{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/Melf 2 2022-12-29_23-17-02" Capition = "Eventually, an elf appeared before them. 'Melf!' exclaimed Oscorn as he approached the elf. Great to see you! Jarl was working with the Oni and planned to take over the world. Jarl is dead, along with many of his toughest warriors. There will be fewer in the black ice now. Jarl had also been recruiting others, including the Oni." width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/Melf 2 2022-12-29_23-17-02.png" Capition = "Eventually, an elf appeared before them. 'Melf!' exclaimed Oscorn as he approached the elf. Great to see you! Jarl was working with the Oni and planned to take over the world. Jarl is dead, along with many of his toughest warriors. There will be fewer in the black ice now. Jarl had also been recruiting others, including the Oni." width = "60%" >}}
 
 Eventually, an elf appeared before them. "Melf!" exclaimed Oscorn as he approached the elf. "Great to see you! Jarl was working with the Oni and planned to take over the world. Jarl is dead, along with many of his toughest warriors. There will be fewer in the black ice now. Jarl had also been recruiting others, including the Oni."
 
