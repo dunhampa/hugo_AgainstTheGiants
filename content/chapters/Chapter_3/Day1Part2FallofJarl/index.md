@@ -48,7 +48,15 @@ He then walked up to Jarl, picked up the massive bone pipe that was the size of 
 
 Czolg said as he pushed Jarl's body into the lava, "That would have been great a few minutes ago!" 
 
-The team threw the remaining giant bodies into the lava, the team placed their magic items in their designated locations and spoke the magic words to go to the astral plane. Oscorn lit the beacon, signaling their location to any allies who might be nearby.
+The team threw the remaining giant bodies into the lava, the team placed their magic items in their designated locations and spoke the magic words to go to the astral plane. 
+
+<video controls>
+  <source src="Video to our patrons 2022-12-29_23-16-38.mp4" type="video/mp4">
+</video>
+
+
+
+Oscorn lit the beacon, signaling their location to any allies who might be nearby.
 
 Silvius summoned Kazik, the dire wolf as he began playing restful music as they all took a much-needed break. 
 
