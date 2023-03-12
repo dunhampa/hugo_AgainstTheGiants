@@ -8,7 +8,7 @@ weight: 3
 
 As the team continued their battle with the towering giants to the north, Silvius noticed something peculiar. His sharp eyes spotted 12 large chests located at the back of the room, arranged in a neat row. The chests were adorned with intricate bronze crests and were accompanied by a beautiful tapestry that hung on the wall behind them.
 
-{{<imageToClickGlobal imgPosition = "left"  Caption = "DALL·E 2023-03-12 10.58.29 -  12 large chests located at the back of the room, arranged in a neat row. The chests were adorned with intricate bronze crests and were accompanied by.png" imagePath = "/img/DALL·E 2023-03-12 10.58.29 - 12 large chests located at the back of the room arranged in a neat row. The chests were adorned with intricate bronze crests and were accompanied by.png"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left"  Caption = "12 large chests located at the back of the room, arranged in a neat row. The chests were adorned with intricate bronze crests" imagePath = "/img/DALL·E 2023-03-12 11.27.30 - single row of large chests located at the back of the room. arranged in a neat row. The chests were adorned with intricate bronze crests and were acco.png"  width = "30%" >}}
 
 
 Silvius approached the door to the north that didn't have any noises coming from it and attempted to pick the lock. However, to his disappointment, he failed miserably. Silvius then turned to Kalinar and signaled him to give it a try. Before proceeding any further, Silvius warned the others of the possible danger, stating that there was a loud bang on the other door to the north. Kalinar unlocked the door in front of Silvius and stepped back to prepare for potential attacks.
@@ -22,6 +22,10 @@ As the tension rose, Kalinar stepped forward and addressed the door in a stern v
 "Got it," Kalinar whispered to Czolg, who was ready to pounce on anyone who dared to attack. As they stepped inside, they saw a dwarf standing in front of them, dressed in a leather work apron. His hands were dirty from manual labor, and his face was stern and suspicious.
 
 "Who are you?" the dwarf asked in a raspy voice. "You're not the hyenas, how did you get here? Ombi is the name," the dwarf introduced himself. Kalinar walked up to the dwarf, studying him closely.
+
+{{<imageToClickGlobal imgPosition = "right"  Caption = "'Ombi is the name', the dwarf introduced himself. Kalinar walked up to the dwarf, studying him closely." imagePath = "/img/DALL·E 2023-03-12 11.30.55 Ombi.png"  width = "60%" >}}
+
+
 
 "We're adventurers," Kalinar said with a friendly smile. "We're here to find our friend, Snure. Can you help us?"
 
