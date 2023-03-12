@@ -8,6 +8,9 @@ weight: 3
 
 As the team continued their battle with the towering giants to the north, Silvius noticed something peculiar. His sharp eyes spotted 12 large chests located at the back of the room, arranged in a neat row. The chests were adorned with intricate bronze crests and were accompanied by a beautiful tapestry that hung on the wall behind them.
 
+{{<imageToClickGlobal imgPosition = "left"  Caption = "DALL·E 2023-03-12 10.58.29 -  12 large chests located at the back of the room, arranged in a neat row. The chests were adorned with intricate bronze crests and were accompanied by.png" imagePath = "/img/DALL·E 2023-03-12 10.58.29 -  12 large chests located at the back of the room, arranged in a neat row. The chests were adorned with intricate bronze crests and were accompanied by.png"  width = "60%" >}}
+
+
 Silvius approached the door to the north that didn't have any noises coming from it and attempted to pick the lock. However, to his disappointment, he failed miserably. Silvius then turned to Kalinar and signaled him to give it a try. Before proceeding any further, Silvius warned the others of the possible danger, stating that there was a loud bang on the other door to the north. Kalinar unlocked the door in front of Silvius and stepped back to prepare for potential attacks.
 
 Czolg immediately moved towards the door from where the noises were emanating. He braced himself, ready to hold the door against any potential threat. Fennuris drew her bow and readied herself for an attack. Meanwhile, ADC moved to the side to peek inside the door, preparing to dodge any incoming danger. ADC's construct, a magical construct, followed close behind, taking up position next to Czolg.
