@@ -9,7 +9,7 @@ WIP DRAFT
 
 With Czolg firmly maintaining his hold on the captured Drow mage, the rest of the party approaches cautiously, their eyes scanning the surroundings for any potential threats. Oscorn, ever watchful, positions himself at the rear, ensuring they are not caught off guard from behind.
 
-Kalinar takes the opportunity to engage the Drow mage in conversation and mock them in their loss "Your friends seemed eager to escape. What's the rush?" he asks, hoping to elicit a respons.
+Kalinar takes the opportunity to engage the Drow mage in conversation and mock them in their loss "Your friends seemed eager to escape. What's the rush?" he asks, hoping to elicit a response.
 
 In a defeated and sullen tone, the Drow mage responds in Undercommon, a language unfamiliar to the team, rendering their efforts at understanding futile. Sensing the confusion and a window of opportunity to flee, the Drow glances around, a puff of mist enveloping her before she vanishes from the teams' sight.
 
@@ -49,7 +49,7 @@ ADC approaches the coffer and runs his hand over its surface, carefully sensing 
 
 Expressing his gratitude, Silvius proceeds to open the coffer, revealing three scrolls within protective sleeves. Silvius identifies the contents of each scroll:
 
-- The first scroll, written in Elvish, is a Scroll of Greater Restoration. Recognizing its potential value, Silvius hands it to Oscorn, knowing that his divine abilities as a cleric will enable him to effectively utilize the scroll's restorative properties to aid their wounded allies.
+- The first scroll, written in Elvish, is a Scroll of Greater Restoration. Recognizing its potential value, Silvius hands it to Oscorn, knowing that his divine abilities as a cleric of life will enable him to effectively utilize the scroll's restorative properties to aid their wounded allies.
 - The second scroll is a Scroll of Divine Word, a potent spell that Silvius tucks away for future use.
 - The third scroll, enclosed in an especially ornate sleeve, contains a truly powerful spell—Gate. Recognizing the immense power and significance of this spell, Silvius carefully hands it over to ADC, acknowledging his proficiency in magic.
 
