@@ -1,6 +1,6 @@
 ---
 title: "Day 3: Part 2: Prisoners of the Drow"
-date: 2010-11-27T23:53:00+01:00
+date: 2010-10-27T23:53:00+01:00
 draft: false
 summary: "The Drow have been pushed out of the bedroom chamber. Exploring what else remains in Snure's lower level"
 weight: 3
