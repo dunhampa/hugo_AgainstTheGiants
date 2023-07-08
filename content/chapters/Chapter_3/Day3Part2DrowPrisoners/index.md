@@ -103,7 +103,48 @@ After the elves finish their heartfelt song, their voices harmonizing with grati
 
 Before parting ways, Oscorn shares the name of his temple, the Temple of Light in Enstad. He encourages the elves to include the name in their songs, knowing that congregations like the Temple of Light will be remembered for their acts of kindness and compassion. The elves nod, understanding the significance of spreading the word about the Temple and the Operation Trundle Wagon. One of the elves speaks up, their voice brimming with sincerity, "Congregations like the Temple will be remembered for their kindness. And your group, the Operation Trundle Wagon, will never be denied."
 
+The team proceeds to the next locked prison cell door. Kalinar skillfully picks the lock, and as the door swings open, he calls out, "Hello, is somebody in there?"
 
-ADDING THE CELL SEARCHING SOON
+Inside the cell, they find a hunched figure, seemingly human. The person looks up and responds in common, "Down here? You still have all your things. What are you doing here? How do you have your things?"
 
+Czolg bluntly replies, "We take their things," referring to the giants they have encountered along their journey. The hunched figure, introducing themselves as Billy, steps forward from the corner of the cell, a mixture of confusion and hope in their eyes. "I haven't been here long. I'm Billy. I don't know how this place works."
 
+Kalinar, noticing a resemblance to the previously freed prisoners, remarks, "You kind of look like the others we let out earlier." Silvius interjects, "But he doesn't sound like a pack of singing elves to me."
+
+Billy expresses their desire to leave, echoing the sentiment of freedom shared by the others. Kalinar continues to pick the lock with a little assistance from Silvius and Oscorn, all while asking Billy, "You didn't come with anybody else?"
+
+Billy replies, "Things get taken, thrown in a bag, end up here where it's hot. I don't know what happened. I understand I was farther away than I should have been."
+
+With the door now unlocked, Billy starts walking toward the team, their weariness evident. Kalinar explains, "We're here to free our lands from the giants and the drow. Do you know anything about them that could help us?"
+
+In a hopeful yet practical tone, Billy asks, "Do you need help selling things?" Silvius chuckles and responds, "Hopefully someday."
+
+Billy nods and promises, "If I make it back to Goth, I will help you." Silvius then provides directions on how to leave the fortress safely.
+
+Grateful for the team's assistance, Billy, the human, follows the same path as the previously freed captives.
+
+The team's gaze shifts to two more prison cells, one to the west and another to the east. Realizing that the western cell lacks a window, they decide to focus their attention on the eastern one. Kalinar climbs onto Czolg's back, attempting to get a glimpse inside, but the absence of a window once again obstructs their view.
+
+Sensing the need for more information, Silvius turns to Waythe and asks for a reconnaissance of the area. Waythe swiftly scouts ahead and relays the information back to Silvius. "Enemies are to the southeast, not towards the door," Waythe reports.
+
+With this knowledge in mind, the team swiftly pops the chains and unlocks the door to the east. Czolg forcefully swings it open, revealing two figures with horse bottoms and humanoid tops — centaurs. Surprised to see more light than they have likely witnessed in days, the centaurs blink in astonishment.
+
+The centaurs ask, "Do you need help?" Czolg interjects with a touch of sarcasm, "We would take some help; you look like you needed some too."
+
+The centaurs, appreciating the honesty, respond, "Everyone can use help here. We are willing to join up if it means getting out of here." Czolg inquires about their presence, asking, "How did you end up here?"
+
+One of the centaurs, named Vrol, recounts their harrowing tale. "They raided our towns and slaughtered us. We managed to take some of them out, but we are unsure why they spared us."
+
+Oscorn, empathizing with their plight, shares a brief summary of their own journey that led them to this fortress. Silvius, eager to inspire the centaurs, opens his book and points out moments of specific glory, highlighting the team's accomplishments.
+
+Curious about the centaurs' origin, Oscorn asks, "How did you two end up here?"
+
+Vrol responds, "Our clan hails from the Whispering Woods, north of Goth, in the Dim Forest. I am Vrol," he gestures to himself, "and this is Kiros," indicating the other centaur.
+
+Silvius seizes the opportunity to inquire about the drow. Vrol admits, "We have heard of them but haven't encountered them personally."
+
+Silvius makes a proposition, "Will you help us with the giants and drow?" Vrol considers the offer carefully before replying, "Our best chance of survival is with all of you. We don't have any of our weapons or belongings anymore. We are skilled with weapons such as pikes and longbows."
+
+After a brief discussion, the team decides to equip the centaurs with suitable weapons. They hand over the fine magical Battleaxe taken from Ombi's room to Vrol and Fennuris's old longbow to Kiros, ensuring they have the means to fight alongside the team.
+
+What is inside the remaining prison cells? What lies in the other areas of Snure's volcano? What lies below?
