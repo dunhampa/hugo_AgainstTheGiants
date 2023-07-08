@@ -1,6 +1,6 @@
 ---
 title: "Day 3: Part 1: Back at the Drow below"
-date: 2010-11-27T23:53:00+01:00
+date: 2010-10-27T23:53:00+01:00
 draft: false
 summary: "After defeating the Snure, the team takes another try at the Drow and Ombi"
 weight: 3
