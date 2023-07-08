@@ -57,6 +57,53 @@ In addition to the scrolls, the team also discovers several glowing rods, each a
 
 Acknowledging the need to tend to their wounds and recuperate, the team takes the opportunity to bandage their injuries and rest for an hour, allowing for a much-needed short rest to restore their strength and vitality.
 
+After realizing the door to the east is locked from the other side, preventing their progress, Kalinar informs the team of their predicament. Recognizing the need to retrace their steps, the team decides to head back west along the path they came, pulling the lever Oscorn had discovered and proceeding northward.
+
+As they continue their journey, the team notices a series of prison cells lining the corridor. Approaching the first prison door to the north, Fennuris takes the initiative, climbing on Czolg's back to reach the sliding window located 12 feet above the ground on the door. Peering through the window, Fennuris catches a glimpse of a shadowy figure inside the cell, hearing the faint sound of Elvish but unable to comprehend the words.
+
+Curiosity piqued, Oscorn requests a turn to observe the figure. Czolg suggests, "Maybe someone not so heavy," prompting Silvius to climb up instead and gaze through the bars. Silvius spots the face of a dark-skinned female leaning forward, her expression filled with a mixture of surprise and confusion.
+
+Silvius initiates the conversation, saying, "Hello." The shadowy figure responds with disbelief, "Am I hallucinating? A human and then an elf?" Silvius reassures her, "No, not at all. We're here." Curiosity fills the figure's voice as she asks, "How are you here? The hallways were infested with giants." Silvius casually replies, "Well, it's now more... littered with giants," gesturing towards the aftermath of the battle behind him.
+
+Introducing herself as Anna, the figure explains that she ventured to speak with the "cold ones" on behalf of her people, hoping to address the havoc they had been wreaking upon her land. However, her efforts proved futile, leading her to this imprisonment. Anna expresses her fear that she may be a victim of some sort of ritual or sacrifice, questioning why she is being held captive.
+
+Silvius, intrigued by her story, asks, "Who are your people?" Anna responds, her voice tinged with sorrow, "I come from the Blackmore, in the black ice. Many of us snow elves live there."
+
+As Silvius converses with Anna, Fennuris, ever observant, leans towards Silvius and whispers, "Does she have a ring?" Silvius smirks mischievously and replies, "I didn't look for one yet. Maybe we'll get there eventually," winking playfully at Fennuris. She rolls her eyes and lets out a slight sigh of disgust, clearly unimpressed with Silvius' flirtatious nature. 
+
+Silvius inquires, "Did you come through the portal of Jarl?" Anna's response carries a sense of weariness as she shares, "Jarl never bothered us. We simply tried to separate from him. He had other plans for our people. I haven't spoken to anyone without the red face or dark complexions for a long time. If you help me, I know my people will pay you handsomely. I just need to get out of here."
+
+Silvius confidently declares, "Well, the Jarl is no more," as he reaches down and retrieves Jarl's pipe that was strapped to Czolg's back. Anna seems unimpressed and remarks, "You just took his pipe. You didn't defeat the Jarl." However, as Anna steps forward, Silvius observes her striking features. She is surprisingly tall and remarkably thin, standing at 6'3" with tan skin, white-blonde hair, and silvery eyes. Her clothing, once bright white, is now tattered and dirtied.
+
+Silvius reassures her, saying, "We did defeat him, and we also got here to you. Let's get you out of here." Silvius attempts to pick the lock, but his efforts prove futile. Oscorn steps in and uses his stone-shaping abilities to create a hole in the stone wall, providing an alternate escape route for Anna. Grateful for the newfound light and the sight of different faces, Anna crawls through the opening, expressing her gratitude.
+
+However, Oscorn reminds the team of their other pressing responsibilities. Anna understands their urgency and acknowledges, "I need to try to make my escape." Oscorn emphasizes their mission, stating, "We have things to do. We must deal with the drow for our own reasons." Anna's face falls and is concerned when she hears the word drow, but she quickly agrees to help in any way she can, including sending goods to assist them. She expresses her concern upon learning of the drow's presence, stating that they are familiar with the drow but have never interacted with them. Anna promises to speak with her leaders about the team and their cause, hoping to garner support from her people.
+
+Oscorn informs Anna about their conquests and their current march on Grugnore, the Jarl's stronghold. He urges her to relay their names and their quest to her leaders, assuring her that they will mention her and her people to their patrons. Anna contemplates their encounter, remarking, "The entrance to the Drow has never been found. Maybe this is why. Who ventures into a place like this?" In response, the entire team raises their hands.
+
+Anna reflects on the enigmatic nature of the drow, stating, "It kind of makes sense now. Nobody knows where they come from, nobody knows where they hail. Maybe the answer lies within." Oscorn seizes the opportunity to inquire about the flying tiger they encountered, but Anna confesses that she has never seen such a creature. When asked about her duration of captivity, Anna admits uncertainty, but urges caution in the team's pursuit of the drow, as their path may hold unknown dangers.
+
+Oscorn seeks any advice Anna can offer regarding the drow, but she confesses that even her people have limited knowledge of their true nature. The team's presence and exploration may shed light on the mysterious and despised drow, potentially making them the discoverers of their true identity. Silvius provides Anna with directions to leave via the path the team initially entered through, allowing her to make her swift departure.
+
+Anna bids the team farewell, expressing her gratitude once again, and disappears into the darkness.
+
+Fennuris climbs onto Czolg's back and peers into the next prison cell, she is greeted with the sight of eight elves. Upon Fennuris' discovery of the elves inside the next prison cell, she quickly relays the information to the team, prompting Kalinar to swiftly pick the lock. With the door now unlocked, Czolg pulls it open, revealing the group of wood elves within. Their eyes widen in surprise and anticipation, unsure of the newcomers' intentions.
+
+One of the elves cautiously steps forward, eyeing the team with suspicion. "You, you're not giants. What do you want?" they inquire. Silvius steps forward and replies, "We're here to rid this place of giants and protect our lands."
+
+The same elf's confusion deepens as they ask, "Are you kidding me? What's going on here? Are there more giants nearby?" Silvius responds with reassurance, saying, "There are more giants, but there are fewer now. We have been fighting to push them back."
+
+The elf's eyes widen with a glimmer of hope, exclaiming, "We can be free, we can leave! We will sing your praises!" Silvius, his excitement palpable, exclaims, "Literally?! We have lyrics!" as he excitedly grabs his book of lore.
+
+The elf, still skeptical but intrigued, remarks, "You seem strangely well-prepared for this. But yes, we will sing your praises! What is your name?" Silvius grins and proudly announces, "We are Operation Trundle Wagon." The newly freed elves begin to sing...
+
+ADD PICTURE WITH OTW SONG
+
+After the elves finish their heartfelt song, their voices harmonizing with gratitude and newfound hope, they make a collective decision to flee. Sensing the urgency of their departure, Oscorn steps forward and offers each elf 50 gold pieces to assist them on their journey to a brighter future. The elves gratefully accept the gold, their eyes filled with appreciation as they shake hands with Oscorn and the rest of the team.
+
+Before parting ways, Oscorn shares the name of his temple, the Temple of Light in Enstad. He encourages the elves to include the name in their songs, knowing that congregations like the Temple of Light will be remembered for their acts of kindness and compassion. The elves nod, understanding the significance of spreading the word about the Temple and the Operation Trundle Wagon. One of the elves speaks up, their voice brimming with sincerity, "Congregations like the Temple will be remembered for their kindness. And your group, the Operation Trundle Wagon, will never be denied."
+
+
 ADDING THE CELL SEARCHING SOON
 
 
