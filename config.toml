@@ -19,9 +19,9 @@ unsafe = true
     url = "/chapters/"
     weight = 2
   [[menu.main]]
-    name = "Backgrounds"
+    name = "The Party"
     pre = "users"
-    url = "/backgrounds/"
+    url = "/party/"
     weight = 3  
 
   
