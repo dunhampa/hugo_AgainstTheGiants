@@ -15,7 +15,7 @@ In a defeated and sullen tone, the Drow mage responds in Undercommon, a language
 
 ADC's pocket fairy companion, ever vigilant, catches a glimpse of another Drow materializing and disappearing in rapid succession. Oscorn, keeping a keen eye on the surroundings, notices a lever pushed upwards, seemingly controlling the door that the Drow burst through earlier. It becomes evident that the door can only be opened from one side.
 
-There is another door to the fart east of the next room, which appears to be a prison cell. Kalinar attempts to force it open, but his efforts prove fruitless as it remains firmly secured from the other side. Searching the bodies of the fallen Drow, the team discovers several Drow shortswords and long dark staffs with a spider design on top. Additionally, they uncover three medallions and a brooch, intriguing artifacts that may hold further significance in their quest.
+There is another door to the far east of the next room, which appears to be a prison cell. Kalinar attempts to force it open, but his efforts prove fruitless as it remains firmly secured from the other side. Searching the bodies of the fallen Drow, the team discovers several Drow shortswords and long dark staffs with a spider design on top. Additionally, they uncover three medallions and a brooch, intriguing artifacts that may hold further significance in their quest.
 
 As the team takes a longer look in the second room, they are struck by its opulence and grandeur, far surpassing the previous chamber. The dark tapestries and floor coverings have been replaced with exquisite furnishings, including ornate cabinets, a lavish bed, elegant tables, sturdy coffers, a grand wardrobe, and several diwans.
 
@@ -102,6 +102,8 @@ ADD PICTURE WITH OTW SONG
 After the elves finish their heartfelt song, their voices harmonizing with gratitude and newfound hope, they make a collective decision to flee. Sensing the urgency of their departure, Oscorn steps forward and offers each elf 50 gold pieces to assist them on their journey to a brighter future. The elves gratefully accept the gold, their eyes filled with appreciation as they shake hands with Oscorn and the rest of the team.
 
 Before parting ways, Oscorn shares the name of his temple, the Temple of Light in Enstad. He encourages the elves to include the name in their songs, knowing that congregations like the Temple of Light will be remembered for their acts of kindness and compassion. The elves nod, understanding the significance of spreading the word about the Temple and the Operation Trundle Wagon. One of the elves speaks up, their voice brimming with sincerity, "Congregations like the Temple will be remembered for their kindness. And your group, the Operation Trundle Wagon, will never be denied."
+
+ADD PICTURE WITH ODE OF OSCORN
 
 The team proceeds to the next locked prison cell door. Kalinar skillfully picks the lock, and as the door swings open, he calls out, "Hello, is somebody in there?"
 
