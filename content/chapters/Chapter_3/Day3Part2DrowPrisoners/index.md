@@ -89,6 +89,8 @@ Anna bids the team farewell, expressing her gratitude once again, and disappears
 
 Fennuris climbs onto Czolg's back and peers into the next prison cell, she is greeted with the sight of eight elves. Upon Fennuris' discovery of the elves inside the next prison cell, she quickly relays the information to the team, prompting Kalinar to swiftly pick the lock. With the door now unlocked, Czolg pulls it open, revealing the group of wood elves within. Their eyes widen in surprise and anticipation, unsure of the newcomers' intentions.
 
+{{<imageToClickGlobal imgPosition = "right"  Caption = "Eight elves delighted to see the team" imagePath = "/img/AtG Chp 3 singing elves.JPG"  width = "60%" >}}
+
 One of the elves cautiously steps forward, eyeing the team with suspicion. "You, you're not giants. What do you want?" they inquire. Silvius steps forward and replies, "We're here to rid this place of giants and protect our lands."
 
 The same elf's confusion deepens as they ask, "Are you kidding me? What's going on here? Are there more giants nearby?" Silvius responds with reassurance, saying, "There are more giants, but there are fewer now. We have been fighting to push them back."
