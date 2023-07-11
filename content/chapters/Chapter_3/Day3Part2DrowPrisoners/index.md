@@ -97,7 +97,7 @@ The elf's eyes widen with a glimmer of hope, exclaiming, "We can be free, we can
 
 The elf, still skeptical but intrigued, remarks, "You seem strangely well-prepared for this. But yes, we will sing your praises! What is your name?" Silvius grins and proudly announces, "We are Operation Trundle Wagon." The newly freed elves begin to sing...
 
-{{<imageToClickGlobal imgPosition = "right"  Caption = "The eight rescued elves sing praises of Operation Trundle Wagon" imagePath = "/img/DALL·E 2023-07-07 01.39.57 - combat fantasy oil painting of a bard muscular white haired in purple robes elf swinging a giant great sword.png"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "right"  Caption = "The eight rescued elves sing praises of Operation Trundle Wagon" imagePath = "/img/AtG Chp 3 OTW Song.JPG"  width = "60%" >}}
 
 After the elves finish their heartfelt song, their voices harmonizing with gratitude and newfound hope, they make a collective decision to flee. Sensing the urgency of their departure, Oscorn steps forward and offers each elf 50 gold pieces to assist them on their journey to a brighter future. The elves gratefully accept the gold, their eyes filled with appreciation as they shake hands with Oscorn and the rest of the team.
 
