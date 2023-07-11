@@ -103,7 +103,7 @@ After the elves finish their heartfelt song, their voices harmonizing with grati
 
 Before parting ways, Oscorn shares the name of his temple, the Temple of Light in Enstad. He encourages the elves to include the name in their songs, knowing that congregations like the Temple of Light will be remembered for their acts of kindness and compassion. The elves nod, understanding the significance of spreading the word about the Temple and the Operation Trundle Wagon. One of the elves speaks up, their voice brimming with sincerity, "Congregations like the Temple will be remembered for their kindness. And your group, the Operation Trundle Wagon, will never be denied."
 
-ADD PICTURE WITH ODE OF OSCORN
+{{<imageToClickGlobal imgPosition = "right"  Caption = "Ode to Oscorn and the Temple of Light" imagePath = "/img/AtG Chp 3 Ode to Oscorn Song.JPG"  width = "60%" >}}
 
 The team proceeds to the next locked prison cell door. Kalinar skillfully picks the lock, and as the door swings open, he calls out, "Hello, is somebody in there?"
 
