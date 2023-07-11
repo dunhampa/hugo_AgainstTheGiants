@@ -89,6 +89,7 @@ Anna bids the team farewell, expressing her gratitude once again, and disappears
 
 Fennuris climbs onto Czolg's back and peers into the next prison cell, she is greeted with the sight of eight elves. Upon Fennuris' discovery of the elves inside the next prison cell, she quickly relays the information to the team, prompting Kalinar to swiftly pick the lock. With the door now unlocked, Czolg pulls it open, revealing the group of wood elves within. Their eyes widen in surprise and anticipation, unsure of the newcomers' intentions.
 
+
 {{<imageToClickGlobal imgPosition = "right"  Caption = "Eight elves delighted to see the team" imagePath = "/img/AtG Chp 3 singing elves.JPG"  width = "60%" >}}
 
 One of the elves cautiously steps forward, eyeing the team with suspicion. "You, you're not giants. What do you want?" they inquire. Silvius steps forward and replies, "We're here to rid this place of giants and protect our lands."
@@ -99,15 +100,21 @@ The elf's eyes widen with a glimmer of hope, exclaiming, "We can be free, we can
 
 The elf, still skeptical but intrigued, remarks, "You seem strangely well-prepared for this. But yes, we will sing your praises! What is your name?" Silvius grins and proudly announces, "We are Operation Trundle Wagon." The newly freed elves begin to sing...
 
+<br>
 
 {{<imageToClickGlobal imgPosition = "right"  Caption = "The eight rescued elves sing praises of Operation Trundle Wagon" imagePath = "/img/AtG Chp 3 OTW Song.JPG"  width = "100%" >}}
 
+<br>
 
 After the elves finish their heartfelt song, their voices harmonizing with gratitude and newfound hope, they make a collective decision to flee. Sensing the urgency of their departure, Oscorn steps forward and offers each elf 50 gold pieces to assist them on their journey to a brighter future. The elves gratefully accept the gold, their eyes filled with appreciation as they shake hands with Oscorn and the rest of the team.
 
-Before parting ways, Oscorn shares the name of his temple, the Temple of Light in Enstad. He encourages the elves to include the name in their songs, knowing that congregations like the Temple of Light will be remembered for their acts of kindness and compassion. The elves nod, understanding the significance of spreading the word about the Temple and the Operation Trundle Wagon. One of the elves speaks up, their voice brimming with sincerity, "Congregations like the Temple will be remembered for their kindness. And your group, the Operation Trundle Wagon, will never be denied."
+Before parting ways, Oscorn shares the name of his temple, the Temple of Light in Enstead. He encourages the elves to include the name in their songs, knowing that congregations like the Temple of Light will be remembered for their acts of kindness and compassion. The elves nod, understanding the significance of spreading the word about the Temple and the Operation Trundle Wagon. One of the elves speaks up, their voice brimming with sincerity, "Congregations like the Temple will be remembered for their kindness. And your group, the Operation Trundle Wagon, will never be denied."
+
+<br>
 
 {{<imageToClickGlobal imgPosition = "right"  Caption = "Ode to Oscorn and the Temple of Light" imagePath = "/img/AtG Chp 3 Ode to Oscorn.JPG"  width = "100%" >}}
+
+<br>
 
 The team proceeds to the next locked prison cell door. Kalinar skillfully picks the lock, and as the door swings open, he calls out, "Hello, is somebody in there?"
 
