@@ -158,10 +158,17 @@ The slime then puffs itself up larger, and to the team's surprise, more oozes dr
 Czolg takes immediate action, swiftly striking down one slime with Panzerfaust, and then another with a decisive swing. He runs forward towards Kalinar, ready to provide support.
 
 Kalinar deftly dodges back and retaliates with a fury of magical blasts, taking out the slime that attacked him.
+
 ADC uses their spellcasting abilities to toll the dead, dealing a powerful blow to the slime in front of Czolg.
+
 Fennuris, relying on her bow and arrows, shoots at another slime. However, her arrows dissolve away in the acidic creature after the strikes.
+
 Another ooze manages to hit Oscorn, but Oscorn retaliates, smashing it back and destroying it with his hammer.
+
 Czolg finishes off the final ooze, pinning it to the wall as it falls into a dead pool on the ground, bubbling away.
+
 Silvius, decides to be more cautions, pulls out Waythe and asks if there are any more enemies nearby. Waythe doesn't sense any, and the team continues on.
+
 They continue to the east past the pool. As Kalinar rounds a corner, he spots a gigantic red dragon in the middle of the room, atop a massive pile of gold and treasure.
+
 The team freezes, their hearts pounding in their chests. The dragon hasn't noticed them yet, and they take a moment to assess the situation. They must decide how to proceed, for the dragon's presence poses a formidable challenge and a potential threat to their mission.
