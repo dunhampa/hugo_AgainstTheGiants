@@ -5,7 +5,6 @@ draft: false
 summary: "The Drow have been pushed out of the bedroom chamber. Exploring what else remains in Snure's lower level"
 weight: 3
 ---
-WIP DRAFT
 
 With Czolg firmly maintaining his hold on the captured Drow mage, the rest of the party approaches cautiously, their eyes scanning the surroundings for any potential threats. Oscorn, ever watchful, positions himself at the rear, ensuring they are not caught off guard from behind.
 
