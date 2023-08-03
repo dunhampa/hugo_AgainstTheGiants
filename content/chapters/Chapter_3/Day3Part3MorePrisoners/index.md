@@ -16,9 +16,13 @@ Turning his attention to the far east, Kalinar spotted a female humanoid figure,
 Another cell held a grim scene - two humanoid skeletons lying lifeless on the cold stone floor. Their presence told a tale of sorrow and struggle, and Kalinar wondered what tragic fate had befallen them.
 
 In another  cell, a fire giant was confined, held captive by unknown forces. Its presence was a clear indication that the dangers within these walls were not to be taken lightly.
+
 As Kalinar continued to peer through the walls, his attention was drawn to something even more concerning. In the far north-eastern corner, near a set of stairs leading down, he glimpsed what appeared to be more fire giants - possibly guardians of this ancient place, waiting to be unleashed upon intruders.
+
 Having seen enough, Kalinar shared his findings with his team. With careful consideration, he suggested opening the cells containing the titan and the female humanoid..
+
 Silvius and Kalinar found themselves facing a massive prison cell, its iron bars enclosing a colossal blue giant. Unconscious and bound in heavy chains, the titan was a formidable sight to behold. The adventurers decided to free him from his captivity.
+
 Czolg nudged the titan gently, hoping to awaken him. Silvius looked to Oscorn, the life cleric, seeking his insight, "What's wrong with him, Oscorn?"
 
 Oscorn examined the titan closely, recognizing the symptoms, "He's been exposed to oil of tagit, a potent sleep-inducing substance."
