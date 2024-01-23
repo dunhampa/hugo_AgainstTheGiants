@@ -6,10 +6,22 @@ summary: "Deeper in the cave, OTW meets Drow and others on their way down"
 weight: 3
 ---
 
+As Silvius and Oscorn approached, they explained to the Drow that they were traders who had heard from members of the House of Despana about a market in the underdark. With news of the Drow rising in importance, they aimed to establish trade on behalf of their respective peoples.
 
-As Silvius and Oscorn approached the Drow, they eloquently explained their purpose. They claimed to be traders who had heard from members of the House of Despana about a burgeoning market in these depths. With the Drow gaining prominence, they sought to establish trade on behalf of both their peoples, fostering cooperation and prosperity.
+The Drow introduced themselves as Rizon. He shared information about the market run by Asperdis, a mysterious figure who had successfully created peace among the Drow, Trolls, and Trogs. Rizon mentioned their mission to clear the passages of oozes ahead of the market to create safer routes, emphasizing the need to bash them to prevent their proliferation. The team felt fortunate they hadn't slashed any oozes and used only other methods of fighting.
 
-The Drow, named Rizon and Yuimar, listened attentively. They shared insights about the market, mentioning its enigmatic overseer, Asperdis. Asperdis had managed to create a delicate peace among the Drow, Trolls, and Trogs, fostering a prosperous environment. Rizon revealed that they were on a mission to clear the passages of oozes ahead, making the routes safer for trade. He emphasized the importance of bashing the oozes, as any other method would only spawn more of the troublesome creatures.
+Grateful for the team's assistance, Rizon offered a black medallion as a symbol of safe passage for minor checkpoints, although it wouldn't aid them with larger fortresses. 
 
-The team, known as Operation Trundle Wagon (OTR), informed Rizon that they had already encountered and dispatched many oozes. Grateful for their assistance, Rizon thanked them and, as a token of appreciation, offered a black medallion. This medallion would serve as a symbol of safe passage for minor checkpoints, although Rizon cautioned that it wouldn't be effective at larger fortresses.
+The team continued down the cave paths, encountering well-formed walls, windows, and doors. They met Drow guards, including Yuimmar, Nedra, and Kiara, who expressed particular interest in Kazik, Silvius' wolf and mount.
 
+Yuimmar shared more about the Drow and the market in the warren. Asperdis had created a truce between the Drow, trogs (referred to as the filthy ones), and trolls. To reach the market, the team would need to travel much further. A river with a ferry from something named Kuatoa could help them cross also was in their path. The team also learned about the diverse offerings at the market, including ancient arts, artifacts, armor, weapons, slaves, and everyday items of all kinds from all over the underdark.
+
+Continuing their journey, OTR passed windows where guards played cards and a storage room filled with food supplies. The clean cave walls turned rough again, and twists, turns, and stalactites reappeared. The team walked in constant darkness, the passage of time indiscernible.
+
+They encountered another group led by a Drow named Sszyrd, who was writing in a book. Behind him stood four trolls and a group of trogs. The team descended drops between them, and Sszyrd, tired of shouting, requested they come down. Silvius explained their purpose in Elvish, stating they were traders looking to open a new route to the warren.
+
+Sszyrd, a trader with the Elservs, wore a bone trader pin with the Elservs symbol. They discussed the arrangement of peace made by Asperdis, with trolls providing muscle and trogs contributing labor. Sszyrd expressed surprise at the group, especially at Kalinar, the half-orc. The troll in the group recognized operation trundle wagon, identifying them as the ones with the rider of the beast, known from rumors and thought of as only fairy tales.
+
+Realizing the situation, Sszyrd informed the group they couldn't pass. Silvius and Oscorn negotiated, highlighting their intention to proceed and preferring a peaceful resolution. Sszyrd, concerned about the importance of what he was carrying, agreed to let them pass without confrontation.
+
+As they walked away, Oscorn made his eyes glow a menacing red as he passed by the troll. The troll responded with a snarl, and the group continued on their journey through the intricate and dangerous underground passages.
