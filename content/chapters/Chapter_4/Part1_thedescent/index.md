@@ -5,5 +5,13 @@ draft: false
 summary: "The search for the home of the Drow begins"
 weight: 3
 ---
+With the immediate threat of the Drow and salamanders gone, the team gathered to discuss their next move. As they huddled in the dimly lit cave in the depths of Snure's fortress, the decision was made to venture deeper into the unknown, seeking the elusive Drow that had been causing trouble. The idea was to pose as traders from the surface, claiming to have heard of the Drow's rise and wishing to establish a new route and connection through the caves.
 
+As they traversed the cavern, the initially rough walls and stalactites hanging from the ceiling soon gave way to a more treacherous path. A slimy stalactite-like creature fell from above, surprising Silvius. The team learned to be patient as the creatures climbed back to the ceiling after their falls.
+
+Continuing their journey, they marveled at the glowing fungi on the cave walls until they reached a pool of murky water. Silvius, ever curious, tapped the water with his foot, unwittingly unleashing three large monsters with gnashing teeth and swinging tentacles – ropers. A fierce battle ensued, with Silvius and his comrades facing the danger head-on. The team prevailed, defeating the ropers. Later they also met several trolls they also needed to deal with.  Sustaining injuries, they decided to take a short rest to bandage their battle wounds.
+
+Undeterred, they pressed forward, deeper into the cave. A sulfur smell wafted through the air. Yellow oozes emerged from cracks in the cave, prompting a swift response from the team. Operation trundle wagon efficiently dealt with the oozes that emerged from the north and south.
+
+As they continued their exploration, the team encountered a group of Drow escorting bugbears held captive in mancatchers. Silvius called out to them in Elvish, and the guards responded. The situation hung in the balance as the team stood ready, uncertain of the Drow's intentions and the fate of the bugbears.
 
