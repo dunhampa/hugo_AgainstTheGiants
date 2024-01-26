@@ -15,11 +15,21 @@ Oscorn inquired about the house that owned the fortress, but the Drow provided n
 
 Fennuris reassured Silvius that the tracks belonged to Drow, not dragons, mocking him slightly. Realizing this path likely led to the warrens and could take weeks to traverse, the team redirected their attention to the fortress.
 
-Oscorn prayed for the gift of sight, manifesting an invisible eye that scouted the fortress's interior. Meanwhile, Czolg befriended a bat, using it to gather information on guards and potential entry points. With new insights, the team returned to Canon after several hours.
+Oscorn prayed for the gift of sight, manifesting an invisible eye that scouted the fortress's interior. 
+
+Czolg looked up at the bats hanging from the cave ceiling. A mischievous glint appeared in his eyes as he extended a hand towards one of them. "Hey, bat friend. Want some treats?".
+
+To the surprise of the rest of Operation Trundle Wagon, the bat descended, fluttering down gracefully until it perched on Czolg's outstretched arm. The two engaged in what seemed like an animated conversation, filled with squeaks and gestures. The rest of the team exchanged amused glances.
+
+Czolg pulled out a small pouch of rations and started stuffing bits of food into a nook in the cave wall. The bat eagerly nibbled at the offerings, seemingly appreciative of the unexpected feast. Czolg continued to talk and squeak in a language only he and the bat seemed to understand.
+
+The bat, now content with its impromptu meal, took flight and disappeared into the darkness of the cave. Czolg turned back to the team, wearing a satisfied smile. "Bat friend here is checking out the guards for us." When the bat returned, Czolg continued the converstation and let the rest of the team know about the guards near the other bridge to the west. 
+
+With new insights, the team returned to Canon after several hours.
 
 Approaching the bridge, they observed armed Drow on guard. In the middle stood a heavily armored female Drow with a mace, identifying the team as the group that attacked Drow on the surface. Silvius attempted to negotiate, emphasizing their non-hostile intentions, but she remained steadfast in her refusal.
 
-The team devised a plan. Oscorn prayed again, summoning an angel that carried him across the channel. Simultaneously, Silvius teleported with Czolg next to the smoking Drow, and together they swiftly incapacitated him.
+The team walked way and devised a new plan. Oscorn prayed again, summoning an angel that carried him across the channel. Simultaneously, Silvius teleported with Czolg next to the smoking Drow, and together they swiftly incapacitated him.
 
 Oscorn's angel ferried the rest of the team across, and they quickly descended a hallway deeper into the fortress. Kalinar burst into a room, startling a sleeping Drow, who began screaming. ADC and Silvius silenced the Drow with magic and mockery.
 
