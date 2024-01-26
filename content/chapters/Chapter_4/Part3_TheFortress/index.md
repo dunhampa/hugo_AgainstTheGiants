@@ -25,7 +25,7 @@ Czolg pulled out a small pouch of rations and started stuffing bits of food into
 
 The bat, now content with its impromptu meal, took flight and disappeared into the darkness of the cave. Czolg turned back to the team, wearing a satisfied smile. "Bat friend here is checking out the guards for us." When the bat returned, Czolg continued the converstation and let the rest of the team know about the guards near the other bridge to the west. 
 
-With new insights, the team returned to Canon after several hours.
+With new insights, the team returned to the front gate to meet Canon after several hours.
 
 Approaching the bridge, they observed armed Drow on guard. In the middle stood a heavily armored female Drow with a mace, identifying the team as the group that attacked Drow on the surface. Silvius attempted to negotiate, emphasizing their non-hostile intentions, but she remained steadfast in her refusal.
 
