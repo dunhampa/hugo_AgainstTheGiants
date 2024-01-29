@@ -36,3 +36,24 @@ Silvius eagerly asked, "What does it say?"
 Zeke pointed at each location on the map and shared his understanding. "On the top, it reads 'Vault, Drow.' The two dots represent 'Black Guardians.' The third says something like 'Vault and Drow, maybe Gate?' The fourth mentions a shrine and another word that sounds like 'Kua toa.' Those are rarely seen, and even more rarely, if not never, in the Underdark. They tend to worship large gods. The fifth talks of a barge crossing, and the map looks like a river. The sixth says 'caverns and warrens.' Seven is a spy post. The final set of symbols says 'checkpoint.' After that... who knows."
 
 Silvius thanked Zeke, and with a determined gaze, he continued to study the map. Zeke chimed in, "I hope that helped."
+
+The group turned to each other, deliberating on their next move. The challenges posed by Brazemel may have stalled their progress, but the looming presence of giants and Drow demanded their attention.
+
+Kalinar directed his question to Baldo, the fire giant, "Have you ever heard of this checkpoint mentioned?"
+
+Baldo responded with a shake of his head, "Never heard of it."
+
+Silvius pointed to the northeast, suggesting, "Let's try that way."
+
+Czolg, always attentive to details, questioned, "What about the door?"
+
+Silvius shuddered at the memory, "Let's definitely close it."
+
+Operation Trundle Wagon continued its journey to the northeast. As they advanced, Czolg spotted a fire giant guarding the passage and quickly stepped back. He relayed the information to the team, "I see a fire giant ahead, I think he saw me."
+
+The message passed through the group, and a tense silence followed. Several minutes passed, and they heard nothing. Czolg and Silvius, later on, cautiously began moving forward. As soon as they did, a fire giant appeared, staring back at them, and a boulder whizzed past their heads.
+
+"Blow it!" the fire giant commanded, and a loud horn sounded, echoing through the cavern.
+
+The team collectively sighed, "Oh no, not again," recognizing the familiar sound of an alarm.
+
