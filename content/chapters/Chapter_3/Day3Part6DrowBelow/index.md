@@ -57,3 +57,24 @@ The message passed through the group, and a tense silence followed. Several minu
 
 The team collectively sighed, "Oh no, not again," recognizing the familiar sound of an alarm.
 
+Silvius, having turned invisible, sneaked forward and spotted two fire giants. He sent a silent magical message to Czolg, "There are two of them. We can take them."
+
+Before Operation Trundle Wagon could make a move, one of the fire giants spotted Silvius, despite his invisibility. ADC wasted no time and charged, creating a storm of ice that painfully froze the furthest fire giant and covered the path in shards of ice.
+
+Czolg attacked the nearest giant with his spear, Panzerfaust. Oscorn peeked around the corner and tolled the dead on the frozen fire giant, remarking, "ADC has got one iced down pretty well!"
+
+Kalinar unleashed a blast on the same frozen fire giant. The battle seemed to be turning in their favor, but suddenly, the sound of crossbow bolts filled the air. One bolt struck Kalinar in the leg, carrying a burning sensation of poison. Another bolt hit Silvius's wolf, Kazik, poisoning him.
+
+As arrows flew, two boulders crashed into ADC and Silvius, causing significant damage. Silvius, now visible and shocked, mocked the fire giant as he hopped on Kazik and ran back to the others, screaming, "These fire giants can see invisible creatures!"
+
+ADC pulled back, noticing several Drow fighters approaching. Two centaurs arrived, joining the fight against the Drow and clashing with their swords and hooves. Oscorn, observing more Drow behind them, called out to the others as he tolled the dead to harm the first approaching Drow.
+
+Kalinar took down a Drow with a powerful blast and shouted to Fennuris, "You can get a better shot from here!" The Drow and centaurs continued their intense combat, with Kalinar's tentacle aiding in defending the centaurs.
+
+A voice in Undercommon resonated, and suddenly, the centaurs were covered in a glowing light, making them easy targets for the surrounding Drow. A particularly well-armored Drow approached a centaur and struck it down with his swords. Fennuris, repositioning himself, began shooting at the Drow.
+
+The battle raged on, with OTR feeling the Drow and giants losing their advantage. Darkness enveloped Oscorn and some others due to the Drow's tactics.
+
+As Drow were defeated near Silvius, he ran back to the other flank on Kazik and pulled out his magical lantern. ADC summoned an earth elemental that delivered powerful blows to the Drow. Czolg continued stabbing the fire giant in front of him with his spear, and Oscorn, now aided by Silvius's light, attacked the remaining Drow.
+
+The entire team focused their might on the remaining fire giant and they successfully brought him down.
