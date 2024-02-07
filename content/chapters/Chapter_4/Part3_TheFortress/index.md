@@ -34,3 +34,45 @@ The team walked way and devised a new plan. Oscorn prayed again, summoning an an
 Oscorn's angel ferried the rest of the team across, and they quickly descended a hallway deeper into the fortress. Kalinar burst into a room, startling a sleeping Drow, who began screaming. ADC and Silvius silenced the Drow with magic and mockery.
 
 Meanwhile, Oscorn and the others charged into a larger room to the north, startling two Drow sitting at a table. As they prepared to engage, Czolg screamed in horror at the sight of numerous doors in the room—a manifestation of his worst nightmare.
+
+Kalinar rushed into the large well decorated room, his first blast misfiring into a cloud of smoke. With precision, his next two blasts found their mark, striking the Drow. In orcish, he yelled, "Get on the ground and you won’t be harmed," a command that went completely misunderstood by everyone else.
+
+From his tiara, Oscorn could hear the Drow yelling, "To the south, to the south. Invaders to the south," alerting their comrades to the intrusion.
+
+As Kalinar aimed to neutralize the threat, a Drow retaliated with a hand crossbow bolt, striking him. Despite the pain and the poison coursing through his veins, Kalinar fought through it, landing another hit with his crossbow and battling off the effects of the potent toxin.
+
+Meanwhile, Drow reinforcements emerged from a northern door, adorned in studded leather and emerging from a lavishly decorated room. ADC summoned an earth elemental to counter the Drow mage's spells.
+
+Kazik the wolf remained vigilant, guarding the south passage where the team had entered, ensuring that no enemies could flank them or escape unnoticed. 
+
+Silvius dashed into the large room and took cover under a nearby table, using it as a makeshift shield from the chaos erupting around him.
+
+A massive lightning bolt crashed from the south, striking Oscorn, but surprisingly, he managed to dodge most of it, the electrical static still sparking between his armor plates as he entered the room alongside his companions.
+
+Czolg, recognizing the danger of fighting in the open, made a decisive move, opening the door to the west next to Kalinar. Immediately, a Drow on the other side fired a hand crossbow, hitting Kalinar who stood beside Czolg.
+
+Undeterred, Czolg charged into the adjacent room, which appeared to be a kitchen, and engaged the Drow in combat. Kalinar, still reeling from the crossbow bolt, managed to land a shot on one of the Drow, but a painful miss threw him off balance, forcing him to seek cover by the hearth near the fireplace.
+
+As a bolt whizzed past ADC, he surged forward, his construct companion moving alongside him as they advanced toward the Drow.
+
+Suddenly, the door to the northeast swung open, revealing two elves clad in dark studded leather armor and garbed in dark clothes, charging into the room with determined ferocity. A small glowing globe sailed through the air, striking the wall to the southwest and spreading a thick mist throughout that corner. Silvius attempted to intimidate the Drow responsible for the globe, but his efforts fell short as the Drow remained unfazed.
+
+With bolts flying in every direction, one struck ADC, causing him to weaken and fall unconscious. Oscorn reacted swiftly, hurling a bead from his necklace of fireball, engulfing all the Drow to the northeast in flames and scorching the surroundings. Frantically, he tried to rouse ADC from his slumber amidst the chaos.
+
+Czolg, recognizing the need to control the situation, positioned himself by the door through which the team had entered, growing massive in stature to intimidate any foes who dared to approach.
+
+As magical blasts of light shot across the room, Oscorn and Silvius dodged, but ADC began to glow green on the ground, his condition worsening. Kalinar summoned a mass of tentacles, ensnaring one of the Drow and injuring the others, while his cold tentacle by the door attempted to strike another, albeit unsuccessfully.
+
+Meanwhile, a Drow clad in black armor charged in, striking Silvius before being shoved to the ground in retaliation. Silvius called out to Czolg for assistance, urging him to open the door for Kazik and come to his aid. Rushing to the far western side of the room, Silvius offered healing words to ADC as he passed, though ADC remained unconscious.
+
+Another bolt from a Drow struck Silvius, causing him to collapse from the poison coursing through his veins. Surrounded by Drow, Silvius sustained a festering wound to his shoulder, the pain searing through him. Yet, amidst the peril, Czolg redirected a blow intended for Silvius, striking down the Drow assailant. 
+
+As Silvius regained consciousness, his concern for his shoulder wound dissolved as he caught Oscorn's reassuring wink and silent promise of protection.
+
+Silvius conjured a wall of force, pushing the enemies to the opposite side of the chamber as Kazik dashed inside to rouse ADC from unconsciousness.
+
+With determination in his voice, Silvius rallied his companions, announcing, "I've erected a barrier. But those spiders will find a way over it. We must regroup."
+
+Meanwhile, Oscorn unleashed another casting of Dawn, illuminating the area with a radiant column of sunlight that seared the Drow as they recoiled in agony.
+
+However, amidst the chaos, Czolg appeared fixated, his focus diverted as he inexplicably launched into an attack on his friend ADC. His swings were wild and uncontrolled, missing their mark as Silvius intervened, distracting Czolg and ensuring that ADC remained unharmed by the frenzied assault. 
