@@ -122,3 +122,117 @@ Meanwhile, Oscorn, with a resigned sigh at the setback, focused his efforts on p
 Suddenly, a wave of mysterious energy surged through the room, causing fallen Drow warriors to stir and rise once more, much to the bewilderment of ADC, who struggled to comprehend the nature of this unusual restorative magic.
 
 In the midst of the chaos, the Drow leader made a futile attempt to restrain Silvius, but the determined Silvius shrugged off the feeble effort, pressing onward with unwavering resolve.
+
+As the chaos unfolded around them, Czolg seized the opportunity to press the attack, charging forward with a ferocious determination. With a swift strike from the butt of his spear, he incapacitated one of the Drow assailants before surging forward to deliver a fatal blow to another. With his spear wielding deadly precision, Czolg swiftly dispatched the remaining adversary who had been facing off against the tentacle.
+
+Meanwhile, Kalinar unleashed a devastating blast of energy, striking down one of the Drow assailants with a potent magical assault. Simultaneously, the tentacle lashed out at another Drow, ensnaring the foe in its grasp.
+
+Elsewhere, a Drow archer took aim at Kazik, but Silvius, with a taunting jest, managed to distract the assailant, causing his shot to go astray.
+
+However, the looming threat of the oozing tree diverted their attention, as it abandoned its assault on the elemental and charged menacingly towards Czolg. With a swift and decisive strike from his spear, Panzerfaust, Czolg halted the tree's advance, preventing it from reaching him.
+
+Amidst the chaos, a Drow mage attempted to cast a paralyzing spell at Silvius and Kazik, but while Silvius managed to shake off the effects, Kazik fell victim to the paralysis. Silvius quickly sprang into action, freeing his faithful steed before urging him forward into the fray. Kazik charged forth, unleashing a barrage of spectral energies that struck down several Drow adversaries, while Silvius turned his attention to the Drow responsible for Kazik's paralysis, urging Czolg to deliver the final blow.
+
+However, their respite was short-lived, as the door to the northeast swung open, revealing two formidable Drow adversaries who wasted no time in launching a barrage of spells at Silvius. With quick reflexes, Silvius managed to counter one of the spells, but the other succeeded in dispelling the protective spirits that had been menacing the nearby Drow.
+
+Responding to Silvius's call, Czolg turned his attention to the oozing tree, swiftly dispatching the monstrous creature before charging northward. Though he missed his intended target, the Drow Commander identified by Silvius.
+
+Meanwhile, Silvius found himself engaged in a fierce melee with the Drow Commander, exchanging blows with the formidable adversary. With a flaming sword in hand, Silvius retaliated with a swift strike before swiftly retreating towards the safety of the kitchen to the west.
+
+Seeing an opportunity, Kalinar unleashed another barrage of tentacles and blasts, finally vanquishing the Drow Commander.
+
+the Drow onslaught intensified, with warriors surging in from the south to launch a ferocious assault on Fennuris and Oscorn. Their poisoned swords struck true, inflicting painful wounds upon the two adventurers.
+
+Despite the onslaught, Oscorn managed to evade many of the incoming strikes through a combination of skillful dodges and fervent prayers for divine protection. However, the relentless barrage proved too much, causing him to lose concentration on his beacon of hope spell.
+
+Meanwhile, Fennuris swiftly dodged past the Drow attackers, vanishing into the smoke-filled room beyond the door, seeking refuge from the relentless assault.
+
+In the midst of the chaos, a powerful Drow mage emerged, wielding a potent spell that paralyzed Czolg with a magical force, rendering him immobile and vulnerable to further attacks.
+
+As the situation grew increasingly dire, a glowing globe of magical energy struck Kazik, blinding the faithful wolf and leaving him disoriented amidst the chaos.
+
+Undeterred by the adversity, Kalinar unleashed another powerful blast of energy, while one of his tentacles struck out at a nearby Drow, momentarily disrupting their advance.
+
+With grim determination, Silvius charged forward atop the blinded Kazik, his flaming sword cutting through the ranks of Drow assailants with deadly precision. However, as he sought refuge behind a nearby door, a sudden and devastating blast of lightning tore through the barrier, engulfing Silvius and Kazik in a blinding flash of electricity and leaving them both lifeless on the ground.
+
+As the chaos unfolded, Oscorn found himself besieged by Drow attackers, their poisoned shortswords striking him with deadly precision. Despite the onslaught, Oscorn summoned his divine strength and skillfully dodged many of the incoming strikes, weaving through the melee with a combination of agility and divine protection.
+
+Swiftly evading the Drow surrounding him, Oscorn threw a bead with precision, unleashing a fiery explosion that engulfed the area in flames. The blast incinerated everything in its wake, leaving charred remnants in its wake. With a divine word, Oscorn unleashed a wave of divine energy, obliterating most of the remaining Drow instantly while leaving the survivors stunned and blinded.
+
+Meanwhile, Czolg emerged from his paralyzed state as the Drow holding him fell to Oscorn's relentless onslaught. With renewed vigor, Czolg struck out at the nearest Drow, delivering two vicious blows that left the assailant reeling.
+
+As the battle raged on, Kalinar unleashed another blast of energy, dispatching yet another Drow assailant who threatened Oscorn. However, Oscorn was not spared as another Drow struck him with a poisoned crossbow bolt, causing him to stagger and fall.
+
+Fenurris, seizing the opportunity, targeted the drow mages as they recoiled in pain, picking them off with precise shots as they attempted to seek cover behind the doors to the east.
+
+Meanwhile, Kalinar rushed back to Silvius's side, administering a healing potion to revive him. Silvius wasted no time in returning to his feet, immediately rushing to Oscorn's aid. With a few healing words, Silvius restored Oscorn's strength before turning his attention to the nearby Drow assailant, dispatching him with a swift strike. With Oscorn now revived, Silvius urged him to seek safety in the kitchen before thanking Kalinar for his aid.
+
+As the battle continued to unfold, ADC unleashed a flurry of steel wind strikes, cutting down several of the Drow warriors and mages scattered throughout the room. Commanding the earth elemental, ADC directed it to strike at a Drow to the south, further thinning the enemy's ranks.
+
+Meanwhile, Drow assailants swung their weapons at Oscorn, but his magical defenses allowed him to deftly evade their attacks. However, a Drow to the south began to move his hands in a manner similar to Kalinar's tentacles, prompting ADC to swiftly intervene and halt the Drow's spellcasting.
+
+Another Drow cast a web, ensnaring ADC and Czolg in sticky strands. Sensing the danger, Oscorn vanished in a poof of mist and made his way north to join Kalinar and Silvius. Calling upon his god, Oscorn invoked a healing spell to restore his and Silvius's vitality.
+
+Fennuris reappeared momentarily, firing off shots at several Drow before disappearing once more into the shadows.
+
+Meanwhile, Czolg pressed forward to the northeast, striking at the Drow with his spear before stepping back, poised for their next move. Kalinar, on the other hand, blasted a Drow before rushing to the nearby bedroom, gathering up documents and books and stowing them away in his bag of holding.
+
+Despite sustaining a hit from a poisoned bolt, Czolg shook off the effects as ADC unleashed a fireball, incinerating more Drow foes. Silvius reentered the room, taunting the remaining Drow near ADC's elemental before retreating back into the safety of the kitchen. Informing Oscorn of the absence of the powerful casters and globe thrower, Silvius ensured the team remained informed of the changing dynamics of the battlefield.
+
+In a strategic move, Oscorn stepped forward, bestowing the blessing of the spell beacon of hope upon Czolg, ADC, Silvius, and himself, bolstering their spirits and enhancing their abilities. Meanwhile, Fenuris, ever elusive, vanished once again from sight, ready to strike from the shadows when the opportunity presented itself.
+
+Czolg, catching his breath and feeling the adrenaline coursing through his veins, takes a moment to rally the team. "Are we pressing on or what?" he asks, his voice resolute.
+
+Kalinar, fueled by determination, charges into the large room, his magic crackling in anticipation of battle.
+
+ADC, ever agile, darts forward, skillfully dodging any potential threats in his path.
+
+Silvius, his lantern ablaze with magical light, re-enters the main room, his senses keen and alert.
+
+Oscorn, cautious and strategic, urges the team to consider their next move carefully. "Maybe we shouldn't just charge through the northern door?" he suggests, prompting a moment of reflection.
+
+Fennuris materializes once more, agreeing to hold their position and await further instructions.
+
+After a brief discussion, the team resolves to proceed through the door to the northeast. Silvius and Kalinar hastily flip over a nearby table to provide cover, while the rest of the team readies themselves for whatever lies beyond.
+
+With a wave of his hand, Silvius magically swings the door open, revealing a scene of eerie silence. Inside the room, they find a powerful forcecage containing three lifeless bodies, blood staining the floor around them. Silvius is taken aback, his mind racing with questions. How did these bodies end up in such a formidable cage of pure force? It was a mystery that left him perplexed and uneasy.
+
+Concerned by what he's seeing, Silvius casts detect magic, his senses probing for any signs of arcane energy. His attention is drawn to a faint glow emanating from the fallen commander, and upon closer inspection, he discovers it's coming from a case of crossbow bolts nearby. Silvius retrieves the case, intrigued by its significance.
+
+Turning his attention to the fancy bedroom presumed to belong to the fallen Drow commander, Silvius searches for any clues or items of importance but comes up empty-handed, further deepening the mystery surrounding their current situation.
+
+As the team delves deeper into the rooms to the northeast, Oscorn begins his search, scouring the area for any items of interest. Here's what he finds:
+
+Pile of Papers
+Bones around a lamp
+Book from Table
+Very nice book from end table
+Kris
+4 carved art objects with 25 gold pieces each
+
+Meanwhile, Kalinar focuses on the other bedroom, swiftly gathering all the papers from the table and books from the shelf into his bag.
+
+While exploring, Oscorn encounters a door that burns his hand when he attempts to open it. Stepping back, he resorts to using magic to open it safely.
+
+Czolg, in his search, accidentally strikes a crate, perhaps hoping to find something of value inside.
+
+ADC, displaying a more laid-back approach, strolls into the main room and takes a seat on one of the couches, issuing a casual request for any noteworthy discoveries from the team.
+
+Silvius, utilizing his keen magical senses, discerns evocation and abjuration magic on the door that caused Oscorn harm. He dispels the magic, alerting Oscorn to the potential danger lurking to the north.
+
+In the bedroom, Oscorn uncovers four art objects and a bag of holding within the magical glow detected by Silvius.
+
+In his eagerness to press forward, Kalinar rushes ahead and opens a previously trapped door, revealing a gruesome sight—a human sacrifice gruesomely cut in half within a horrifyingly decorated room. Silvius, visibly shaken by the sight, quickly moves on to check the next room.
+
+After examining the contents of the bedroom, Silvius reports back to the group, noting that nothing within the room emits a magical glow.
+
+Czolg, feeling a sense of disappointment, attempts to interact with a crate, but his efforts yield no valuable discoveries.
+
+ADC, seizing the opportunity, takes the magic bolt offered by Silvius, adding it to his collection.
+
+As Silvius investigates the other bedroom, his attention is drawn to a glowing scroll case, prompting him to share his findings with the rest of the team.
+
+
+
+
+
