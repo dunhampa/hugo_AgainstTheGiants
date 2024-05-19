@@ -165,17 +165,17 @@ As the battle raged on, Kalinar unleashed another blast of energy, dispatching y
 
 Fenurris, seizing the opportunity, targeted the drow mages as they recoiled in pain, picking them off with precise shots as they attempted to seek cover behind the doors to the east.
 
-Meanwhile, Kalinar rushed back to Silvius's side, administering a healing potion to revive him. Silvius wasted no time in returning to his feet, immediately rushing to Oscorn's aid. With a few healing words, Silvius restored Oscorn's strength before turning his attention to the nearby Drow assailant, dispatching him with a swift strike. With Oscorn now revived, Silvius urged him to seek safety in the kitchen before thanking Kalinar for his aid.
+Kalinar rushed back to Silvius's side, administering a healing potion to revive him. Silvius wasted no time in returning to his feet, immediately rushing to Oscorn's aid. With a few healing words, Silvius restored Oscorn's strength before turning his attention to the nearby Drow assailant, dispatching him with a swift strike. With Oscorn now revived, Silvius urged him to seek safety in the kitchen before thanking Kalinar for his aid.
 
 As the battle continued to unfold, ADC unleashed a flurry of steel wind strikes, cutting down several of the Drow warriors and mages scattered throughout the room. Commanding the earth elemental, ADC directed it to strike at a Drow to the south, further thinning the enemy's ranks.
 
-Meanwhile, Drow assailants swung their weapons at Oscorn, but his magical defenses allowed him to deftly evade their attacks. However, a Drow to the south began to move his hands in a manner similar to Kalinar's tentacles, prompting ADC to swiftly intervene and halt the Drow's spellcasting.
+Drow assailants swung their weapons at Oscorn, but his magical defenses allowed him to deftly evade their attacks. However, a Drow to the south began to move his hands in a manner similar to Kalinar's tentacles, prompting ADC to swiftly intervene and halt the Drow's spellcasting.
 
 Another Drow cast a web, ensnaring ADC and Czolg in sticky strands. Sensing the danger, Oscorn vanished in a poof of mist and made his way north to join Kalinar and Silvius. Calling upon his god, Oscorn invoked a healing spell to restore his and Silvius's vitality.
 
 Fennuris reappeared momentarily, firing off shots at several Drow before disappearing once more into the shadows.
 
-Meanwhile, Czolg pressed forward to the northeast, striking at the Drow with his spear before stepping back, poised for their next move. Kalinar, on the other hand, blasted a Drow before rushing to the nearby bedroom, gathering up documents and books and stowing them away in his bag of holding.
+Czolg pressed forward to the northeast, striking at the Drow with his spear before stepping back, poised for their next move. Kalinar, on the other hand, blasted a Drow before rushing to the nearby bedroom, gathering up documents and books and stowing them away in his bag of holding.
 
 Despite sustaining a hit from a poisoned bolt, Czolg shook off the effects as ADC unleashed a fireball, incinerating more Drow foes. Silvius reentered the room, taunting the remaining Drow near ADC's elemental before retreating back into the safety of the kitchen. Informing Oscorn of the absence of the powerful casters and globe thrower, Silvius ensured the team remained informed of the changing dynamics of the battlefield.
 
@@ -222,15 +222,38 @@ Silvius, utilizing his keen magical senses, discerns evocation and abjuration ma
 
 In the bedroom, Oscorn uncovers four art objects and a bag of holding within the magical glow detected by Silvius.
 
-In his eagerness to press forward, Kalinar rushes ahead and opens a previously trapped door, revealing a gruesome sight—a human sacrifice gruesomely cut in half within a horrifyingly decorated room. Silvius, visibly shaken by the sight, quickly moves on to check the next room.
+Kalinar rushes ahead and opens the previously trapped door, revealing a gruesome sight—a human sacrifice gruesomely cut in half within a horrifyingly decorated room. Silvius, visibly shaken by the sight, quickly moves on to check the next room.
 
 After examining the contents of the bedroom, Silvius reports back to the group, noting that nothing within the room emits a magical glow.
 
-Czolg, feeling a sense of disappointment, attempts to interact with a crate, but his efforts yield no valuable discoveries.
+Czolg continues to smash and fail to smash crates in disappointment.
 
-ADC, seizing the opportunity, takes the magic bolt offered by Silvius, adding it to his collection.
+ADC takes the magic bolt offered by Silvius. ADC lets him know it's a bolt of vapors that casts stinking cloud when it is fired. Silvius packs up the bolt in the case and staps it to his waste.
 
-As Silvius investigates the other bedroom, his attention is drawn to a glowing scroll case, prompting him to share his findings with the rest of the team.
+As Silvius investigates the other bedroom, his attention is drawn to a glowing scroll case, prompting him to share his findings with the rest of the team. He shares the six scrolls he finds with ADC. 
+
+The team decides to take a break and all bandage their wounds and rest in the large fancy bedroom. Silvius brings back Kazik the wolf. 
+
+After time passes, the forcecage holding the high level priestess in fine clothing and two other Drow. The clothing on the priestess seem like they would be worn by someone important. She carries is a five tailed scourge. Design on handle and everything that matches the symbols in the sacrifice room. She also is wearing an Elserves medalion that Silvius takes. 
+
+They search the remaining drow fighters and mages and don't find much of any interest. They find some regular weapons and spell components. They also find several vials of poison on the Drow fighters, but have no idea how to use it. Silvius grabs two vials. Silvius also goes to the armory and takes several pieces of Drow armor and weapons and puts them in his bag of holding:
+
+5 shortswords 
+5 hand crossbows
+50 crossbow bolts
+5 daggers
+5 setos of Drow leather armor. Each set is well made and of a different world
+
+The team also divides the spell scrolls:
+
+Fennuris takes a 2nd level find traps scroll
+Kalinar a 3rd level tongues scroll and the potion of superior healing 
+Oscorn the 4th level cure wounds and a 2nd level protection from poison scroll 
+Silvius the 2nd level heat metal and a scroll of stone tell
+
+OTR then decides to carry on from the fotress, but not before Czolg has one final snack from the kitchen.
+
+
 
 
 
