@@ -141,11 +141,11 @@ Fennuris examines the area and deduces that it has been abandoned for over a hun
 
 They head back to the pit room, where Silvius notices something glowing in the walls. Moving closer, he sees items emitting a magical aura and gold scattered everywhere. On closer inspection and with identification of magic with the help of ADC they discover:
 
-Potions of healing
+Potion of healing
 
 Potion of climbing
 
-Scrolls of shocking grasp 
+Scroll of shocking grasp 
 
 Scroll of shield of faith
 
