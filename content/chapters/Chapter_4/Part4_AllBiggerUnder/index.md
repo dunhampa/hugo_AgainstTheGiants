@@ -33,7 +33,7 @@ The team moves forward cautiously, anticipating the appearance of other insects.
 
 Suddenly, four dark-colored ants with flat, large heads come scurrying around the corner at a rapid pace, heading straight towards the team.
 
-The ants quickly surround Fennuris, Silvius, and Kazik. One of the ants tries to pass by, but Kazik bites and kills it instantly.
+More ants emerge in front of them as well as behind them. The ants quickly surround Fennuris, Silvius, and Kazik. One of the ants tries to pass by, but Kazik bites and kills it instantly.
 
 Fennuris fires her arrows at the ants around them, swiftly killing all four. She spins around and fires another arrow at an ant approaching from the north, taking it down.
 
