@@ -186,6 +186,208 @@ ADC is amazed at the three legendary magical items they found:
 
 A vorpal scimitar that he hands to Kalinar
 A ring of djinni summoning given to Fennuris
-A Replyer longsword ADC keeps for himself since it suites his style and temperment perfectly
+A swoard of answering known as the Replyer. This longsword ADC keeps for himself since it suites his style and temperment perfectly
 
 They also find 5,000 gold in treasure that is placed in Oscorns bag of holding.
+
+After defeating the beholder and uncovering its treasure hoard, the adventurers took some time to explore the rest of the beholder's cavern.
+
+Venturing into another passage, they stumbled upon a kitchen. The room was a chaotic mess, with flies buzzing everywhere and the stench of decay permeating the air. The team spread out, searching through the grime. They found an assortment of bugs, beetles, and rats, indicating that the kitchen had been used recently, albeit in a very unhygienic manner.
+
+Czolg led the team down another dimly lit hall. As he proceeded, he saw what appeared to be a humanoid figure standing eerily still. Czolg approached and realized that the figure was a statue. Moving further into the hall, he found more of these statues, each one frozen in time. It became apparent that this was a macabre trophy room, showcasing the petrified remains of the beholder's defeated foes.
+
+The statues depicted a variety of underdark creatures, their faces twisted in their final moments of terror. Among them were two figures that stood out: one elf and one human, both of whom bore the distinct features of surface dwellers. They were positioned prominently, as if the beholder had taken particular pride in these conquests. The silent hallway, lined with these tragic figures, told a haunting story of the beholder's malevolence and power.
+
+Oscorn casts greater restoration on the elf statue. Stone cracks and shatters, peeling off the elf’s body. The elf falls to his hands and knees, taking deep, ragged breaths. Oscorn steps forward, placing a comforting hand on the elf's shoulder. "You are freed from the power of OTR and Sehanine Moonbow."
+
+The elf, regaining his senses, looks up at Oscorn with confusion. "Where am I?"
+
+Oscorn responds, "We are in the Underdark, my friend. Deep down. We are in an offshoot of the main cavern system. We encountered and defeated a beholder with eye rays and foul magic. We stumbled into this room and found you, along with many others who have met a similar fate."
+
+"I don’t remember this place. I don’t remember you," the elf says, bewildered.
+
+"We don’t know you either. We just found you, but you are welcome to stay with us," Oscorn reassures him.
+
+"Where are we?" the elf asks again, looking around at the unfamiliar surroundings.
+
+"Allow us to share our tale," Oscorn says, turning to Silvius. "Silvius?"
+
+Silvius steps forward, recounting the tale of Operation Trundle Wagon. He speaks of their start together in Grugnoe, their journey through the ice and the volcano, and their explorations in the Underdark that led them to this moment.
+
+The elf listens intently before introducing himself. "I am Iranus, from the elvish city of Lanith. My group of rangers and I were traveling here, looking for certain beings when we stumbled upon this labyrinth."
+
+Oscorn asks, "What were you searching for?"
+
+"I was the leader of my expedition. We were looking for the Illithids—the mind flayers. They were using their powers on us and experimenting on us, and we came to neutralize the threat. We started seeing giant spiders and drow as well. We found ourselves very lost and eventually encountered the Illithids. We fought a battle against the beholder and his minions, and here we are."
+
+"What year is it?" Oscorn inquires.
+
+"It is the year 544," Iranus replies.
+
+Oscorn looks somber. "Well, sorry to say, but you’ve been like that for forty years. Are any of these others your companions?"
+
+Iranus glances around at the petrified figures. "I recognize none of these. None even look like surface elves."
+
+"Did you find the creatures you were looking for?" Silvius asks.
+
+"We found a hideout, a place where they were conducting their mind experiments. We ran a long way. I couldn’t say how to get to the place again," Iranus admits.
+
+"Let's get you some rest," Silvius suggests, creating his magnificent mansion. A shimmering door appears, inviting them inside.
+
+They all enter and take a much-needed rest. After some time, Silvius and Oscorn decide to step outside to have another look at the statues. They examine them noting that four of them have trading brooches, but nothing indicating a direct Drow house affiliation.
+
+Meanwhile, inside the mansion, Kalinar sits with Iranus and the others over a meal while servants tend to them. Kalinar asks Iranus if he could identify where he had been, showing him a map.
+
+Iranus looks at the map thoughtfully. "We followed trails and snuck around where we could. It was more sneaking and exploring than following a clear path."
+
+After Silvius and Oscorn step outside the mansion, Oscorn approaches another statue, this time of a human in tattered clothes with a terrified look on his face. Oscorn casts the spell greater restoration to free the man. Stone breaks off the man's body, and he falls to the ground, curling into a fetal position. Slowly, he faces Oscorn and opens his eyes, then begins to push back, eventually backing into a corner.
+
+"Easy, friend, easy," Oscorn says gently. "We are travelers here and found you turned to stone. We are Operation Trundle Wagon. We saved you."
+
+The man responds in a fearful, uncertain voice, speaking in Undercommon. "I’m sorry. The masters. Are you the masters? The new masters?"
+
+Oscorn, confused by the title, replies, "I'm not sure what you mean by 'masters,' but we rescued one other."
+
+"Not masters," the man insists, pointing to the other statues.
+
+Kalinar, trying to help, asks in Orcish, "Did their faces look like this?" He mimics the visage of a beholder.
+
+The human stares blankly, not understanding.
+
+Oscorn approaches slowly, noticing how skittish the man is. "Do you have a name?"
+
+"Shadowscar," the man replies.
+
+Oscorn continues, "Shadowscar, what are your last memories before seeing me?"
+
+Shadowscar, talking nervously and with many gestures, says, "The fight. And the run. And lost. And the light."
+
+"Is Undercommon your first language?" Oscorn asks, realizing that Shadowscar has likely been in the Underdark for some time and has adapted to speaking in short, broken phrases.
+
+"How did you serve the masters?" Oscorn inquires.
+
+"Smith. Was a smith," Shadowscar responds.
+
+"Which house did you work for?" Oscorn asks.
+
+"No house. Duergar," Shadowscar replies, referring to the Underdark dwarves.
+
+Oscorn shows him the tentacle rod. "Have you seen this before?"
+
+"Not metal. Need metal, do damage," Shadowscar says, shaking his head.
+
+Shadowscar continues, putting together more phrases, "Run, fight. Me and others. Fight. And run. Escape. Run from Duergar."
+
+"What year do you think it is?" Oscorn asks gently.
+
+"No," Shadowscar replies resolutely, staring back at Oscorn intently.
+
+Oscorn tells him, "We are heading through the Underdark to a drow market. You’re welcome to join us."
+
+Shadowscar looks wary. "New. Tall masters."
+
+"No," Oscorn says firmly. "Friends."
+
+When Shadowscar stands up, the team can see he is gaunt and covered in scars. Silvius leads him inside the mansion, instructing the servants to help clean him up. Shadowscar follows hesitantly, glancing back at the statues lining the hall.
+
+Inside the mansion, as the servants attend to Shadowscar, the team gathers around to discuss their next steps. Shadowscar sits quietly, eating slowly and observing the group with a mixture of curiosity and fear.
+
+Oscorn reassures him, "You’re safe with us, Shadowscar. We will help you find your way."
+
+Oscorn steps back outside and approaches the statue of a drow with a mushroom brooch. He casts greater restoration, and the stone cracks and falls away. The drow, now freed, starts to collapse, but Oscorn catches him.
+
+"We are friends," Oscorn says reassuringly. "We rescued you from the stone of the beholder's gaze."
+
+"The treasures, the treasures!" the drow exclaims, looking around frantically. He sees the unfamiliar surroundings and becomes visibly distraught.
+
+Oscorn explains how Operation Trundle Wagon found him. "We stumbled upon you and your companions turned to stone. We've come to help."
+
+"The cargo! Everything we were carrying is gone. Everyone is gone!" The drow looks around desperately, searching for anything recognizable. "My group. My companion. We were looking for a shortcut, thought it would be less dangerous."
+
+Fennuris shakes her head. "Nope."
+
+Oscorn asks, "Who is your companion?"
+
+"Elandra. My partner," the drow replies, his voice filled with sorrow. "We came across these goods, figured we’d get them to the market."
+
+He stands and runs to a nearby statue, grabbing at its stone form and yelling, "Elandra!" Tears stream down his face as he sobs at her feet.
+
+Oscorn places a hand on his shoulder. "What's your name?"
+
+"Xilrath Duskryn," the drow replies, trying to compose himself.
+
+"We can free Elandra as well," Oscorn assures him. "It will take some time."
+
+The team gathers and begins discussing their next steps. "Natalyne," one of them suggests.
+
+Xilrath looks wary. "We don’t talk to the leaders of the houses. How do you know them?"
+
+Kalinar responds, "We've dealt with important people."
+
+Xilrath explains, "We were going to make a good trade and find a place away from the houses and the way things are."
+
+Kalinar asks, "What is your problem with the status quo?"
+
+"For elves like us to enjoy each other's company, it’s frowned upon," Xilrath answers, hinting at the societal restrictions they face.
+
+Oscorn interjects, "We do need some help with the markets."
+
+Xilrath sighs, "The trade I was making was my final trade. It was going to remove myself from all of this. In the Sunken Sea, we planned to live out our lives together. Without what we lost, that’s not possible. But without her, I have nothing."
+
+Oscorn thinks for a moment. "We need help meeting the drow."
+
+"If that’s your goal, why are you here? This isn’t the way. There are much quicker routes to trade with the houses directly. We are on the other side of the world," Xilrath says, puzzled.
+
+"What about the warrens?" Oscorn asks.
+
+"They are a battleground," Xilrath replies, shaking his head.
+
+Oscorn considers this. "If you can help us, we will help you."
+
+Xilrath looks determined. "If you can give me Elandra, I will help you."
+
+The team agrees to meet Xilrath's price. They ask him about the other brooches.
+
+Xilrath nods. "You want me to give you all the politics. Being brought up as a trader, not directly from one house, I know how to negotiate. Our haul was previously going to be 2,000 gold."
+
+They strike a deal, agreeing to Xilrath's terms. Xilrath explains the brooches: the hook signifies trade with Kilsek and Despana, while the urn signifies a completely neutral trader. Each symbol carries weight and significance in the Underdark trading world.
+
+Czolg mutters, "Fing politics."
+
+Finally, Oscorn approaches the statue of Elandra. With great care, he casts greater restoration. The stone peels away, and Elandra falls into Xilrath's arms. They embrace, tears of joy and relief streaming down their faces.
+
+Xilrath explains to Elandra what has happened and the agreement they have made. Oscorn hands them a pouch of 500 gold pieces. "This is to help you get back on your feet."
+
+Xilrath accepts it gratefully. "Here’s to getting started." They share a moment of hope amidst the perilous surroundings of the Underdark.
+
+Kalinar, attempting to gauge any reaction, muttered, “Felch.”
+
+Iranus's eyes widened slightly. “In the battle, I recall that name. I heard it from them when they’d attack.”
+
+Pointing at Oscorn, he continued, “I know the warrens you speak of. Asperdis has had control of the warrens for maybe a century now."
+
+Oscorn listened intently as Iranus elaborated. "The warrens are a winding labyrinth, rumored to hold treasures. Nobody truly knows. They tell stories of the times when folks like these two,” he gestured to Xilrath and Elandra, “when it was a battle between the troglodytes and the bugbears. The cavern was said to contain riches and artifacts. The bugbears believed the warrens were their ancestral homes, a place promised to them by their gods. They would stop at nothing to claim it. The elves looked for ways to end the conflict, but it was difficult. Anything we did seemed to worsen the animosity between the bugbears and troglodytes.”
+
+“The kuo-toa had their own agenda and tried to intervene,” Iranus added. “Their sanity is often questioned. Many attempts were made to mediate, but nothing came of it. Centuries passed, and the battles continued. The belief was strong that this way of life would remain. Then Asperdis arrived. Through power and perhaps corruption, he enslaved both races and used them to control the warrens.”
+
+Oscorn nodded, intrigued. “But Asperdis is a completely different story. As you know, very few people have seen him. Most of his dealings are conducted through his main trader. I’m not sure of her name. Anything going down to the vault or coming from the vault goes through the warrens. He tends to keep the best artifacts and items for himself. Nobody knows what he does with them, but he has the most powerful items in the Underdark.”
+
+The two newly freed drow looked shocked. “The warrens are a trading post now? Who trades there?” Xilrath asked, incredulous.
+
+“All of the Underdark trades there,” Iranus explained. “Anyone who has something valuable or seeks something powerful can trade there. The place has become a central hub for all kinds of commerce.”
+
+Xilrath and Elandra exchanged looks, digesting this new information. The reality of their world had shifted drastically while they were petrified.
+
+“Is this why you’re here?” Xilrath asked Oscorn, curiosity mingling with suspicion. “To trade in the warrens?”
+
+Oscorn shook his head. “We seek to explore the warrens for potential trade opportunities. The artifacts there are said to be of great value, and we hope to find something worthwhile to trade.”
+
+Xilrath considered this. “If you’re heading to the warrens for trade, you’ll need to be cautious. Asperdis’s influence is strong, and his reach is long. But if you can navigate the political and social intricacies, you might succeed.”
+
+Kalinar interjected, “The artifacts in the warrens are said to be the most powerful in the Underdark. We must be prepared for anything.”
+
+Xilrath sighed, “It seems my plans for a peaceful life in the Sunken Sea are further away than ever. But if it means securing valuable trade opportunities, I’m in.”
+
+Elandra, having recovered from the initial shock, nodded in agreement. “We’ll help you. We know the warrens well, and with your help, perhaps we can secure some valuable trade deals.”
+
+
