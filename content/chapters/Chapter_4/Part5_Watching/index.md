@@ -218,7 +218,7 @@ The elf listens intently before introducing himself. "I am Iranus, from the elvi
 
 Oscorn asks, "What were you searching for?"
 
-"I was the leader of my expedition. We were looking for the Illithids—the mind flayers. They were using their powers on us and experimenting on us, and we came to neutralize the threat. We started seeing giant spiders and drow as well. We found ourselves very lost and eventually encountered the Illithids. We fought a battle against the beholder and his minions, and here we are."
+"I was the leader of my expedition. We were looking for the Illithids, the mind flayers. They were using their powers on us and experimenting on us, and we came to neutralize the threat. We started seeing giant spiders and drow as well. We found ourselves very lost and eventually encountered the Illithids. We fought a battle against the beholder and his minions, and here we are."
 
 "What year is it?" Oscorn inquires.
 
@@ -250,7 +250,7 @@ Oscorn, confused by the title, replies, "I'm not sure what you mean by 'masters,
 
 "Not masters," the man insists, pointing to the other statues.
 
-Kalinar, trying to help, asks in Orcish, "Did their faces look like this?" He mimics the visage of a beholder.
+Kalinar, trying to help, asks in Orcish, "Did their faces look like this?" He mimics the visage of a mind flayer wiggling his fingers like a beard.
 
 The human stares blankly, not understanding.
 
@@ -384,10 +384,7 @@ Oscorn shook his head. “We seek to explore the warrens for potential trade opp
 
 Xilrath considered this. “If you’re heading to the warrens for trade, you’ll need to be cautious. Asperdis’s influence is strong, and his reach is long. But if you can navigate the political and social intricacies, you might succeed.”
 
-Kalinar interjected, “The artifacts in the warrens are said to be the most powerful in the Underdark. We must be prepared for anything.”
-
 Xilrath sighed, “It seems my plans for a peaceful life in the Sunken Sea are further away than ever. But if it means securing valuable trade opportunities, I’m in.”
 
 Elandra, having recovered from the initial shock, nodded in agreement. “We’ll help you. We know the warrens well, and with your help, perhaps we can secure some valuable trade deals.”
-
 
