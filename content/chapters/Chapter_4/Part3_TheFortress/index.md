@@ -88,6 +88,8 @@ Silvius conjured a wall of force, pushing the enemies to the opposite side of th
 
 With determination in his voice, Silvius rallied his companions, announcing, "I've erected a barrier. But those spiders will find a way over it. We must regroup."
 
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 9 SPIDER.webp" Capition = "Drow spiders"  width = "60%" >}}
+
 Meanwhile, Oscorn unleashed another casting of Dawn, illuminating the area with a radiant column of sunlight that seared the Drow as they recoiled in agony.
 
 Czolg suddenly appeared fixated, his focus diverted as he inexplicably launched into an attack on his friend ADC. His swings were wild and uncontrolled, missing their mark as Silvius intervened, distracting Czolg and ensuring that ADC remained unharmed by the frenzied assault. ADC swiftly dispelled the magic affecting Czolg, bringing him back from his bewildered state. As clarity returned, Czolg appeared shocked, realizing the actions he had taken under the influence of confusion.
