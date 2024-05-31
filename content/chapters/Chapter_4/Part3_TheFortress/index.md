@@ -167,10 +167,10 @@ In the midst of the chaos, a powerful Drow mage emerged, wielding a potent spell
 
 As the situation grew increasingly dire, a glowing globe of magical energy struck Kazik, blinding the faithful wolf and leaving him disoriented amidst the chaos.
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 8 Exploding Globe.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 8 EXPLODING GLOBE.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
 
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 12 FAERIE FIRE.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 12  FAERIE FIRE.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
 
 Undeterred by the adversity, Kalinar unleashed another powerful blast of energy, while one of his tentacles struck out at a nearby Drow, momentarily disrupting their advance.
 
