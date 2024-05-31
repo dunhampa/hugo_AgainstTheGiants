@@ -24,4 +24,7 @@ Sszyrd, a trader with the Elservs, wore a bone trader pin with the Elservs symbo
 
 Realizing the situation, Sszyrd informed the group they couldn't pass. Silvius and Oscorn negotiated, highlighting their intention to proceed and preferring a peaceful resolution. Sszyrd, concerned about the importance of what he was carrying, agreed to let them pass without confrontation.
 
+
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P2 1 Red Eyes.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+
 As they walked away, Oscorn made his eyes glow a menacing red as he passed by the troll. The troll responded with a snarl, and the group continued on their journey through the intricate and dangerous underground passages.
