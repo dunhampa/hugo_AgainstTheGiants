@@ -34,14 +34,14 @@ Approaching the bridge, they observed armed Drow on guard. In the middle stood a
 
 The team walked way and devised a new plan. Oscorn prayed again, summoning an angel that carried him across the channel. Simultaneously, Silvius teleported with Czolg next to the smoking Drow, and together they swiftly incapacitated him.
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 4 Angel Flight.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 4 ANGEL FLIGHT.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
 
 Oscorn's angel ferried the rest of the team across, and they quickly descended a hallway deeper into the fortress. Kalinar burst into a room, startling a sleeping Drow, who began screaming. ADC and Silvius silenced the Drow with magic and mockery.
 
 Meanwhile, Oscorn and the others charged into a larger room to the north, startling two Drow sitting at a table. As they prepared to engage, Czolg screamed in horror at the sight of numerous doors in the room—a manifestation of his worst nightmare.
 
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 5 Grand Room.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 5 GRAND ROOM.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
 
 Kalinar rushed into the large well decorated room, his first blast misfiring into a cloud of smoke. With precision, his next two blasts found their mark, striking the Drow. In orcish, he yelled, "Get on the ground and you won’t be harmed," a command that went completely misunderstood by everyone else.
 
@@ -52,7 +52,7 @@ As Kalinar aimed to neutralize the threat, a Drow retaliated with a hand crossbo
 Meanwhile, Drow reinforcements emerged from a northern door, adorned in studded leather and emerging from a lavishly decorated room. ADC summoned an earth elemental to counter the Drow mage's spells.
 
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 6 Drow Guards.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 6 DROW GUARDS.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
 
 Kazik the wolf remained vigilant, guarding the south passage where the team had entered, ensuring that no enemies could flank them or escape unnoticed. 
 
@@ -69,7 +69,7 @@ As a bolt whizzed past ADC, he surged forward, his construct companion moving al
 Suddenly, the door to the northeast swung open, revealing two elves clad in dark studded leather armor and garbed in dark clothes, charging into the room with determined ferocity. A small glowing globe sailed through the air, striking the wall to the southwest and spreading a thick mist throughout that corner. Silvius attempted to intimidate the Drow responsible for the globe, but his efforts fell short as the Drow remained unfazed.
 
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 3 Canon.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 3 CANON.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
 
 With bolts flying in every direction, one struck ADC, causing him to weaken and fall unconscious. Oscorn reacted swiftly, hurling a bead from his necklace of fireball, engulfing all the Drow to the northeast in flames and scorching the surroundings. Frantically, he tried to rouse ADC from his slumber amidst the chaos.
 
@@ -95,7 +95,7 @@ Kalinar decided to bring some confusion of his own and cast his confusion spell 
 
 The oozing tree lurched toward the wall, scaling it with eerie determination. As it began to cast a spell, ADC intervened, disrupting its incantation with a well-timed dispel magic. Wispy webs cascaded down harmlessly, failing to ensnare the group thanks to ADC's quick thinking and decisive action.
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 7 Elemental.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 7 ELEMENTAL.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
 
 Silvius acted swiftly, conjuring a forcecage around some of the Drow casting spells at the back, trapping them within its shimmering confines.
 
