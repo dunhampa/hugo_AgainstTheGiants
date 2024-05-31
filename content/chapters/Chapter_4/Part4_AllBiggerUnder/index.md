@@ -33,9 +33,13 @@ The team moves forward cautiously, anticipating the appearance of other insects.
 
 Suddenly, four dark-colored ants with flat, large heads come scurrying around the corner at a rapid pace, heading straight towards the team.
 
-More ants emerge in front of them as well as behind them. The ants quickly surround Fennuris, Silvius, and Kazik. One of the ants tries to pass by, but Kazik bites and kills it instantly.
+More ants emerge in front of them as well as behind them. Ants seem to be coming from every hole in the earth as the hero are surrounded. The ants quickly surround Fennuris, Silvius, and Kazik. One of the ants tries to pass by, but Kazik bites and kills it instantly.
+
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P4 1 ANTS.webp" Capition = "Ants emerging from everywhere"  width = "60%" >}}
 
 Fennuris fires her arrows at the ants around them, swiftly killing all four. She spins around and fires another arrow at an ant approaching from the north, taking it down.
+
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P4 2 ARROWS.webp" Capition = "Ants emerging from everywhere"  width = "60%" >}}
 
 ADC strikes one of the charging ants to the north, killing it effortlessly.
 
@@ -52,6 +56,8 @@ Kalinar moves behind the ants Fennuris fled from and creates a boom of thunder, 
 Kazik bites one of the ants, wounding it, while Silvius strikes it with his flaming sword. Kazik then runs towards Fennuris, and Silvius positions himself next to Oscorn.
 
 Piercing ants surround everyone, and one of them sprays acid at the group.
+
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P4 3 ACID.webp" Capition = "Ants spraying acid"  width = "60%" >}}
 
 Oscorn casts a weak dawn spell, hurting many of the ants.
 
@@ -78,6 +84,8 @@ Silvius lands a critical hit on the ant next to him with his flaming sword. He t
 The ants spray acid at Silvius, Oscorn, Kalinar, and Czolg. Kalinar loses his concentration on the tentacles.
 
 Oscorn transforms into a hell hound, and darkness falls as his dawn spell fades.
+
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P4 4 HELLHOUND.webp" Capition = "Oscorn transforms into a hound from hell"  width = "60%" >}}
 
 The ants again swarm around Oscorn and Fennuris, closing in from all sides.
 
@@ -125,7 +133,7 @@ Kalinar blasts the nearest ant again.
 
 Silvius follows Czolg and hits the retreating ant with his flaming sword.
 
-Oscorn heals everyone a substantial amount, restoring 36 points of health to each of them.
+Oscorn heals everyone a substantial amount, restoring a lot of health to each of them.
 
 Fennuris, now steady, shoots the ant next to Silvius, taking it down.
 
@@ -134,6 +142,8 @@ Czolg charges at the last ant, hitting it, while Silvius chases and lands anothe
 Finally, Oscorn casts Toll the Dead, killing the last remaining ant and ending the battle.
 
 Catching their breathes, the team notices a large pit to the northeast and heads over to check it out. They can see that it is deep and then turns off to the side.
+
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P4 5 ANT TUNNEL.webp" Capition = "The bottomless ant farm"  width = "60%" >}}
 
 They decide to explore the path to the southwest and find a long, flat wall. Kalinar discovers a hidden stone door next to it. They search inside and find nothing of immediate value.
 
