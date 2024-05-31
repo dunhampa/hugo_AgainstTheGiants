@@ -7,18 +7,19 @@ weight: 3
 ---
 Operation Trundle Wagon continued their journey, delving deeper into the Underdark in pursuit of the elusive Drow. After weeks of traversing the ever-changing cave system, the rough-hewn walls transitioned into well-carved passages resembling a makeshift cobblestone road.
 
-As the team pressed forward, the tunnel opened into a vast cavern with high ceilings, connected stalactite-like columns reaching from floor to ceiling. The sudden expanse induced an eerie feeling of dread after weeks in cramped, dark tunnels. Silvius, utilizing his eyes of night, spotted a long wooden bridge with two Drow guards on the other side.
+As the team pressed forward, the tunnel opened into a vast cavern with high ceilings, connected stalactite-like columns reaching from floor to ceiling. The sudden expanse induced an eerie feeling of dread after weeks in cramped, dark tunnels. Silvius, utilizing his eyes of night, spotted a long wooden bridge with two Drow guards on the other side. They also noticed what seemed to be the start of a large Drow fortress that was directly in the team's way.
 
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 2 OutPost.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 2 OutPost.webp" Capition = "Drow fortress"  width = "60%" >}}
+
 
 "Halt, identify yourselves and stop your group on the bridge," commanded one of the Drow, while the other relayed the message to their comrades. Silvius introduced the team as traders seeking to establish a new trade route with the rising Drow. The Drow instructed them to return in a few hours to speak with Canon, the apparent authority.
 
 Oscorn inquired about the house that owned the fortress, but the Drow provided no clear answer. Deciding to assess the fortress's potential threat, the team explored paths to the left of the bridge. To the west, they discovered a tunnel with dragon tracks, sending Silvius into a panic as memories of Brazamel, the terrible red dragon, flooded back.
 
-Fennuris reassured Silvius that the tracks belonged to Drow, not dragons, mocking him slightly. Realizing this path likely led to the warrens and could take weeks to traverse, the team redirected their attention to the fortress.
+Fennuris reassured Silvius that the tracks belonged to Drow, not dragons, mocking him slightly. 
 
-Oscorn prayed for the gift of sight, manifesting an invisible eye that scouted the fortress's interior. 
+Oscorn prayed for the gift of sight, manifesting an invisible eye that scouted the fortress's interior. He searched some outdoor sections but couldn't get past the doors and windows to get a full view of what lay inside the fortress.
 
 Czolg looked up at the bats hanging from the cave ceiling. A mischievous glint appeared in his eyes as he extended a hand towards one of them. "Hey, bat friend. Want some treats?".
 
@@ -34,25 +35,25 @@ Approaching the bridge, they observed armed Drow on guard. In the middle stood a
 
 The team walked way and devised a new plan. Oscorn prayed again, summoning an angel that carried him across the channel. Simultaneously, Silvius teleported with Czolg next to the smoking Drow, and together they swiftly incapacitated him.
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 4 ANGEL FLIGHT.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 4 ANGEL FLIGHT.webp" Capition = "Divine flight"  width = "60%" >}}
 
 Oscorn's angel ferried the rest of the team across, and they quickly descended a hallway deeper into the fortress. Kalinar burst into a room, startling a sleeping Drow, who began screaming. ADC and Silvius silenced the Drow with magic and mockery.
 
 Meanwhile, Oscorn and the others charged into a larger room to the north, startling two Drow sitting at a table. As they prepared to engage, Czolg screamed in horror at the sight of numerous doors in the room—a manifestation of his worst nightmare.
 
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 5 GRAND ROOM.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 5 GRAND ROOM.webp" Capition = "The horror of the doors"  width = "60%" >}}
 
-Kalinar rushed into the large well decorated room, his first blast misfiring into a cloud of smoke. With precision, his next two blasts found their mark, striking the Drow. In orcish, he yelled, "Get on the ground and you won’t be harmed," a command that went completely misunderstood by everyone else.
+Kalinar rushed into the large well decorated room, his first blast misfiring into a cloud of smoke. His next two blasts found their mark, striking the Drow. In orcish, he yelled, "Get on the ground and you won’t be harmed," a command that went completely misunderstood by everyone else.
 
 From his tiara, Oscorn could hear the Drow yelling, "To the south, to the south. Invaders to the south," alerting their comrades to the intrusion.
 
-As Kalinar aimed to neutralize the threat, a Drow retaliated with a hand crossbow bolt, striking him. Despite the pain and the poison coursing through his veins, Kalinar fought through it, landing another hit with his crossbow and battling off the effects of the potent toxin.
+As Kalinar aimed to neutralize the threat, a Drow retaliated with a hand crossbow bolt, striking him. Despite the pain and the poison coursing through his veins, Kalinar fought through it. 
 
-Meanwhile, Drow reinforcements emerged from a northern door, adorned in studded leather and emerging from a lavishly decorated room. ADC summoned an earth elemental to counter the Drow mage's spells.
+Drow reinforcements emerged from a northern door, adorned in studded leather and emerging from a lavishly decorated room. ADC summoned an earth elemental to counter the Drow mage's spells.
 
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 6 DROW GUARDS.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 6 DROW GUARDS.webp" Capition = "Drow rushing to attack"  width = "60%" >}}
 
 Kazik the wolf remained vigilant, guarding the south passage where the team had entered, ensuring that no enemies could flank them or escape unnoticed. 
 
@@ -62,18 +63,18 @@ A massive lightning bolt crashed from the south, striking Oscorn, but surprising
 
 Czolg, recognizing the danger of fighting in the open, made a decisive move, opening the door to the west next to Kalinar. Immediately, a Drow on the other side fired a hand crossbow, hitting Kalinar who stood beside Czolg.
 
-Undeterred, Czolg charged into the adjacent room, which appeared to be a kitchen, and engaged the Drow in combat. Kalinar, still reeling from the crossbow bolt, managed to land a shot on one of the Drow, but a painful miss threw him off balance, forcing him to seek cover by the hearth near the fireplace.
+Czolg charged into the adjacent room, which appeared to be a kitchen, and engaged the Drow in combat. Kalinar, still reeling from the crossbow bolt, managed to land a shot on one of the Drow, but a painful miss threw him off balance, forcing him to seek cover by the hearth near the fireplace.
 
 As a bolt whizzed past ADC, he surged forward, his construct companion moving alongside him as they advanced toward the Drow.
 
 Suddenly, the door to the northeast swung open, revealing two elves clad in dark studded leather armor and garbed in dark clothes, charging into the room with determined ferocity. A small glowing globe sailed through the air, striking the wall to the southwest and spreading a thick mist throughout that corner. Silvius attempted to intimidate the Drow responsible for the globe, but his efforts fell short as the Drow remained unfazed.
 
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 3 CANON.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 3 CANON.webp" Capition = "The commander of the Drow fortress"  width = "60%" >}}
 
 With bolts flying in every direction, one struck ADC, causing him to weaken and fall unconscious. Oscorn reacted swiftly, hurling a bead from his necklace of fireball, engulfing all the Drow to the northeast in flames and scorching the surroundings. Frantically, he tried to rouse ADC from his slumber amidst the chaos.
 
-Czolg, recognizing the need to control the situation, positioned himself by the door through which the team had entered, growing massive in stature to intimidate any foes who dared to approach.
+Czolg positioned himself by the door through which the team had entered, growing massive in stature to intimidate any foes who dared to approach.
 
 As magical blasts of light shot across the room, Oscorn and Silvius dodged, but ADC began to glow green on the ground, his condition worsening. Kalinar summoned a mass of tentacles, ensnaring one of the Drow and injuring the others, while his cold tentacle by the door attempted to strike another, albeit unsuccessfully.
 
@@ -95,15 +96,15 @@ Kalinar decided to bring some confusion of his own and cast his confusion spell 
 
 The oozing tree lurched toward the wall, scaling it with eerie determination. As it began to cast a spell, ADC intervened, disrupting its incantation with a well-timed dispel magic. Wispy webs cascaded down harmlessly, failing to ensnare the group thanks to ADC's quick thinking and decisive action.
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 7 ELEMENTAL.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+Silvius acted swiftly, conjuring a forcecage around some of the most important looking Drow casting spells at the back, trapping them within its shimmering confines.
 
-Silvius acted swiftly, conjuring a forcecage around some of the Drow casting spells at the back, trapping them within its shimmering confines.
-
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 11 FORCECAGE.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 11 FORCECAGE.webp" Capition = "Lock her up"  width = "60%" >}}
 
 However, the Drow were not deterred, and another Drow directed a spell at Silvius. With quick reflexes, Silvius countered the spell, thwarting the Drow's attempt. But before he could celebrate his success, another Drow seized control of Silvius's body, lifting Silvius into the air with unseen force, leaving him suspended helplessly.
 
 A sudden demonic presence manifested next to Oscorn and attempted to attack him.
+
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 7 ELEMENTAL.webp" Capition = "The demon from the Drow is summoned"  width = "60%" >}}
 
 Simultaneously, a noxious green cloud materialized, enveloping Czolg and Silvius, inflicting them with its foul stench that burned their skin. Silvius, struggling against the effects of the levitation and the poisonous fumes, desperately sought to free himself but found no solid ground to push against.
 
@@ -113,12 +114,12 @@ ADC summoned an earth elemental to join the fray, directing it to assail the ooz
 
 As the battle raged on, Kazik, Silvius's loyal wolf companion, found himself illuminated by a strange green glow, courtesy of a faerie fire spell cast by an unknown assailant among the Drow ranks.
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 12  FAERIE FIRE.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 12  FAERIE FIRE.webp" Capition = "Caught in the glow"  width = "60%" >}}
 
 Determined to rejoin the fight, Silvius dispelled the levitation spell holding him aloft and rushed to join Czolg on the western side of the room. The Drow also launched a coordinated attack on ADC's summoned elemental. Their swords struck with brutal force, while arcane missiles found their mark, causing the elemental to stagger under the onslaught.
 
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 13 ENEMY ELEMENTAL.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 13 ENEMY ELEMENTAL.webp" Capition = "Summoned darkness"  width = "60%" >}}
 
 Sensing the urgency of the situation, Oscorn invoked a beacon of hope to bolster the spirits and resilience of his allies in the face of adversity and add even more power to his heals.
 
@@ -126,7 +127,7 @@ Undeterred by the noxious cloud enveloping him, Czolg charged forward, channelin
 
 Meanwhile, Kalinar's tentacle struck out at the nearby Drow with lethal precision. Kalinar turned to Silvius and voiced a grim assessment, suggesting that they might need to "get in to get out".
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 13 TENTACLE ATTACK.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 13 TENTACLE ATTACK.webp" Capition = "Kalinar ten-tickles"  width = "60%" >}}
 
 Back in the hallway, Fennuris spotted a creature emerging around the corner and swiftly took aim, unleashing a precise shot that found its mark, hitting the charging Drow and momentarily halting their advance.
 
@@ -146,7 +147,7 @@ Meanwhile, Oscorn, with a resigned sigh at the setback, focused his efforts on p
 
 Suddenly, a wave of mysterious energy surged through the room, causing fallen Drow warriors to stir and rise once more, much to the bewilderment of ADC, who struggled to comprehend the nature of this unusual restorative magic.
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 14 RESURRECTION.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 14 RESURRECTION.webp" Capition = "The Drow rise again"  width = "60%" >}}
 
 In the midst of the chaos, the Drow leader made a futile attempt to restrain Silvius, but the determined Silvius shrugged off the feeble effort, pressing onward with unwavering resolve.
 
@@ -156,8 +157,7 @@ Meanwhile, Kalinar unleashed a devastating blast of energy, striking down one of
 
 Elsewhere, a Drow archer took aim at Kazik, but Silvius, with a taunting jest, managed to distract the assailant, causing his shot to go astray.
 
-
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 15 ARROWS.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 15 ARROWS.webp" Capition = "Drow returning fire"  width = "60%" >}}
 
 However, the looming threat of the oozing tree diverted their attention, as it abandoned its assault on the elemental and charged menacingly towards Czolg. With a swift and decisive strike from his spear, Panzerfaust, Czolg halted the tree's advance, preventing it from reaching him.
 
@@ -170,43 +170,42 @@ Responding to Silvius's call, Czolg turned his attention to the oozing tree, swi
 Meanwhile, Silvius found himself engaged in a fierce melee with the Drow Commander, exchanging blows with the formidable adversary. With a flaming sword in hand, Silvius retaliated with a swift strike before swiftly retreating towards the safety of the kitchen to the west.
 
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 16 FLAMING SWORD.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 16 FLAMING SWORD.webp" Capition = "Silvius bravely strikes the Drow commander"  width = "60%" >}}
 
-Seeing an opportunity, Kalinar unleashed another barrage of tentacles and blasts, finally vanquishing the Drow Commander.
+Kalinar unleashed another barrage of tentacles and blasts, finally vanquishing the Drow Commander.
 
-the Drow onslaught intensified, with warriors surging in from the south to launch a ferocious assault on Fennuris and Oscorn. Their poisoned swords struck true, inflicting painful wounds upon the two adventurers.
+Drow warriors next surged in from the south to launch a ferocious assault on Fennuris and Oscorn. Their poisoned swords struck true, inflicting painful wounds upon them both.
 
-Despite the onslaught, Oscorn managed to evade many of the incoming strikes through a combination of skillful dodges and fervent prayers for divine protection. However, the relentless barrage proved too much, causing him to lose concentration on his beacon of hope spell.
+Oscorn managed to evade many of the incoming strikes through a combination of skillful dodges and fervent prayers for divine protection. However, the relentless barrage proved too much, causing him to lose concentration on his beacon of hope spell.
 
 Meanwhile, Fennuris swiftly dodged past the Drow attackers, vanishing into the smoke-filled room beyond the door, seeking refuge from the relentless assault.
 
-In the midst of the chaos, a powerful Drow mage emerged, wielding a potent spell that paralyzed Czolg with a magical force, rendering him immobile and vulnerable to further attacks.
+A powerful Drow mage emerged, wielding a potent spell that paralyzed Czolg with a magical force, rendering him immobile and vulnerable to further attacks.
 
 As the situation grew increasingly dire, a glowing globe of magical energy struck Kazik, blinding the faithful wolf and leaving him disoriented amidst the chaos.
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 8 EXPLODING GLOBE.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 8 EXPLODING GLOBE.webp" Capition = "Canon slinging magical fire"  width = "60%" >}}
 
-Undeterred by the adversity, Kalinar unleashed another powerful blast of energy, while one of his tentacles struck out at a nearby Drow, momentarily disrupting their advance.
+Kalinar unleashed another powerful blast of energy, while one of his tentacles struck out at a nearby Drow, momentarily disrupting their advance.
 
-With grim determination, Silvius charged forward atop the blinded Kazik, his flaming sword cutting through the ranks of Drow assailants with deadly precision. However, as he sought refuge behind a nearby door, a sudden and devastating blast of lightning tore through the barrier, engulfing Silvius and Kazik in a blinding flash of electricity and leaving them both lifeless on the ground.
+Silvius charged forward atop the blinded Kazik, his flaming sword cutting through the ranks of Drow assailants with deadly precision. However, as he sought refuge behind a nearby door, a sudden and devastating blast of lightning tore through the barrier, engulfing Silvius and Kazik in a blinding flash of electricity and leaving them both lifeless on the ground.
 
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 17 SILVIUS_DEATH_cleanup.png" Capition = "Silvius is knocked unconscious from the lighting bolt"  width = "60%" >}}
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 17 SILVIUS_DEATH_cleanup.png" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
-
-As the chaos unfolded, Oscorn found himself besieged by Drow attackers, their poisoned shortswords striking him with deadly precision. Despite the onslaught, Oscorn summoned his divine strength and skillfully dodged many of the incoming strikes, weaving through the melee with a combination of agility and divine protection.
+Oscorn found himself besieged by Drow attackers, their poisoned shortswords striking him with deadly precision. Despite the onslaught, Oscorn summoned his divine strength and skillfully dodged many of the incoming strikes, weaving through the melee with a combination of agility and divine protection.
 
 Swiftly evading the Drow surrounding him, Oscorn threw a bead with precision, unleashing a fiery explosion that engulfed the area in flames. The blast incinerated everything in its wake, leaving charred remnants in its wake. With a divine word, Oscorn unleashed a wave of divine energy, obliterating most of the remaining Drow instantly while leaving the survivors stunned and blinded.
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 18 FIREBALL NECKLACE.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 18 FIREBALL NECKLACE.webp" Capition = "Oscorn fight off the drow with fire and the rath of his god"  width = "60%" >}}
 
 Meanwhile, Czolg emerged from his paralyzed state as the Drow holding him fell to Oscorn's relentless onslaught. With renewed vigor, Czolg struck out at the nearest Drow, delivering two vicious blows that left the assailant reeling.
 
 As the battle raged on, Kalinar unleashed another blast of energy, dispatching yet another Drow assailant who threatened Oscorn. However, Oscorn was not spared as another Drow struck him with a poisoned crossbow bolt, causing him to stagger and fall.
 
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 19 OSCORN DEATH.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 19 OSCORN DEATH.webp" Capition = "Oscorn dropping from the Drow arrows and blades"  width = "60%" >}}
 
-Fenurris, seizing the opportunity, targeted the drow mages as they recoiled in pain, picking them off with precise shots as they attempted to seek cover behind the doors to the east.
+Fenurris targeted the drow mages as they recoiled in pain, picking them off with precise shots as they attempted to seek cover behind the doors to the east.
 
 Kalinar rushed back to Silvius's side, administering a healing potion to revive him. Silvius wasted no time in returning to his feet, immediately rushing to Oscorn's aid. With a few healing words, Silvius restored Oscorn's strength before turning his attention to the nearby Drow assailant, dispatching him with a swift strike. With Oscorn now revived, Silvius urged him to seek safety in the kitchen before thanking Kalinar for his aid.
 
@@ -240,8 +239,6 @@ After a brief discussion, the team resolves to proceed through the door to the n
 
 With a wave of his hand, Silvius magically swings the door open, revealing a scene of eerie silence. Inside the room, they find a powerful forcecage containing three lifeless bodies, blood staining the floor around them. Silvius is taken aback, his mind racing with questions. How did these bodies end up in such a formidable cage of pure force? It was a mystery that left him perplexed and uneasy.
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 21 RITUAL ROOM.webp" Capition = "Undeterred, they pressed forward, deeper into the cave"  width = "60%" >}}
-
 Concerned by what he's seeing, Silvius casts detect magic, his senses probing for any signs of arcane energy. His attention is drawn to a faint glow emanating from the fallen commander, and upon closer inspection, he discovers it's coming from a case of crossbow bolts nearby. Silvius retrieves the case, intrigued by its significance.
 
 Turning his attention to the fancy bedroom presumed to belong to the fallen Drow commander, Silvius searches for any clues or items of importance but comes up empty-handed, further deepening the mystery surrounding their current situation.
@@ -266,7 +263,9 @@ Czolg, in his search, accidentally strikes a crate, perhaps hoping to find somet
 
 ADC, displaying a more laid-back approach, strolls into the main room and takes a seat on one of the couches, issuing a casual request for any noteworthy discoveries from the team.
 
-Silvius, utilizing his keen magical senses, discerns evocation and abjuration magic on the door that caused Oscorn harm. He dispels the magic, alerting Oscorn to the potential danger lurking to the north.
+Silvius, utilizing his keen magical senses, discerns evocation and abjuration magic on the door that caused Oscorn harm. He dispels the magic, alerting Oscorn to the potential danger lurking to the north. Silvius is stunned with what he sees behind the door. It looks like a horrible ritual sacrifice was completed here. The body still lay in the center of the room covered in darkness and spiders.
+
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 21 RITUAL ROOM.webp" Capition = "Ritual room with sacrifice"  width = "60%" >}}
 
 In the bedroom, Oscorn uncovers four art objects and a bag of holding within the magical glow detected by Silvius.
 
