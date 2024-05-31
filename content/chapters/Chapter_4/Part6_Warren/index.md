@@ -104,5 +104,17 @@ Silvius returns to the team and shares his interaction with Normath from Tomtor.
 
 Their presence draws some curious glances, but most traders are indifferent after seeing the Drow with them. Finding a few empty beds near the side of the tunnel, they set up a temporary base, laying out their gear and taking a moment to rest.
 
+As they see some bugbears approaching, everyone begins to get used to the constant chatter, understanding everything regardless of the language spoken.
 
+Silvius greets the passing bugbears. "Hello there."
+
+The bugbears, surprised but friendly, respond. "Hello. We're here to keep the peace, but be wary of where you wander. Once the market is about to open, we'll start the check-in process."
+
+The bugbears also mention, "If anything serious happens, that's what the trolls are for. You wouldn’t want to see them—there's a throng of them here, maybe hundreds."
+
+"We're lucky enough to be patrolmen," one of the bugbears continues. "We work for Dana and Asperdies. Also lucky to be at this gate. There's another gate to the north and an offshoot gate. There's a slug or something causing issues at one of them. Glad it’s quiet here."
+
+Silvius nods. "If you need help with the slug, my group and I would be happy to assist."
+
+The bugbears reply, "Somebody may come about the slug. We’ll let you know."
 
