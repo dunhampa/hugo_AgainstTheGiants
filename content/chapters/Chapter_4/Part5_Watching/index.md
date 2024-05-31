@@ -148,6 +148,8 @@ As another beholder, pale and with a seemingly lifeless eye, appears out of the 
 
 Suddenly, a much larger and infinitely more menacing beholder emerges, its terrifying presence sending shivers down the adventurers' spines. With a single glance, it disintegrates the pegasus, leaving Silvius reeling from the loss.
 
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P5 1 BEHOLDER.webp" Capition = "The true beholder emerges"  width = "60%" >}}
+
 Undeterred, Czolg charges forward, ready to face the monstrous foe head-on. Oscorn follows suit, casting toll the dead on the beholder in an attempt to weaken it.
 
 However, Kalinar's connection with his patron falters in the presence of the beholder's intense light. Sensing the danger, he quickly moves out of the light and feels his connection restored. He warns the team not to cast spells within the beholder's cone of light, lest they suffer a similar fate.
@@ -180,7 +182,13 @@ This chamber was peculiar, with the ground devoid of fog but heavily obscured by
 
 Convinced that they had stumbled upon the beholder's lair, Silvius ascended higher into the fog, gradually spiraling upwards until he spotted something intriguing on the southwestern portion of the wall. Drawing nearer, he dispelled the fog with a wave of magic, revealing an entryway large enough to accommodate a beholder.
 
+
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P5 11 SILVIUS FLIGHT.webp" Capition = "Silvius and Kazik climb into the fog"  width = "60%" >}}
+
 Entering the room, Silvius dismounted Kazik and beheld a sight that stirred the hearts of adventurers—a pile of treasure gleaming with magical radiance. With determination in his heart, Silvius sent Kazik flying back down to fetch the rest of the team, eager to share in the discovery of this hidden trove.
+
+
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P5 2 TREASURE.webp" Capition = "The beholder's lair"  width = "60%" >}}
 
 ADC is amazed at the three legendary magical items they found:
 
