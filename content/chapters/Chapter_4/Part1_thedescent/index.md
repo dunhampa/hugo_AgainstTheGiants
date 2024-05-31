@@ -16,6 +16,9 @@ As they traversed the cavern, the initially rough walls and stalactites hanging 
 
 Continuing their journey, they marveled at the glowing fungi on the cave walls until they reached a pool of murky water. Silvius, ever curious, tapped the water with his foot, unwittingly unleashing three large monsters with gnashing teeth and swinging tentacles – ropers. A fierce battle ensued, with Silvius and his comrades facing the danger head-on. The team prevailed, defeating the ropers. Later, they also encountered several trolls that needed dealing with. Sustaining injuries, they decided to take a short rest to bandage their battle wounds.
 
+
+{{<imageToClickGlobal imgPosition = "left"  Caption = "The roper appearing from the cave" imagePath = "/img/C4 P1 1 Roper.webp"  width = "60%" >}}
+
 Undeterred, they pressed forward, deeper into the cave. A sulfur smell wafted through the air. Yellow oozes emerged from cracks in the cave, prompting a swift response from the team. Operation Trundle Wagon efficiently dealt with the oozes that emerged from the north and south.
 
 As they continued their exploration, the team encountered a group of Drow escorting bugbears held captive in mancatchers. Silvius called out to them in Elvish, and the guards responded. The situation hung in the balance as the team stood ready, uncertain of the Drow's intentions and the fate of the bugbears.
