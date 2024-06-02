@@ -64,7 +64,9 @@ Fennuris, ever the pragmatist, asked, "Why didn’t you open the doors or try to
 
 Aldon replied, "I made it to the throne room but wasn't sure where else to go. The place is a maze, and danger lurks around every corner."
 
-Their conversation was cut short as they focused on what lay ahead: a flaming skull hovered in the distance. As they moved closer, they realized the room was filled with these malevolent, burning skulls. Almost simultaneously, they nearly stumbled into a chute covered in grease, leading to a long passageway below. From the heat emanating upwards, they guessed it to be a garbage chute.
+Their conversation was cut short as they focused on what lay ahead: a flaming sconce seeming to hover in the distance. As they moved closer, they realized the room was lit by several of these sconces and nicely decorated. 
+
+They continued on until the found what looked to be a kitchen. As they entered the kitchen, they nearly stumbled into a chute covered in grease, leading to a long passageway below. From the heat emanating upwards, they guessed it to be a garbage chute.
 
 ADC decided to send his fairy down the chute to investigate. The fairy descended, encountering increasing heat and a bright light at the bottom. It confirmed their suspicions: it was definitely a garbage chute.
 
