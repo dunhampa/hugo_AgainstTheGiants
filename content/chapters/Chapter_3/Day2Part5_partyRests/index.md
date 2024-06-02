@@ -72,3 +72,40 @@ ADC decided to send his fairy down the chute to investigate. The fairy descended
 
 After much deliberation, the team decided on a risky but potentially effective plan. They would try to sneak around the giants' prepared defenses and use the garbage chute to launch a surprise attack. Kalinar and Czolg would prepare to roll a barrel of crude oil down the main stairs as a distraction. Once the barrel was set in motion, Kalinar would join the rest of the team down the chute to ambush the giants.
 
+
+"Kalinar, Czolg, get the barrel ready," Oscorn ordered. "Silvius, you'll go down the chute first. We'll lower you slowly."
+
+Kalinar and Czolg nodded and headed off to retrieve the barrel, while Silvius approached the chute. He tied a sturdy rope around his waist, feeling the weight of the decision in his hands. With a deep breath, he began his descent, carefully navigating the turns in the slimy garbage chute.
+
+The rope grew tighter as Silvius' weight increased, testing the strength of their makeshift plan. He could feel the garbage slime coating his hands as he held on, the unpleasant texture a constant reminder of the danger below. Above, Oscorn and Czolg were carefully lowering the rope.
+
+As Silvius continued, Oscorn nearly lost his grip on the rope, but Czolg's quick reflexes saved it. Silvius sent a magical message to Oscorn, confirming he was still okay. "All good down here, keep it steady," his voice echoed in Oscorn's mind.
+
+Czolg continued to lower the rope, his muscles straining with the effort. Suddenly, the knot holding Silvius began to come loose. Oscorn lunged to grab it, his heart pounding. He managed to catch the rope but couldn't maintain his hold as it slipped through his fingers.
+
+Thinking quickly, Oscorn tried to shape the stone around the slipping rope with his magic. He missed. The rope slipped past, and Silvius plummeted down the chute.
+
+Silvius felt the rush of air as he fell but invoked his magic, slowing his descent to the rate of a feather. As he emerged into the main room, he saw a pool of lava directly below. With a swift incantation, he created a magical Wall of Force, transforming his fall into a slide. The wall pushed a menacing troll, who had been waiting to ambush, into the pool of lava with a horrific screech.
+
+Czolg was the first to leap down the chute after the falling rope, his massive form barreling through the narrow passage. Oscorn, quick to follow, jumped in right behind him. Kalinar hesitated for just a moment, casting a worried glance back up the chute before plunging in. ADC, taking a deep breath, finally followed suit.
+
+Silvius, already at the bottom, was suddenly struck by a fire giant. "Help! Sliding down shit chute!" he yelled, trying to fend off the giant's attack.
+
+One by one, the team slid down the chute. Silvius, seeing his friends coming down, cast Dimension Door and teleported back to the kitchen at the top of the chute. He quickly realized everyone was gone, so he jumped back down the chute to rejoin the fray.
+
+As he re-entered the battle, the troll in the lava died with a final screech. Fennuris emerged from the chute and immediately fired his bow at the giants, his arrows finding their marks. Czolg, ready for action, grew in size and readied an attack.
+
+Kalinar blasted the fire giant with a powerful spell, sending a shockwave through the room. Silvius summoned Kazik and quickly informed Oscorn, "I'm coming back down the chute!"
+
+Czolg engaged a troll with his spear, pinning it in place. Oscorn, moving north, struck the troll and shouted, "One is held!"
+
+With a mighty swing, Czolg landed a massive hit on the fire giant, followed by a critical strike with the back of his spear. ADC, casting a flame bolt, hit the held fire giant, adding to the onslaught.
+
+Silvius slid down and ignited his flame shortsword, striking the troll. Kalinar dashed forward, blasting the troll again. The troll, struggling to stand, swiped at Oscorn with its claws, but Oscorn retaliated with a divine strike.
+
+Fennuris, aiming true, shot the troll and killed it. Suddenly, a gnoll appeared and threw a spear, narrowly missing Silvius. More gnolls emerged, drawing their bows.
+
+Czolg, unstoppable, ran forward and killed the spear-throwing gnoll with a powerful hit. He then turned his attention to the next gnoll. ADC, observing the chaos, asked, "Can we wait for them to come here?"
+
+But Silvius, already in motion, ran at the gnolls and cast Spirit Guardians, summoning spectral protectors to aid in the battle. Kalinar, not missing a beat, unleashed another blast, targeting the remaining enemies.
+
