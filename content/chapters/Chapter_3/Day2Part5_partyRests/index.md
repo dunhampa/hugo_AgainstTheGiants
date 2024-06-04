@@ -227,4 +227,192 @@ Silvius quickly revived Fennuris and, seeing that the cloud giant was no longer 
 
 Fennuris, now back on her feet, rejoined the fray with a volley of arrows, striking the three fire giants. Silvius charged forward, landing a solid hit on one of the fire giants with Waythe before deftly stepping back out of the giant’s reach.
 
+The battle continued to rage on as the fire giants surrounded Czolg, striking him from all sides with their massive weapons. Despite his resilience, the relentless assault took its toll.
+
+On the opposite side of the hall, a fire giant attempted to climb over the wall of force. Silvius, thinking quickly, removed the wall, causing the giant to come crashing to the ground. In the chaos, the fire giant stood up and, in a tragic turn, killed Kazik, Silvius’s loyal wolf companion. Silvius, however, managed to land on his feet, ready to continue the fight.
+
+ADC tried to telekinetically restrain the fire giant standing over Silvius but found himself outmatched. Frustrated, he called out, “How is he stronger than I am smart?!”
+
+Czolg, undeterred by his wounds, lashed out with his spear, Panzerfaust, hitting the fire giants surrounding him and managing to kill one of them. Meanwhile, the gnolls were preparing their own attack.
+
+Fennuris, ever the sharpshooter, unleashed a volley of arrows at the gnolls and fire giants, hitting many of them. In the midst of her assault, she lost her footing and fell to the ground, but her arrows still found their marks.
+
+Kalinar sent magical blasts towards the fire giants, but in the chaos, his aim faltered, and he missed. Silvius, thinking quickly, created another wall of force, separating himself from the advancing fire giants and gnolls.
+
+One of the fire giants, unaware of the newly erected wall, swung at Fennuris. His sword bounced back with a loud reverberation, causing him to stagger. Seizing the opportunity, Oscorn cast another healing spell, rejuvenating the injured members of the team.
+
+ADC, seeing an opening, used his telekinesis to grab the Drow mage and pull him towards Czolg. Czolg, with a powerful strike, hit the Drow mage, causing the cloud of poison gas to disappear.
+
+Fennuris, determined to keep fighting, lit her arrows on fire, preparing for her next assault. 
+
+------ 4/20 ---------
+
+Kalinar's tentacle lashed out with a massive attack, hitting a fire giant squarely. At the same time, Kalinar blasted the same fire giant with magic, further weakening it.
+
+Silvius ran forward, his spirit guardians swirling around him, and killed a troll caught in their ethereal wrath. The nearby fire giant was visibly in pain from the spirit guardians' relentless assault.
+
+Fennuris, her bow ablaze, fired flaming arrows at the cloud giant. Despite his struggles, the cloud giant failed to break free from ADC’s telekinetic grip. Oscorn, moving next to Czolg, cast Toll the Dead on the held cloud giant. Czolg, seizing the opportunity, released his headlock and began stabbing the cloud giant viciously with Panzerfaust, ultimately killing him.
+
+Kalinar’s tentacle then attacked a nearby troll, while his magical blasts struck a fire giant. Silvius advanced, melting the troll on the ground with his spirit guardians. His guardians continued their onslaught, hitting the gnolls and the fire giant.
+
+Fennuris aimed to shoot but got her bow stuck momentarily. Four gnoll arrows flew at Czolg and Fennuris but missed their marks. Oscorn attempted Toll the Dead again but missed. He then ran to the south side of the cave opening.
+
+Czolg charged into the gnolls, stabbing them with Panzerfaust. Kalinar fired his magical blasts and struck down a gnoll with his tentacle. Silvius danced around the battlefield, striking at the ettin and two fire giants before retreating behind Czolg for cover.
+
+The ettin attempted to charge past Czolg, but Czolg stopped him in his tracks, holding the line and protecting his comrades. 
+
+Oscorn took a moment to scan the room, noting the many weapons and those in the process of being forged, all of them giant-sized. He focused his attention on the ettin, casting Toll the Dead to further weaken the creature.
+
+Czolg took advantage of the moment, stabbing the ettin with Panzerfaust and delivering the killing blow. With the immediate threat neutralized, Czolg ran forward and checked the door, calling out, "Hi, anyone in there?" Hearing no response, he decided to shrink back to his normal size.
+
+Turning to Silvius, Czolg reported, "They're all running away. There's a jail cell down there. We need to deal with one more to the north."
+
+Fennuris, ever vigilant, held her arrow ready to fire at any new threat. Kalinar, despite his weariness, managed to shoot a magical blast, hitting his target but biting his tongue in the process.
+
+All is quiet for a moment, the team catching their breath and assessing their surroundings. Suddenly, the heavy footsteps of a giant echo through the chamber. A stone giant emerges, carrying a bag of boulders, which he drops with a resounding thud. Another bag is hurled into the middle of the room, scattering its contents.
+
+A fire giant, not far behind, picks up a rock and hurls it at Czolg. Oscorn, stepping forward, casts Toll the Dead at a nearby troll, while Czolg approaches the troll to engage. The troll charges, but Czolg stops it in its tracks. Fennuris, with deadly precision, finishes the troll off with a volley of arrows. Kalinar unleashes his magical blasts, aiming at the remaining giants.
+
+The stone giant, seeing the assault, throws a rock that narrowly misses Oscorn. Another stone giant follows suit, this time hitting Oscorn squarely. Undeterred, Oscorn moves north along the ice wall, following Czolg. The fire giant and stone giant continue their barrage of rocks, their aim improving with each throw.
+
+The team suddenly finds themselves stuck in the ice, the situation becoming increasingly dire. A quick debate ensues about whether to advance or retreat. Oscorn calls for a vote. "To the east it is," he declares.
+
+Everyone starts running south, but Oscorn charges to the east, shouting, "There's at least three of them, guys!"
+
+Fennuris, feeling the tension and determination, makes a brutal shot, taking down one of the gnolls. Silvius, focusing his magical energies, brings Kazik, the wolf, back to life with a few healing words. However, the respite is brief as the fire giant throws another rock, killing Kazik again.
+
+Silvius, enraged, moves swiftly. His spirit guardians swirl around him, their ethereal forms slicing through the gnolls. The gnolls stop in their tracks, their silence confirming their demise as the spirit guardians claim them.
+
+As the team pushes forward, Oscorn takes the lead, charging ahead and casting Hold Person to immobilize one of the fire giants. Meanwhile, the others keep moving, wary of the giants lurking in the north.
+
+"Giants up north too," Czolg warns, his voice tense with anticipation. He approaches a door and calls out, "Is anyone in there?" but receives no response. Peering inside, he notices stairs leading downward.
+
+Transforming into his larger form, Czolg alerts the team, "Cloud giant up north." Fennuris takes aim and fires at the fire giant, her arrows finding their mark.
+
+Silvius, determined to protect his allies, resurrects Kazik and jumps on his back, charging forward into battle. With a fierce battle cry, he strikes at two fire giants, dealing them significant damage.
+
+As the fire giants retaliate, one attempts to attack Czolg, while another targets Oscorn. Silvius, ever vigilant, distracts the giant attacking Oscorn, deflecting its blow.
+
+Suddenly, a rat-like creature comes running in from the east. Oscorn reacts swiftly, hurling a bead of fireball that detonates with devastating effect, incinerating five of the rat people in a fiery blast.
+
+Unfazed by the chaos, Czolg continues to press the attack, striking at the fire giant before moving to the center of the hall, ready to confront whatever challenges lie ahead.
+
+----------- 4/27 --------------
+
+As the chaos intensifies, Kalinar takes action, casting confusion to sow discord among their enemies. He summons his tentacle, but unfortunately, it misses its mark in the flurry of battle.
+
+Silvius, recognizing the need for strategic positioning, conjures a wall of force, effectively blocking off the giants to the north and east, as well as the wererats attempting to flank them.
+
+Despite Kalinar's efforts, the fire giant manages to break free from Oscorn's hold, regaining its freedom to wreak havoc. Undeterred, Oscorn channels divine energy, tolling the dead and weakening the fire giant in the south, while ADC repeats the process with the fire giant to the north.
+
+Czolg seizes the opportunity to strike, landing a powerful blow on one of the giants, while the hill giant retaliates by attacking Kalinar.
+
+Meanwhile, Fennuris, realizing the danger, disengages from the immediate threat and retreats to a safer distance. Kalinar continues to provide ranged support, shooting at the towering giants from a distance.
+
+Kazik, ever loyal, sinks his teeth into the fire giant to the south, while Silvius swings Waythe, aiming to strike true but narrowly missing his target in the heat of battle.
+
+As the giants attempt to retreat, the wall of force proves effective in impeding their escape. Oscorn, seizing the opportunity, strikes down the fire giant to the south with a decisive blow before making his way down the stairs to investigate further.
+
+Meanwhile, the fire giant hurls wererats over the wall of force in a desperate attempt to eliminate the threat. Czolg, ever vigilant, intercepts and dispatches one of the rats, while another meets a swift end as it collides with the barrier.
+
+The chaotic scene intensifies as the remaining rats scatter in panic. Ray, one of the fleeing creatures, meets his demise at the hands of Czolg, who swiftly ends its attempt to escape.
+
+However, amidst the chaos, the cloud giant seizes the opportunity to snatch Fennuris with his telekinetic powers, lifting her off the ground. Oscorn, reacting quickly, lends his guidance to Fennuris, attempting to anchor her in place and prevent her from being carried away by the giant's grasp.
+
+As the chaos unfolds, ADC swiftly dispatches the rat man next to him with a toll the dead spell, while Silvius continues to taunt the fire giant, goading it into dropping its sword and retreating.
+
+ADC, keenly observant, notices a spell being cast by the cloud giant, prompting him to ready himself for what may come next. With a snap of the cloud giant's fingers, ADC retaliates in kind, prepared for any magical onslaught.
+
+Meanwhile, Czolg takes advantage of the distraction and hurls a rock at the fire giant down the hall, landing a solid blow. Silvius, not one to miss an opportunity, continues his mockery of the cloud giant, further frustrating their formidable foe.
+
+As the fog begins to envelop the area around ADC and Czolg, the team makes a swift decision to retreat to the torture room for safety. Oscorn, entering the room, quickly surveys their surroundings, while also casting light on a bone and tossing it down to illuminate the area as they descend further into the depths.
+
+-------------------- missing notes on torture room and running out of it  -------------
+
+As they charge forward, determined to escape the deadly gases, Kalinar unleashes a devastating blast on the fire giant blocking their path. Silvius, always quick with a cutting remark, mocks the injured giant before joining the fray.
+
+ADC, ever vigilant, casts toll the dead at a creature barely visible around the corner, while his beholderkin unleashes its own potent blasts. Oscorn swiftly dispatches the hill giant lurking nearby with another toll the dead spell.
+
+Surveying the hallway ahead, Silvius spots more adversaries to the north and south—fire giants and a stone giant. He relays the information to the team as ADC continues to cast toll the dead, his beholder blasting the fire giant in their path.
+
+Czolg strikes the fire giant with such force that it topples to the ground, and Oscorn wastes no time in delivering a crushing blow with his hammer. Despite its efforts, the fallen fire giant fails to land a hit on its assailants.
+
+Fennuris rains down arrows upon the fire giant, while Kalinar follows up with magical blasts of his own. Silvius delivers a decisive blow with Waythe, and ADC finishes off the fire giant with another toll the dead spell, ensuring their path remains clear.
+
+As Czolg cautiously opens the door to the west and finds it empty, Oscorn takes a moment to search the fallen Drow mages. Among their belongings, he discovers a staff adorned with a spider motif, spellcasting components, and a peculiar token inscribed with strange symbols.
+
+Just then, a familiar voice echoes from the north—it's Ombi, the dwarf they've encountered before. His words urge them to leave, hinting at the dangers ahead. Meanwhile, Kalinar adjusts his tentacle, readying for whatever may come.
+
+Silvius, ever vigilant, searches a nearby fallen Drow warrior and uncovers a similar token, along with Drow weaponry and armor.
+
+
+ChatGPT
+As Ombi calls out once more, ADC tenses, ready to dodge if necessary. Czolg, taking a healing potion, reassures Ombi they can hear him and encourages him to speak openly as he moves toward another door. Oscorn, feeling the weight of the situation, cautiously steps into Ombi's view.
+
+"Are you the one that will speak to me?" Ombi questions, to which Oscorn responds by urging him to call off any threats. Ombi counters, mentioning the giants they've encountered, hinting at the potential consequences.
+
+"What do you propose?" Oscorn inquires, seeking a resolution. Ombi, curious about their intentions, presses further, questioning their purpose in the warrens.
+
+"We were attacked," Oscorn explains, attempting to justify their actions. Ombi remains skeptical, reminding them of the vast complexity of the situation.
+
+"You're a jester," Oscorn accuses, but Ombi diverts attention, indicating his willingness to converse.
+
+Stepping forward, Silvius confronts Ombi, questioning his motives in the warrens. Ombi asserts his claim to the place, prompting further inquiries from the team.
+
+"How do we make your business our business? We pay handsomely," Czolg proposes, suggesting a potential alliance. Kalinar adds that cooperation could benefit both parties.
+
+Silvius, with a touch of humor, remarks on the cleanliness of the floors amidst the mess of bodies and battle. The levity is interrupted by the reappearance of the tiger guy. Silvius reacts swiftly, casting a powerful spell of protection.
+
+Meanwhile, ADC tolls the dead, unleashing his beholder's power, and Fennuris unleashes a volley of arrows. Kalinar, attempting to open another door, hears whispers from within and manages to pry it open.
+
+Czolg, seizing the moment, strikes down the stone giant with his spear, while the team hears a warning from an unknown voice.
+
+-------- 6/22 ------------
+
+As the chaos unfolds, Kalinar regains consciousness, his body battered but his spirit unbroken. With only one hit point remaining, he must act wisely to survive. Meanwhile, the giant, in a fit of frustration, hurls his sword behind him and rushes back to retrieve it.
+
+ADC, ever resourceful, conjures magical duplicates of himself, unleashing a barrage of spells alongside his beholder's powerful blasts. Kalinar, seizing the opportunity, scurries away to find cover, hoping to evade the giant's wrath.
+
+Fennuris, from a safe distance, takes aim and fires her bow at the hill giant, hoping to weaken him. Czolg and Oscorn charge forward, ready to confront their foes head-on.
+
+Oscorn, with a solemn demeanor, invokes the power of death itself, casting toll the dead on the hill giant and dealing a devastating blow. Despite his injuries, the giant presses on, searching for Kalinar but unable to locate him amidst the chaos.
+
+As the tension mounts, the Keeper, wielding his massive axe, charges into the fray, his presence striking fear into the hearts of the team. ADC, undeterred, continues to cast his spells, weakening the Keeper further with toll the dead and his beholder's relentless attacks.
+
+Seeing the fire giant and the Keeper advancing, Silvius springs into action, running towards them with his spirit guardians swirling around him, striking both foes with righteous fury.
+
+Sensing the impending danger, Fennuris casts pass without a trace, masking the team's presence and urging them to flee. With her voice ringing out in desperation, she implores her companions to run, to escape the clutches of their formidable adversaries.
+
+As the situation grows increasingly dire, Kalinar raises the alarm, alerting his companions to the presence of two more giants to the south and two more closing in from behind. Oscorn, recognizing the urgency of the moment, calls out for someone to touch him, likely preparing for a powerful spell.
+
+ADC, swift and decisive, unleashes his magical prowess, striking the fire giant to the south and providing sanctuary to Kalinar, offering him a brief respite from harm. Fennuris, ever the skilled archer, takes aim with her bow, releasing a volley of arrows aimed at the oncoming giants.
+
+Oscorn attempts to cast a spell to magically restrain the fire giant to the south, but his efforts fall short, the magic fizzling before it can take hold. The enraged giant swings its sword at Fennuris, but she manages to evade the deadly blow, narrowly escaping harm.
+
+In a desperate attempt to pull Fennuris to safety, ADC reaches out to drag her back, but his efforts are in vain as the fierce battle rages on around them. Meanwhile, his beholder companion unleashes a blast of fire at the fire giant to the south, searing its flesh and leaving it blinded by the flames.
+
+Silvius, undaunted by the chaos, channels the power of his spirit guardians, striking the fire giant with divine fury before turning his attention to the looming threat of the Keeper. With a swift and decisive strike from Waythe, Silvius brings the Keeper down, ending his reign of terror.
+
+Fennuris, her aim unwavering, continues to rain arrows upon the blinded fire giant, delivering the final blow that sends it crashing to the ground. Amidst the chaos, Kalinar calls out for Snure to join the fray, rallying their forces for the battle ahead.
+
+But even as they celebrate their victory, another fire giant charges forward, its massive sword gleaming in the dim light as it strikes out at Czolg, dealing a devastating blow.
+
+As Snure charges relentlessly at ADC and Oscorn from the south, the team braces for the impending clash. ADC swiftly reacts, conjuring a blast of icy cold from his staff. Despite the chilling onslaught, Snure shrugs off the freezing magic with a defiant growl.
+
+With the giant bearing down on them, ADC deftly sidesteps, using misty steps to evade Snure's path of destruction. Silvius, undeterred by the looming threat, charges forward, weathering a blow from the fire giant as he reaches Snure. With a powerful swing of Waythe, Silvius strikes true, felling the giant king with a resounding blow.
+
+Meanwhile, Kalinar channels dark magic, summoning a tentacle to ensnare Snure and drain the life from his massive form. As Czolg finishes off the fire giant to the north, he rushes to join the fray, his spear striking Snure repeatedly with deadly precision.
+
+Oscorn, fueled by rage and determination, tolls the dead at Snure, his divine energy pulsing with vengeance. Snure, wounded and defiant, lashes out at Czolg with a powerful blow, taunting Oscorn with ominous words.
+
+In a surge of fury, Oscorn swings his hammer at Snure, but his strike misses its mark. Unwavering, ADC channels his magic once more, unleashing another cone of cold that envelops Snure, freezing him solid in a prison of ice.
+
+As Snure stands frozen in his icy tomb, Fennuris fires a final arrow, dispatching the fire giant to the north. With the threat momentarily neutralized, Czolg turns his attention to the retreating hill giant, who flees in terror at the sight of his fallen king.
+
+Seizing the moment, Oscorn directs a divine strike at Snure's leg, shattering it with a burst of radiant energy. Determined to ensure Snure's defeat, Oscorn, with assistance from Silvius, retrieves the fallen king's crown, a symbol of their hard-won victory.
+
+With the immediate danger passed, ADC conjures a protective hut, ushering the team inside and locking the door behind them. As they catch their breath within the safety of their makeshift shelter, the team reflects on their hard-fought triumph and the challenges that lie ahead in their perilous journey.
+
+
+
 
