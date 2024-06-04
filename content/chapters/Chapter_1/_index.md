@@ -5,6 +5,4 @@ draft: false
 summary: "Patrons to Hill Giants"
 weight: 1
 ---
-Chapter 1 is being retroactively written.
 
-Chapter 2 is even more complete.
