@@ -6,8 +6,6 @@ summary: "The team searches the upper level and has a final face off with the Sn
 weight: 3
 ---
 
-
-
 {{<imageToClickGlobal imgPosition = "left" imagePath = "/img/Screen Shot 2023-03-09 at 8.31.40 PM.png" Capition ="The team rest, now with Silivus's wolf"  width = "60%" >}}
 
 After emerging from Ombi the dwarf’s room, the team felt a renewed sense of purpose and energy. They had taken a much-needed rest, and now it was time to continue their exploration of the cavern.
@@ -108,4 +106,91 @@ Fennuris, aiming true, shot the troll and killed it. Suddenly, a gnoll appeared 
 Czolg, unstoppable, ran forward and killed the spear-throwing gnoll with a powerful hit. He then turned his attention to the next gnoll. ADC, observing the chaos, asked, "Can we wait for them to come here?"
 
 But Silvius, already in motion, ran at the gnolls and cast Spirit Guardians, summoning spectral protectors to aid in the battle. Kalinar, not missing a beat, unleashed another blast, targeting the remaining enemies.
+
+---- 3/20 -----
+
+Kalinar, seeing an opportunity, cast a spell that summoned black tentacles from the ground. The writhing appendages ensnared all nearby enemies, and one tentacle even managed to crush a gnoll instantly.
+
+The fire giant struggled to break free from the tentacles, but Silvius mocked him with biting words, keeping him trapped. Two gnolls managed to escape the grasp of the tentacles, firing arrows at Czolg and Silvius, but all the shots went wide.
+
+Fennuris, ever the sharpshooter, took aim and felled another gnoll with a well-placed arrow. Oscorn cast Toll the Dead on a wounded gnoll, melting it with necrotic energy, and then yelled out, "Move to the south!"
+
+ADC commanded his earth elemental to attack, and the massive creature struck twice, dealing significant damage. Czolg, fighting fiercely with his spear, shouted, "We are surrounded. We may need to hold the rooms!"
+
+Silvius ran into the room, his Spirit Guardians swirling around him. The spectral figures struck out at the gnolls, killing one and wounding another. Silvius then taunted a two-headed ettin, further demoralizing the enemy.
+
+The troll that was previously ensnared by the tentacles remained stuck, struggling futilely. However, more trolls began to appear from the south, adding to the pressure.
+
+Kalinar, focusing on the fire giant to the north, unleashed three Eldritch Blasts. Two of them struck true, causing the giant to roar in pain. The black tentacles, continuing their relentless assault, managed to strike an ettin.
+
+The fire giant made another attempt to escape the tentacles but failed again. The ettin swung its battle axe at the earth elemental, but the weapon did little damage against the earthen form of ADC's summon.
+
+Fennuris, losing his balance, fell over but still tried to shoot from the ground. Unfortunately, his shot went wide.
+
+Silvius' Spirit Guardians continued their assault, causing more gnolls to drop lifelessly to the ground.
+
+Oscorn sprinted out of the room, casting Toll the Dead on one of the ettins. The necrotic energy overwhelmed the creature, and it collapsed with a final groan. ADC then conjured an ice storm, targeting the remaining ettin and two trolls. The icy barrage battered them, slowing their movements and dealing significant damage.
+
+Silvius, mounted on Kazik, maneuvered through the chaos, hitting the fire giant and a troll ensnared by the tentacles with his Spirit Guardians. He then rushed to Czolg’s side, mocking the remaining ettin with a sharp remark.
+
+A troll approached Czolg, but the bugbear warrior was ready. He struck the troll, halting its advance. Another troll engaged the earth elemental, landing a heavy blow. The fire giant continued to struggle against the tentacles, unable to break free.
+
+The ettin landed a powerful hit on the earth elemental, but the creature held firm. Fennuris took aim and fired a flaming arrow at one of the trolls, the arrow striking true and searing the troll’s flesh. Oscorn cast Toll the Dead on the ettin, adding to its mounting injuries.
+
+ADC launched a fire bolt but missed his target. The earth elemental swung back at the ettin, but its attacks went wide. Silvius hurled a bottle of liquor at the restrained troll, missing his target but still managing to hit it with his Spirit Guardians. He then ran back south, dealing more damage to the trolls and killing one in the process.
+
+A troll viciously attacked the earth elemental, breaking off a piece of its rocky exterior. Kalinar focused his magical blasts on the fire giant, which was still stuck in the tentacles. The dark appendages lashed out, striking a troll.
+
+The fire giant made another desperate attempt to escape, finally breaking free for a moment before getting ensnared again, much to its frustration as Silvius continued to mock it.
+
+Oscorn noticed a new threat and shouted, "The one to the south has a boulder!" Fennuris shot an arrow down the hall at something unseen, and moments later, they all heard a loud animal roar. A giant head, with a white face and white hair, poked around the corner.
+
+Oscorn quickly threw a bead of fireball, but it fell short. Despite that, the explosion managed to hit a troll, kill the lion, and injure the cloud giant that had appeared.
+
+Suddenly, a sickening radiance began to form. ADC, noticing a human casting a spell out of the corner of his eye, quickly countered it, stopping the spell from taking effect.
+
+ADC cast Toll the Dead, and the earth elemental continued its relentless assault on the troll. Kazik, Silvius' loyal wolf, lunged at the cloud giant, sinking his teeth into its leg. Silvius followed up with a powerful strike from Waythe, injuring the giant further.
+
+One of the trolls succumbed to the tentacles' grasp, and another was severely damaged by Silvius' Spirit Guardians. Kalinar hexed the cloud giant, intensifying its suffering. The fire giant remained trapped in the tentacles, struggling futilely.
+
+Suddenly, another fire giant approached from the south, and a dark humanoid creature began casting a spell. ADC, quick to react, countered the spell, preventing it from taking effect. Fennuris took aim and fired an arrow at the caster, striking him.
+
+The cloud giant, in a desperate bid to escape, tried to turn into mist, but Silvius prevented its escape. In a rage, the cloud giant killed Kazik and then moved towards Silvius. Oscorn shouted, "Keep the trolls there! They keep away the boulders!" He then turned to the cloud giant and sneered, "Why are you here with these lessors?"
+
+Meanwhile, the caster to the north locked eyes with ADC and conjured black tentacles over ADC, Fennuris, and Oscorn. Oscorn was the only one caught in their grasp. ADC retaliated by creating a wall of ice, trapping the cloud giant and two casters within. The ice inflicted massive damage, causing the caster's tentacles to dissipate and the cloud giant to collapse.
+
+Czolg charged forward, dodging the trolls' attacks. They missed their strikes, thrown off balance. Seizing the opportunity, Czolg struck a troll in the groin with the butt of his spear. As the troll bent over in pain, Czolg grabbed it by the head, holding it in place.
+
+Silvius, riding Kazik's spirit form, attempted to strike the troll but missed. He then ran back towards the forge. However, in the chaos, Silvius was fatally wounded, and he collapsed, Kazik's spirit form dissipating into the ether.
+
+----- 4/4 ------
+
+The team charged through the poison cloud, determination etched on their faces. Silvius surged forward, leaving Kazik behind to ensure he stayed out of harm's way. As the poisonous mist dissipated, ADC dropped the wall of ice, revealing a new wave of adversaries: a fire giant, a hill giant, three Drow warriors, and eight gnolls, all poised for combat.
+
+Quickly assessing the situation, ADC conjured another wall of ice, strategically isolating the gnolls from the more formidable giants and Drow. This gave the team a moment to focus on the immediate threat. Kalinar and Oscorn acted swiftly, combining their magical blasts and tolling the dead to kill one of the gnolls.
+
+Czolg roared and charged past ADC, confronting the gnolls head-on. Fennuris, with precise aim, volleyed arrows into the gnoll ranks, weakening them significantly. Taking advantage of this, Kalinar unleashed a flurry of magical blasts, eliminating two more gnolls.
+
+Silvius, his flaming short sword drawn, charged at the remaining gnolls, cutting one down with a swift, fiery strike. The gnolls, now preparing to counterattack, found themselves in disarray. A yellow cloud began to form again, obscuring the battlefield.
+
+Arrows whizzed through the air towards Czolg, but Kalinar's summoned tentacle deflected them, preventing harm. Oscorn, recognizing the need for strategic repositioning, stepped back to assess the battlefield better.
+
+Through a crack in the fog, ADC saw an opportunity. He cast Toll the Dead, the resonant chime of doom echoing through the mist. The gnolls reeled from the necrotic energy, their morale wavering under the relentless assault.
+
+Silvius noticed movement to the north and shouted, “Get ready to fight to the north!” His voice echoed through the cavern, cutting through the tension.
+
+ADC, keenly observing the poison cloud, tried to determine its source and duration. Czolg, realizing the danger they were in, shrank back down from his giant size and said, “We got to get out of this gas.”
+
+“I’m charging these Drow,” Silvius declared, determination in his eyes.
+
+Oscorn, trying a more mundane approach, waved his blanket in an attempt to disperse the fog. Meanwhile, ADC summoned an earth elemental. The massive creature moved effortlessly through the fog, despite being struck by two arrows. It reached the gnolls and swiftly eliminated two of them.
+
+Czolg, undeterred by the poison, charged through the cloud. As he emerged, a boulder flew past him from the north, narrowly missing him.
+
+Fennuris stayed back from the fog, keeping an arrow nocked and ready to fire. Kalinar, with a dramatic flair, charged through the fog and, with a wave of his hands, proclaimed, “Call off the attack and take us to Ecvaldra, or you’ll die like all the others!” However, the Drow showed no signs of compliance.
+
+Silvius, ever the taunter, mocked the Drow with a staff. His magic caused the poison fog cloud to dissipate, revealing the enemies clearly. The sudden disappearance of the fog left their foes exposed and vulnerable.
+
+------ 4/11 --------
+
 
