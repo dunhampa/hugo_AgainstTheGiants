@@ -13,7 +13,7 @@ Silvius then informed the team that he couldn't hold the western door for much l
 
 After securing the door, Silvius went to explore the room behind the southern tapestry and discovered a chest of drawers filled with hundreds of scrolls and parchments. He sat down to rest and began to peruse the papers, handing some out to the rest of the team as they took a break.
 
-Most of the papers were instructions to the Snure on gathering all kinds of giants and other creatures and promising them a role in the new order if they helped take over. Oscorn found an interesting scroll from the "House of Eilservs," and Fennuris found one signed by Ecvaldra, the Princess of Loth. Silvius found an odd paper written in Dwarvish, but no one in the group could read it.
+Most of the papers were instructions to the Snure on gathering all kinds of giants and other creatures and promising them a role in the new order if they helped take over. Oscorn found an interesting scroll from the "House of Elservs," and Fennuris found one signed by Ecvaldra, the Princess of Loth. Silvius found an odd paper written in Dwarvish, but no one in the group could read it.
 
 As they were preparing and bandaging their wounds, they heard noises as giants tried to check the doors. Silvius gave Fennuris, ADC, and Oscorn a gift from Ilmater, eyes of night so they could see better in the darkness.
 
@@ -25,9 +25,9 @@ Silvius runs across to the doors and sees a fire giant to the north. He insults 
 
 Next, the door to the east breaks into pieces as three fire giants come bursting through the western door. Fennuris backs away from the giants and fires arrows at them, trying to take them down from a safe distance.
 
-A fire dog runs up to Czolg and Oscorn, blasting them with flaming breath. Kalinar runs into the middle of the three fire giants and disappears in a blast of thunder, hurting all of them. ADC then blasts the three giants in the room with a cone of cold, and Oscorn tolls the dead.
+A hell hound runs up to Czolg and Oscorn, blasting them with flaming breath. Kalinar runs into the middle of the three fire giants and disappears in a blast of thunder, hurting all of them. ADC then blasts the three giants in the room with a cone of cold, and Oscorn tolls the dead.
 
-Silvius looks to the remaining giants and fire dogs to the north and says, "Sorry, you all will need to wait your turn," before slamming the door in the confused fire dog's face. He then runs and ducks under the giant table in the middle of the room, waiting for his next move.
+Silvius looks to the remaining giants and hell hounds to the north and says, "Sorry, you all will need to wait your turn," before slamming the door in the confused hell hound's face. He then runs and ducks under the giant table in the middle of the room, waiting for his next move.
 
 The giant takes three swings at Czolg, but one misses, and the other hits. As the giant makes his third swing, Silvius insults him by mocking his butt still stuck under the table. The giant misses, confused by Silvius' taunt.
 
