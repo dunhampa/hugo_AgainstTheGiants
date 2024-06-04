@@ -193,4 +193,38 @@ Silvius, ever the taunter, mocked the Drow with a staff. His magic caused the po
 
 ------ 4/11 --------
 
+Kalinar, with a burst of determination, launched magical blasts at the stone giant. However, one of his blasts misfired, and he fell unconscious, collapsing to the ground. Silvius, seeing the opportunity, tried to push the Drow but failed as Kazik, his loyal wolf companion, tried to move forward.
+
+The stone giant retaliated by slamming ADC’s earth elemental with his massive club, causing the elemental to stagger. Meanwhile, a fire giant recklessly charged forward, swinging wildly but missing his mark and falling to the ground in his haste.
+
+Oscorn, seeing his allies in need, used his divine powers to preserve life, partially healing the injured Czolg, Kalinar, and Fennuris. ADC, seizing the moment, waved his staff and conjured an ice storm over the four smaller fire giants and one of the Drow. The Drow succumbed to the chunks of ice and the bitter cold, collapsing lifelessly.
+
+The earth elemental moved towards the fallen fire giant, delivering powerful blows while the giant lay on the ground. Czolg, fueled by rage, grew in size once more and charged into the fray with ferocity. Silvius, always quick with a sharp remark, mocked the stone giant, hurting and confusing him with his words.
+
+Kazik, concerned for Kalinar, tried to nudge him awake. When nudging didn’t work, he bit Kalinar gently, waking him up. Kazik wagged his tail happily, looking like an excited puppy ready to play.
+
+The stone giant, disoriented by Silvius' mockery, slung another boulder wildly, missing ADC by a wide margin. A smaller fire giant took advantage of the chaos and charged at Czolg, landing a solid hit. Another fire giant struck ADC’s earth elemental, further weakening it.
+
+Undeterred, ADC swung his staff once more, creating a cone of powerful cold that blasted four fire giants and the stone giant. One of the fire giants was instantly frozen in place, turning to ice and shattering upon hitting the ground.
+
+Czolg, fueled by his rage, struck down yet another fire giant with his spear, Panzerfaust. With a powerful thrust, he knocked another fire giant prone, asserting his dominance on the battlefield. Meanwhile, Fennuris, from her position, fired another volley of arrows. Her shots were true, hitting both the stone giant and one of the remaining fire giants.
+
+Kalinar, seizing the moment, launched his magical attacks at the stone giant. One particularly devastating blast hit the giant square in the face, causing it to stagger in fear. Silvius, ever the master of taunts, mocked the stone giant again, further unsettling it. Meanwhile, Kazik, his loyal wolf companion, sniffed at the door in the middle of the hall, curious about what lay beyond.
+
+The battle raged on as two fire giants surrounded Czolg, swinging their massive weapons at him. Czolg, though formidable, found himself in a fierce and exhausting struggle.
+
+Suddenly, the team noticed the fog behind them beginning to disappear. From the dissipating mist emerged a cloud giant, who struck Fennuris hard in the back. She tried to run, but the cloud giant was relentless, striking her down and leaving her unconscious on the ground.
+
+Seeing this, ADC cast telekinesis, holding one of the fire giants against the wall of force, immobilizing him. Silvius, witnessing Fennuris's plight, charged to her aid. He healed her with a few words, reviving her, and then turned his attention to the cloud giant. With Waythe, his magical greatsword, he delivered a powerful strike, knocking the cloud giant off his feet.
+
+The fire giants, now wild with desperation, swung their weapons at Czolg again, but Czolg held his ground, ready to continue the fight alongside his comrades.
+
+Oscorn, seeing the opportunity, cast a toll the dead spell on the cloud giant, hurting it further with necrotic energy. ADC maintained his telekinetic grip on the cloud giant, bolstered by the magical rune inscribed by Czolg. Czolg, ever the provocateur, insulted the fire giant, daring it to attack him again.
+
+Kalinar seized the moment, finishing off the held cloud giant with a barrage of magical blasts, followed by a swift swipe from his conjured tentacle. The cloud giant collapsed, its enormous form crashing to the ground.
+
+Silvius quickly revived Fennuris and, seeing that the cloud giant was no longer a threat, sprinted back across the hall towards the remaining fire giants. The team, feeling the toll of the battle, received a much-needed boost as Oscorn cast a powerful healing spell, rejuvenating everyone.
+
+Fennuris, now back on her feet, rejoined the fray with a volley of arrows, striking the three fire giants. Silvius charged forward, landing a solid hit on one of the fire giants with Waythe before deftly stepping back out of the giant’s reach.
+
 
