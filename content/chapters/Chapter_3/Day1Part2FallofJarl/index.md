@@ -6,7 +6,7 @@ summary: "Facing the Jarl at the foot of Snure's volcano"
 weight: 3
 ---
 
-ADC had summoned his slaad to help fight the frost giant he faced. Kalinar cheared slaad's arrival and jokingly referred to it as salad. But their levity was short-lived as they as the stone giant swung his massive club at Silvius, missing him by inches. The second strike nearly critically hit Silvius, if not for the intervention of Czolg who deflected the blow. Meanwhile, Kalinar used his magic to reduce the power of the strike.
+ADC summoned his slaad to help fight the frost giant he faced. Kalinar cheared slaad's arrival and jokingly referred to it as salad. But their levity was short-lived as they as the stone giant swung his massive club at Silvius, missing him by inches. The second strike nearly critically hit Silvius, if not for the intervention of Czolg who deflected the blow. Meanwhile, Kalinar used his magic to reduce the power of the strike.
 
 Czolg quickly and repeatedly stabbed the frost giant in front of him. Oscorn ran to Silvius's side and cast beacon of hope and prayed for sanctuary.
 
