@@ -1,6 +1,6 @@
 ---
 title: "Part 2: Travel to the Hill Giant Stronghold"
-draft: true
+draft: false
 summary: "The team makes their way to the cave and scouting position"
 weight: 2
 ---
