@@ -6,7 +6,7 @@ summary: "The team finds themselves at a bridge across a river a lava leading to
 weight: 3
 ---
 
-The team appeared in front of a massive volcano with rivers of lava flowing down. There was a bridge 5 feet over a bridge of lava. On the far side of the bridge there were short platforms on either side of the bridge that appeared to be places for giants to greet others when they arrive.
+The team appeared in front of a massive volcano with rivers of lava flowing down. There was a bridge 5 feet above the flowing lava river. On the far side of the bridge there were short platforms on both sides that appeared to be places for giants to greet others when they arrive.
 
 {{<imageToClickGlobal imgPosition = "left" imagePath = "/img/DALL·E 2022-12-29 20.33.11 - medieval adventurers appeared in front of a massive volcano with orange rivers of lava flowing down. There was a bridge 5 feet over a bridge of lava_cleanup.png" Capition = "The team appeared in front of a massive volcano with rivers of lava flowing down. There was a bridge 5 feet over a bridge of lava. On the far side of the bridge there were short platforms on either side of the bridge that appeared to be places for giants to greet others when they arrive."  width = "60%" >}}
 
@@ -29,7 +29,7 @@ Oscorn yelled, "We are on the same side!" But the frost giant replied, "Jarl sen
 
 Fennuris woke up and Silvius ran back to the bridge, while Kalinar checked out the path to the south and summoned his cold tentacle. The frost giant slightly giggled as the tentacle attacked him.
 
-The battle raged on, with lasers, fire, and arrows from the beholder, ADC, and Fennuris. Czolg struck the frost giant and knocked his battleaxe out of his hand and into the lava. Silvius mocked the frost giant and Kalinar killed it with eldritch blasts, while the tentacle tickled the next frost giant.
+The battle raged on, with magical blasts, fire, and arrows from the beholderkin, ADC, and Fennuris. Czolg struck the frost giant and knocked his battleaxe out of his hand and into the lava. Silvius mocked the frost giant and Kalinar killed it with eldritch blasts, while the tentacle tickled the next frost giant.
 
 Another volley from ADC, beholderkin, and Fennuris hit the frost giant, and Czolg stabbed him. Silvius scared the frost giant, causing him to try to run, but Czolg stabbed him again.
 
@@ -39,11 +39,11 @@ Another flash of light. A cloud giant and another frost giant appear. The behold
 
 Czolg stabs and kills the other of the first two frost giants, saying, "We're here to help you kill Snure." Silvius creates a wall of force and slides it under the cloud giant, causing him to fall into the lava.
 
-The cloud giant attempts to Misty Step, but Silvius stops him. He then tries to roll out of the way, but Czolg stabs him with a Panzerfaust and pushes him over to the lava. Czolg's fire rune glowed as he stabbed the cloud giant over and over again as he stood above him on the bridge. The cloud giant burned in the lava, yelling in pain, and slipped beneath the molten rock.
+The cloud giant attempts to misty step, but Silvius stops him. He then tries to roll out of the way, but Czolg stabs him with a Panzerfaust and pushes him over back into the lava. Czolg's fire rune glowed as he stabbed the cloud giant over and over again as he stood above him on the bridge. The cloud giant burned in the lava, yelling in pain, and slipped beneath the molten rock.
 
 Oscorn tolled dead on the frost giant as Silvius flaming stabbed the next one, surprised by his toughness and size. The frost giant tried to grab Silvius, but missed and ran past him. Silvius tried to strike again and missed as the frost giant passed him, then ran up to ADC and faced him.
 
-Another flash of light signaled the arrival of two more frost giants on the bridge. The stone giant charged at Kalinar, and the tentacle smacked him. Kalinar ran back and was hit by the frost giant's axe as he passed. Czolg charged the newly arrived frost giants.
+Another flash of light signaled the arrival of two more frost giants on the bridge. The stone giant charged at Kalinar, and the tentacle smacked the stone giant. Kalinar ran away and was hit by the frost giant's axe as he passed. Czolg charged the newly arrived frost giants.
 
 Silvius cast another wall of force and slid it under the two newly arrived frost giants. One rolled towards Czolg, while the other fell into the lava and took massive damage.
 
