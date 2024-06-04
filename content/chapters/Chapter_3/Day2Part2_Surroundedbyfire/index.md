@@ -30,13 +30,13 @@ The team takes a moment to catch their breath while the fire giant continues to 
 
 Silvius, who is weary and in need of a break, calls out to the team, "We need to take a break. Block the doors!" He uses magic to close half of the door to the north.
 
-Czolg quickly runs up to the door, ready to defend the team, but several fire dogs appear outside the door. The first is stopped by Czolg, but it burns him with its flaming breath. A second fire dog breaks through the door and runs into the center of the room.
+Czolg quickly runs up to the door, ready to defend the team, but several hell hounds appear outside the door. The first is stopped by Czolg, but it burns him with its flaming breath. A second hell hound breaks through the door and runs into the center of the room.
 
 ADC frantically yells out, "We need to close the door!" as he tries to push the second half of the door shut, but he is unable to move the incredibly heavy giant-sized door.
 
-Silvius, who knows that he cannot take a hit and maintain his focus on the wall of force, desperately searches for a place to hide from the fire dogs. He pushes on the tapestry to the east and feels it move. He quickly runs behind the tapestry to avoid the fire dog and finds a small room with a large chest on a table.
+Silvius, who knows that he cannot take a hit and maintain his focus on the wall of force, desperately searches for a place to hide from the hell hounds. He pushes on the tapestry to the east and feels it move. He quickly runs behind the tapestry to avoid the hell hound and finds a small room with a large chest on a table.
 
-Fennuris takes aim and shoots the fire dog in the room, while Oscorn tolls the dead, killing the fire dog.
+Fennuris takes aim and shoots the hell hound in the room, while Oscorn tolls the dead, killing the hell hound.
 
 Finally, ADC uses magic to lock the northern door, securing the room from any additional attackers.
 
