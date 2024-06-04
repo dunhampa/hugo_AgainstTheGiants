@@ -8,7 +8,7 @@ weight: 3
 
 ADC cast a toll of the dead, which took its toll on the nearest fire giant. Kalinar and Fennuris shot magic and arrows at the same giant, while the hydra continued to charge at the team. ADC created an ice wall to hurt the giants and hydra.
 
-Silvius tried to get past the wall where he saw the Snure and fire giants past with dimension door. He was knocked back and hurt. 
+Silvius, now far away from the rest of the team, tried to get past the wall where he saw the Snure and fire giants past with dimension door. He was knocked back and hurt. 
 
 Czolg healed some of his wounds with a deep breath and speared the giant again. Oscorn cured more of Czolg's wounds, and told the team that if they needed to get out, they should come and touch him.
 
@@ -48,6 +48,6 @@ ADC sends his pocket fairy to scout ahead, but it's instantly smashed with a swo
 
 ADC quickly takes charge of the situation, healing Czolg with a potion. Although Czolg thanks ADC for the heal, he still feels tired. Kalinar repairs the ice wall with his icy tentacle, and Oscorn announces that it's time to leave.
 
-The team walks out and ADC puts a magical lock on the door. Silvius creates a magical illusion of a pile of rocks to deceive any potential attackers, and ADC casts a spell to create a cozy hut for the team to rest in. Silvius then uses his magic to summon Kazik back, who roams around outside to keep watch.
+The team walks out of the front door to the volcano and ADC puts a magical lock on it after they all pass. Silvius creates a magical illusion of a pile of rocks to deceive any potential attackers, and ADC casts a spell to create a cozy hut for the team to rest in. Silvius then uses his magic to summon Kazik back, who roams around outside to keep watch.
 
 Will the team rest safely? How will the Snure prepare for the team's return?
