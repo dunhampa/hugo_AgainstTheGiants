@@ -37,11 +37,11 @@ In response, the hydra attacks Kalinar and bites him with several of its heads. 
 
 Oscorn calls upon his deity once more, asking for a beacon of hope to empower his healing abilities. The hydra tries to pull his hammer out of his hand, but Oscorn holds on with all his might. Finally, Czolg delivers the finishing blow to the fire giant, killing it.
 
-As Czolg fights the fire dogs, he lands two successful strikes but falters on the third and falls to the ground. Meanwhile, the team spots the keeper behind the hydra, and Fennuris takes aim, shooting both the hydra and the keeper with a barrage of arrows. ADC calls out, "Remember to burn them!" and shoots a bolt of fire at the hydra, while Fennuris follows with flaming arrows. ADC then summons a fire elemental that swiftly dispatches the hydra.
+As Czolg fights the hell hounds, he lands two successful strikes but falters on the third and falls to the ground. The team spots the Keeper, a particularly nasty looking giant with a massive axe, behind the hydra, and Fennuris takes aim, shooting both the hydra and the keeper with a barrage of arrows. ADC calls out, "Remember to burn them!" and shoots a bolt of fire at the hydra, while Fennuris follows with flaming arrows. ADC then summons a fire elemental that swiftly dispatches the hydra.
 
 The battle splits into two fronts, with Czolg and Silvius battling fire giants to the north and the rest of the team facing off against the keeper and others to the east. ADC casts a cone of cold on the fire giants and the keeper, causing the latter to flee. Suddenly, a ballista bolt flies past Silvius and Czolg from a group of gnolls to the north west.
 
-As Silvius calls upon the power of Ilmater for protection, he charges towards the two gnolls operating the ballista, killing them both. With fire giants to the north, two more gnolls to the southwest, and a group of eight gnolls that are the most concerning, Silvius and Czolg face a daunting battle.
+As Silvius calls upon the power of Ilmater for protection, he charges towards the two gnolls operating the ballista, killing them both. With fire giants to the north, two more gnolls to the southwest, and a group of eight gnolls that are the most concerning, OTW face a daunting battle.
 
 "Come try it!" Silvius cries out, challenging the gnolls to his south west. The gnolls surround Silvius, but stopped just short of getting into the protective spirits of Ilmater. Fearing for his life as eight spears come flying at him, Silvius faces a moment of fear. Despite being hit by three spears, he manages to concentrate on his prayer, and the spirits of Ilmater vaporize all the gnolls who threw the spears.
 
