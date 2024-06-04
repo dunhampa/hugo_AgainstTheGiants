@@ -1,7 +1,7 @@
 ---
 title: "Part 1: Recruiting to Defend Greyhawk"
 draft: false
-summary: "Story in progress"
+summary: "Operation Trundle Wagon is formed in agreement with each of their patrons"
 weight: 1
 ---
 
