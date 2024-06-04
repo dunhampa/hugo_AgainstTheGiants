@@ -73,9 +73,9 @@ The fire giant guard was furious "You took the small bucket again!! Why?!" as he
 
 The team could hear the footsteps get quieter and fade away. Silvius peaks past the tapestry and sees a two headed giant on the hall. The team rushes out to the hall ready to face this new enemy.
 
-"Here is a proper summons," ADC exclaimed as he called forth a beholderkin. The creature blasted the two-header, but it ended up hurting itself and fell to the ground . "Actually, possibly not my best work," ADC admitted.
+"Here is a proper summons," ADC exclaimed as he called forth a beholderkin. The creature blasted the ettin, but it ended up hurting itself and fell to the ground . "Actually, possibly not my best work," ADC admitted.
 
-The two-header took advantage of the situation and hid along the hallway. Czolg charged forward as Kalinar unleashed blasts of magic and Silvius taunted the two-headed giant.
+The ettin took advantage of the situation and hid along the hallway. Czolg charged forward as Kalinar unleashed blasts of magic and Silvius taunted the two-headed giant.
 
 "Approach!" Oscorn commanded. One two-headed giant obeyed, while the other scurried away.
 
@@ -83,15 +83,15 @@ ADC stepped out above his beholderkin and smacked it with his staff. "Get up! Yo
 
 Fennuris released a volley of arrows at the approaching giant, one of which lodged in one of the creature's eyes. 
 
-Silvius hopped on Kazik and rode out to Czolg. "Chase them down, Czolg," he said with a grin. "And don't forget to bark so Kazik understands you." Czolg barked to Kazik and rode up Kazik to the two-header, killing it with Panzerfaust.
+Silvius hopped on Kazik and rode out to Czolg. "Chase them down, Czolg," he said with a grin. "And don't forget to bark so Kazik understands you." Czolg barked to Kazik and rode up Kazik to the ettin, killing it with Panzerfaust.
 
-Just as they thought the battle was turning in their favor, several fire wolves appeared around the corner. Kazik charged forward as the fire wolves snapped at him, but they missed their mark.
+Just as they thought the battle was turning in their favor, several hell hounds appeared around the corner. Kazik charged forward as the hell hound snapped at him, but they missed their mark.
 
-Oscorn cast a spell, bringing the radiance of the sun down on the fire wolves and others in a 30-foot radius cylinder. The wolves barked in pain, including Kazik. A fire wolf tried to run past Czolg, but he stabbed it, stopping and dropping the creature.
+Oscorn cast a spell, bringing the radiance of the sun down on the hell hounds and others in a 30-foot radius cylinder. The wolves barked in pain, including Kazik. A hell hound tried to run past Czolg, but he stabbed it, stopping and dropping the creature.
 
-Arrows and blasts of magic flew at the fire wolves and two-header. The two-header swung and missed Kazik, and tried to run away. Kazik bit and knocked the two-header down. The creature stood up and scrambled away from the light. Kazik ran back to the party and out of the light of dawn.
+Arrows and blasts of magic flew at the hell hounds and ettin. The ettin swung and missed Kazik, and tried to run away. Kazik bit and knocked the ettin down. The creature stood up and scrambled away from the light. Kazik ran back to the party and out of the light of dawn.
 
-As Fennuris' arrows found their mark and killed a fire wolf, Silvius used his powers of mockery to defeat another. Oscorn, still wielding the radiant light of dawn, charged forward, chasing after the fleeing giants. Fennuris, ADC, and Kalinar joined in, finishing off the remaining fire wolves with blasts and arrows.
+As Fennuris' arrows found their mark and killed a hell hound, Silvius used his powers of mockery to defeat another. Oscorn, still wielding the radiant light of dawn, charged forward, chasing after the fleeing giants. Fennuris, ADC, and Kalinar joined in, finishing off the remaining hell hounds with blasts and arrows.
 
 Silvius once again hopped on Kazik's back and rode him up to Czolg. He hopped off Kazik and stabbed the two-headed giant with his flaming sword. 
 
