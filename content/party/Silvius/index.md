@@ -5,6 +5,7 @@ draft: false
 summary: "The bard of twilight, lore, and walls"
 weight: 3
 ---
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/Fennuris shooting Giant.webp" Capition = "Silvius"  width = "60%" >}}
 Silvius was a half-elf bard, raised by his human mother in the town of Innspa and the surrounding forest. From a young age, he was immersed in music and song, learning bits of magic from the elves, druids, and others he encountered in the forest. His mother, who never spoke of his elvan father, had always told him that his father was a charismatic man with a dark side.
 {{<imageToClickGlobal imgPosition = "left"  Caption = "DALL·E 2023-07-07 01.34.26 - From behind A handsome young silver haired elf reads a medieval scroll fantasy realistic standing in a dungeon with cold misty darkness.png" imagePath = "/img/DALL·E 2023-07-07 01.34.26 - From behind A handsome young silver haired elf reads a medieval scroll fantasy realistic standing in a dungeon with cold misty darkness.png"  width = "60%" >}}
 
