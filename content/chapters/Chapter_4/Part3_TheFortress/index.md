@@ -70,7 +70,7 @@ As a bolt whizzed past ADC, he surged forward, his construct companion moving al
 Suddenly, the door to the northeast swung open, revealing two elves clad in dark studded leather armor and garbed in dark clothes, charging into the room with determined ferocity. A small glowing globe sailed through the air, striking the wall to the southwest and spreading a thick mist throughout that corner. Silvius attempted to intimidate the Drow responsible for the globe, but his efforts fell short as the Drow remained unfazed.
 
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 P3 3 CANON.webp" Capition = "The commander of the Drow fortress"  width = "60%" >}}
+{{< imageToClickGlobal imagePath="/img/C4_P3_3_CANON_rotated.webp" imgPosition="left" Capition="The commander of the Drow fortress" rotate="90deg">}}
 
 With bolts flying in every direction, one struck ADC, causing him to weaken and fall unconscious. Oscorn reacted swiftly, hurling a bead from his necklace of fireball, engulfing all the Drow to the northeast in flames and scorching the surroundings. Frantically, he tried to rouse ADC from his slumber amidst the chaos.
 
