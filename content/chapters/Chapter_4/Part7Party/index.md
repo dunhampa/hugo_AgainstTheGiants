@@ -1,4 +1,10 @@
-
+---
+title: "Chapter 4: Part 7: Throw a party"
+date: 2010-10-27T23:53:00+01:00
+draft: false
+summary: "OTR decides to make their presence known with some flair and style"
+weight: 3
+---
 
 The underdark settlement bustled with muted energy, shadows dancing along the jagged walls of the cavern. This neutral ground, alive with whispered negotiations and cautious glances, hosted travelers of all kinds. Zilrath, a striking drow elf with an air of authority, stood with her companion near the edge of the market. Her silver hair shimmered faintly as she listened to Czolg, whose curiosity about local customs sparked a discussion.
 
