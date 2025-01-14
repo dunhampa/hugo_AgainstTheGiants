@@ -8,7 +8,7 @@ weight: 3
 
 The underdark settlement bustled with muted energy, shadows dancing along the jagged walls of the cavern. This neutral ground, alive with whispered negotiations and cautious glances, hosted travelers of all kinds. Zilrath spoke with Czolg, whose curiosity about local customs sparked a discussion.
 
-“This is a place of trading,” Zilrath explained, her voice smooth and low. “Whether drow, duergar, hobgoblin, or kuo-toa, all who pass here honor Asperdes. This is neutral ground, a delicate balance none of us want to disrupt. No one dares awaken the hive. No one wants to relive the past.”
+“This is a place of trading,” Zilrath explained, her voice smooth and low. “Whether drow, duergar, hobgoblin, bugbear, the trogs, all who pass here honor Asperdes. This is neutral ground, a delicate balance none of us want to disrupt. No one dares awaken the hive. No one wants to relive the past.”
 
 Czolg’s brow furrowed. “What happened in the past?”
 
@@ -93,7 +93,7 @@ The bugbear sighed. “It’s not my decision,” he muttered before running off
 
 As calm returned, Silvius played a softer tune, attempting to soothe the lingering tension. Zilrath, standing nearby, watched with an inscrutable expression. “You’ve brought unity to this place, but unity doesn’t come without risk,” she said quietly.
 
-Silvius nodded. “It'll be fine. We want to make a statement. We want to be know. Let's see who shows up.”
+Silvius nodded. “It'll be fine. We want to make a statement. We want to be known. Let's see who shows up.”
 
 With the hobgoblins gone and the bugbears preparing their report, the team remained vigilant, knowing that their actions had set events in motion that could shape their fate.
 
