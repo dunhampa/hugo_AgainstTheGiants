@@ -93,8 +93,8 @@ The bugbear sighed. “It’s not my decision,” he muttered before running off
 
 As calm returned, Silvius played a softer tune, attempting to soothe the lingering tension. Zilrath, standing nearby, watched with an inscrutable expression. “You’ve brought unity to this place, but unity doesn’t come without risk,” she said quietly.
 
-Czolg nodded. “We’ll handle the risks. Sometimes, a little chaos is worth the light it brings.”
+Silvius nodded. “It'll be fine. We want to make a statement. We want to be know. Let's see who shows up.”
 
-With the hobgoblins gone and the bugbears preparing their report, the mansion’s festivities cautiously resumed. Yet, beneath the laughter and music, the team remained vigilant, knowing that their actions had set events in motion that could shape the fate of the warrens.
+With the hobgoblins gone and the bugbears preparing their report, the team remained vigilant, knowing that their actions had set events in motion that could shape their fate.
 
 
