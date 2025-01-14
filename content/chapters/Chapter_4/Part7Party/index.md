@@ -6,7 +6,7 @@ summary: "OTR decides to make their presence known with some flair and style"
 weight: 3
 ---
 
-The underdark settlement bustled with muted energy, shadows dancing along the jagged walls of the cavern. This neutral ground, alive with whispered negotiations and cautious glances, hosted travelers of all kinds. Zilrath, a striking drow elf with an air of authority, stood with her companion near the edge of the market. Her silver hair shimmered faintly as she listened to Czolg, whose curiosity about local customs sparked a discussion.
+The underdark settlement bustled with muted energy, shadows dancing along the jagged walls of the cavern. This neutral ground, alive with whispered negotiations and cautious glances, hosted travelers of all kinds. Zilrath spoke with Czolg, whose curiosity about local customs sparked a discussion.
 
 “This is a place of trading,” Zilrath explained, her voice smooth and low. “Whether drow, duergar, hobgoblin, or kuo-toa, all who pass here honor Asperdes. This is neutral ground, a delicate balance none of us want to disrupt. No one dares awaken the hive. No one wants to relive the past.”
 
@@ -21,6 +21,51 @@ Zilrath regarded him carefully. “Trade and survival bind us. The inner working
 Silvius’s lips curved into a mischievous grin. With a dramatic flourish, he conjured a shimmering doorway in the air. A magnificent mansion materialized, its glowing facade a stark contrast to the surrounding gloom.
 
 “Well then,” Silvius declared, strumming his lute. “Let’s give them something to eat, drink, and sing about! A proper invitation is in order.”
+
+Silvius began to sing:
+
+Come, come, all you wanderers bold,
+To a mansion where riches unfold,
+Beyond the dark, where treasures gleam,
+A feast awaits—a dream, a dream!
+Chorus:
+Enter, enter, come inside,
+
+Where wonders and delights reside,
+A banquet spread for all to see,
+Before the market's strife runs free!
+Verse 2:
+Let the silver wine flow like a stream,
+With golden fruits in every gleam,
+
+The pasties hot, the meats divine,
+A taste of luxury, so fine!
+Chorus:
+Enter, enter, come inside,
+Where wonders and delights reside,
+A banquet spread for all to see,
+
+Before the market's strife runs free!
+Bridge:
+Oh, hear the call, oh, hear the sound,
+The mansion's gates are open wide,
+Where smiles and laughter shall abound,
+And joy will be our only guide.
+
+Chorus:
+Enter, enter, come inside,
+Where wonders and delights reside,
+A banquet spread for all to see,
+Before the market's strife runs free!
+Outro:
+
+So gather 'round, and join in cheer,
+For the feast and revels, drawing near,
+Before the market takes its toll,
+Come and feast—let joy be whole!
+(Instrumental flourish to close the invitation)
+Let the magic of the mansion draw you in, where all are welcome before the bustling market begins!
+
 
 Kalinar, a boisterous figure with a booming voice, clapped his hands. “Come eat! Food! Food!” he bellowed, his enthusiasm echoing through the cavern.
 
