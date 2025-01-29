@@ -110,6 +110,8 @@ Frog shook his head in agreement. “And we never trust the Trogs.”
 
 Before more could be said, Vrek returned with a small entourage, gesturing to a striking figure at the center. “This is the group, Priestess,” he announced.
 
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 Dana.JPG" Capition = "The Priestess"  width = "60%" >}}
+
 A pale-skinned, beautifully adorned drow priestess stepped forward. Her elegant attire lacked the spider motifs typical of other drow priestesses, marking her as someone distinct. As she approached, her sharp eyes scanned the group. “Why the disturbance?” she demanded. “How did things get out of control?”
 
 Silvius stepped forward, hands open in a gesture of innocence. “Things were out of control, and then they weren’t,” he said with a disarming smile.
@@ -235,6 +237,8 @@ As they continued, Oscorn noticed slime on the ground. It clung to the lower are
 The path ended at a solid wall. Fennuris nocked a flaming arrow and fired it upward. The arrow bounced around before landing on the ground, revealing a glistening slug eye peering out from the shadows.
 
 “There it is,” Fennuris said, positioning herself.
+
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 Slug.JPG" Capition = "The slug"  width = "60%" >}}
 
 Kalinar stepped forward cautiously, his voice calm. “Easy… easy…” he said, attempting to charm the creature. He seemed to be successful and noticed a softening in the massive slugs protruding eyes.
 
