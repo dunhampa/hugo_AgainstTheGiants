@@ -110,7 +110,7 @@ Frog shook his head in agreement. “And we never trust the Trogs.”
 
 Before more could be said, Vrek returned with a small entourage, gesturing to a striking figure at the center. “This is the group, Priestess,” he announced.
 
-{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 Dana.JPG" Capition = "The Priestess"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/C4 Dana.JPG" Capition = "The Priestess"  width = "60%" >}}
 
 A pale-skinned, beautifully adorned drow priestess stepped forward. Her elegant attire lacked the spider motifs typical of other drow priestesses, marking her as someone distinct. As she approached, her sharp eyes scanned the group. “Why the disturbance?” she demanded. “How did things get out of control?”
 
