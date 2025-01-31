@@ -257,3 +257,73 @@ Kalinar, Fennuris, and Oscorn dodged to the north as the slug advanced. The pega
 Suddenly, the sphinxes dove from their perch, tearing the pegasus apart before retreating to their heights. Silvius felt sorry for his conjured steed but stayed focused on the bugbear illusion.
 
 With Kalinar, Oscorn, Fennuris, and the illusory bugbears leading the slug north, the team maintained hope. The task was fraught with danger and loss, but their resolve remained steadfast. They would complete Dana’s request.
+
+Kalinar sprinted north, weaving through the dark cavern as the slug’s massive bulk oozed forward, its eyestalks wobbling excitedly in pursuit of the bugbears. He passed his teammates disappearing into the widening hallway ahead.
+
+Czolg  hesitated for a moment, observing the slick ground beneath him. He cautiously approached the slug from behind, mindful of the slime coating the tunnel floor. He could feel the treacherous slickness under his boots as he edged forward.
+
+Fennuris darted after Kalinar, determined to stay ahead of the lumbering creature. Meanwhile, Silvius trailed behind the slug, concentrating on his illusionary bugbears, their sweaty forms continuing to tempt the creature forward.
+
+The slug lurched toward the mirage, entirely fixated, its massive form undulating down the hall. As the team ran, Silvius noticed the sphinxes had left their perches, gliding silently ahead, settling at a junction down the hallway.
+
+The tunnel widened as Kalinar and Fennuris surged forward. Czolg continued to shadow the slug, sliding effortlessly as the slime turned the ground into an impromptu surfboard. He easily kept his balance, riding the slick path with unexpected finesse.
+
+Fennuris studied the slug’s behavior, attempting to discern its true intent. Was it following the illusion, or was it simply tracking the vibrations of their movement? Her observations remained inconclusive.
+The team pressed forward, their movements synchronized. Kalinar reached a bend in the tunnel and swiftly pressed himself against the wall, waiting and watching. Silvius kept his illusion moving steadily ahead while Oscorn mirrored Kalinar’s tactics, keeping to the opposite wall and slowly making his way back toward the market.
+
+The slug dug deep, its pace increasing as it pursued the imaginary bugbears. Silvius, maintaining control, deftly guided the illusion further down the cavern. Kalinar took note of the path ahead—this was no well-traveled route. The ground was undisturbed, hinting that few, if any, ventured here regularly.
+
+Silvius pushed the bugbear illusion further, extending their lead until he reached his limit. The slug hesitated, its eyestalks shifting as confusion set in. Seizing the opportunity, Silvius sent a quick message to Kalinar, instructing him to return.
+
+For a tense moment, the slug remained still, its body writhing with uncertainty. Then, with an urgent lunge, it charged down the hallway after its elusive meal. Kalinar slipped past the slug, pressing against the cavern wall before sprinting back to the rest of the team.
+
+As the slug reached the end of the illusion’s path, Silvius brought the mirage to a grand finale. The bugbears collapsed into a putrid, steaming puddle, a grotesque pile of melting flesh. The slug, overcome with excitement, lunged at the remains, eagerly consuming the nonexistent feast.
+
+Kalinar rejoined the group, panting. “What do we do if it comes back?”
+
+The slug flailed about, its frustration evident as it searched in vain for its meal. For nearly a minute, it writhed in desperation before settling into a sluggish, disoriented stupor.
+
+A solution presented itself: a salt fountain—like a cascading chocolate fountain, but composed of glistening, coarse salt—was cast before the slug’s passage. The reaction was immediate. The slug recoiled, its body convulsing as it retreated, trapped within the confines of the narrow tunnel.
+
+Confident that the creature was contained, the team made their way back to the warrens. Vrek and Grog awaited them, their expressions wary.
+
+Silvius wasted no time. “The slug is sealed in. The salt should keep it at bay.”
+
+Vrek grunted in approval before glancing at the remains of Aranis. “And what do we do about this?”
+
+Silvius sighed. “Sweep him up, I suppose.”
+
+The journey back to the warrens was quiet. As they entered the market, the drow eyed them curiously. One finally stepped forward. “Where is Aranis?”
+
+Silvius answered bluntly. “Dead. He ran into a slug.”
+
+The drow merely nodded, accepting the news without emotion.
+
+Summoning his pegasus once more, Silvius turned his attention to Dana. The market had grown busier in their absence, more traders and merchants gathering.
+
+Dana’s gaze met his. “My pets help keep the peace,” she remarked.
+
+Silvius gave a knowing nod. “So do mine. But if they’re taking up too much space—are there stables?”
+
+Dana scoffed. “Do you take me for a fool?”
+
+Kalinar stepped forward. “We helped you here.”
+
+Dana’s expression remained unreadable. “If you want this to work, you obey our rules.”
+
+Silvius inclined his head. “We don’t know your rules. But we will obey.”
+
+Dana’s lips curved into a faint smile. “We appreciate what you’ve done. It has saved us time. The opening seems secure, though you did lose a friend. But that’s how things work in the warrens. The market should be open soon. Is there anything you seek? Anything you’re willing to part with?”
+
+Silvius glanced at his companions. Kalinar was the first to speak. “Are any of the houses particularly represented?”
+
+Czolg, ever pragmatic, added, “I’m searching for a fine magical shield, if you know where one is.”
+Silvius nodded. “Something to protect myself better wouldn’t hurt.”
+
+Dana gestured toward the market. “The stalls will have some interesting items, but if you want something high-end, you come through me. We don’t always find such powerful people passing through.”
+With that, she turned and strode away, disappearing into the maze of the warrens.
+
+Silvius smirked. “If you need a room, you know where to find one…”
+
+Dana’s laughter echoed as she vanished into the crowd, leaving the group to contemplate their next move in the ever-shifting underworld of the warrens.
+
