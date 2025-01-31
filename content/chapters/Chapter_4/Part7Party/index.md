@@ -268,6 +268,8 @@ The slug lurched toward the mirage, entirely fixated, its massive form undulatin
 
 The tunnel widened as Kalinar and Fennuris surged forward. Czolg continued to shadow the slug, sliding effortlessly as the slime turned the ground into an impromptu surfboard. He easily kept his balance, riding the slick path with unexpected finesse.
 
+{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/C4 Czolg slime slide.JPEG" Capition = "Czolg mastering the slime"  width = "60%" >}}
+
 Fennuris studied the slug’s behavior, attempting to discern its true intent. Was it following the illusion, or was it simply tracking the vibrations of their movement? Her observations remained inconclusive.
 The team pressed forward, their movements synchronized. Kalinar reached a bend in the tunnel and swiftly pressed himself against the wall, waiting and watching. Silvius kept his illusion moving steadily ahead while Oscorn mirrored Kalinar’s tactics, keeping to the opposite wall and slowly making his way back toward the market.
 
@@ -277,6 +279,8 @@ Silvius pushed the bugbear illusion further, extending their lead until he reach
 
 For a tense moment, the slug remained still, its body writhing with uncertainty. Then, with an urgent lunge, it charged down the hallway after its elusive meal. Kalinar slipped past the slug, pressing against the cavern wall before sprinting back to the rest of the team.
 
+{{<imageToClickGlobal imgPosition = "left" imagePath = "/img/C4 bugbear run.JPEG" Capition = "Czolg mastering the slime"  width = "60%" >}}
+
 As the slug reached the end of the illusion’s path, Silvius brought the mirage to a grand finale. The bugbears collapsed into a putrid, steaming puddle, a grotesque pile of melting flesh. The slug, overcome with excitement, lunged at the remains, eagerly consuming the nonexistent feast.
 
 Kalinar rejoined the group, panting. “What do we do if it comes back?”
@@ -284,6 +288,8 @@ Kalinar rejoined the group, panting. “What do we do if it comes back?”
 The slug flailed about, its frustration evident as it searched in vain for its meal. For nearly a minute, it writhed in desperation before settling into a sluggish, disoriented stupor.
 
 A solution presented itself: a salt fountain—like a cascading chocolate fountain, but composed of glistening, coarse salt—was cast before the slug’s passage. The reaction was immediate. The slug recoiled, its body convulsing as it retreated, trapped within the confines of the narrow tunnel.
+
+{{<imageToClickGlobal imgPosition = "center" imagePath = "/img/C4 salt fountain.JPEG" Capition = "Czolg mastering the slime"  width = "60%" >}}
 
 Confident that the creature was contained, the team made their way back to the warrens. Vrek and Grog awaited them, their expressions wary.
 
