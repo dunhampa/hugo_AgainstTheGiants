@@ -6,134 +6,96 @@ summary: "OTR making deals and friends in the underdark market"
 weight: 3
 ---
 
-Operation Trundle Wagon gathered to discuss what they might want to trade in the Underdark market within the Warrens. They pooled their items, determining they could offer:
+Operation Trundle Wagon gathered in a quiet alcove of the warrens, their voices hushed but eager as they discussed their trading prospects. With the underdark market before them, they carefully laid out their goods, pooling their items to maximize their trade potential. Silvius examined his collection, which included a Potion of Poison, a Potion of Fire Giant Mind Control, a Potion of Diminution, a +1 Shortsword, and a Scroll of Heat Metal. Czolg had a Potion of Heroism, while Oscorn carried a Scroll of Protection Against Undead. Kalinar contributed two spell scrolls, one of Tongues and another of Tasha’s Hideous Laughter. Fenurris had nothing to trade, but their most prized possession was a Vorpal Scimitar, an item so rare and valuable that they speculated it could be their key to gaining an audience with Asperdis himself.
 
-Silvius: A potion of poison, a potion of fire giant mind control, a potion of diminution, a +1 shortsword, and a scroll of heat metal.
+After securing their wares, the group discussed what they sought in return. Oscorn and Czolg both aimed to acquire better shields to enhance their defenses. Silvius hoped to find Mithril Half Plate armor to improve his protection while maintaining his mobility. Kalinar and Fenurris had no particular needs but remained open to any unique or powerful items they might come across in the market. Though focused on their primary needs, everyone remained interested in acquiring items of particular use or intrigue.
 
-Czolg: A potion of heroism.
+Before heading into the market, Czolg took a moment to speak with Xilrath and Talindra about the Great City of the drow.
 
-Oscorn: A scroll of protection against undead.
+“It’s the city of the drow. The home of our people,” Xilrath explained. “Most worship Lolth. The battle between the houses stems from the belief that one should rule over all, but not everyone agrees on which house that should be.”
 
-Kalinar: A scroll of tongues, a scroll of Tasha’s Hideous Laughter, and their most prized possession, a vorpal scimitar. The group believed this scimitar could be their key to securing a meeting with Asperdis.
+Silvius raised an eyebrow. “And what do you believe?”
 
-Fenurris had nothing to trade but was keen to see what was available.
+Talindra’s expression was unreadable, but Xilrath answered plainly. “We want out. To escape the politics and the bloodshed. We just want to live. Trade might be our way out. That, and…” she hesitated. “Once, we ran into a beholder.”
 
-In return, they sought specific items:
+Czolg, ever curious, leaned forward. “And the vault? What’s in it?”
 
-Oscorn: A better shield.
+The two drow exchanged a glance before stepping away for a whispered conversation. When they returned, Xilrath’s expression was serious. “The vault isn’t a treasure hoard—it’s the drow’s domain. The Great City itself. It’s more than just a city; it holds different academies, trading hubs, and mining operations. The houses protect the Fane of Lolth, where the queen resides.”
 
-Czolg: A better shield.
+“How far are we from the vault?” Czolg asked.
 
-Kalinar: Nothing specific but open to anything of interest.
+“You’re about a third of the way there,” Xilrath replied. “The checkpoint you passed through… not everyone makes it through that.”
 
-Fennuris: Nothing.
+Kalinar smirked. “One step at a time, and a little luck.”
 
-Silvius: Mithril half plate.
+Xilrath chuckled. “Luck indeed. Few make it this far unscathed.”
 
-Beyond their main objectives, they remained open to any rare or useful finds.
+Czolg pressed further. “We heard there’s a forge in the vault. Any details?”
 
-As they prepared, Czolg questioned their two drow companions, Talindra and Xilrath, about the Great City. Xilrath explained, "It’s the city of the drow. The home of the drow. Most are worshipers of Lolth. The battle right now between the houses is because there is a belief that one house should be in charge. The belief differs among the houses."
+Xilrath nodded. “Of course. The city forges weapons to arm its defenders. Quality work.”
 
-Silvius eyed them curiously. "What do you believe?"
+The market was a lively place, filled with an assortment of traders and vendors, each offering something different. The group moved through the bustling stalls, taking in the sights and smells of the underground commerce.
 
-Xilrath hesitated before replying. "We want to get out of it. We just want to live our lives. We hope trade will get us out with enough money. Once, we ran into a beholder."
+At the orc’s stall, Silvius eyed the displayed weapons. “Got anything powerful or unusual?” he asked.
 
-Czolg, ever curious, leaned in. "What is in the vault?"
+Umak Goz, the burly orc vendor, chuckled. “Most of what I have is standard, but…” He leaned in conspiratorially. “I do have something fun. Real and fake manacles.”
 
-The two drow exchanged glances, confusion flickering across their faces.
+Silvius grinned. “I like options. I’ll take both.”
 
-"Vault?..." Talindra murmured. The two stepped away for a hushed discussion before returning. Xilrath clarified, "The vault isn’t a safe place to store things. It’s a chamber that contains the drow—that includes the Great City. The vault itself… there are different academies, different trading areas, mining businesses, and other companies. As you head north to the Great Wall, you reach the city. Beyond the river are the houses. The houses protect the Fane of Lolth, where the queen resides… the Spider Queen."
+Czolg and Oscorn inquired about shields, and Umak promised to check his storage. “Come back tomorrow. I’ll have something for you.”
 
-"How far is the vault from here?" Czolg pressed.
+Next, they visited Glubglub, the enthusiastic kuo-toa merchant selling hunting and fishing gear. Silvius, ever curious, asked, “I haven’t seen much water around here. Is there really fishing?”
 
-"You came past the checkpoint…" Kalinar mused.
+“Oh yes!” Glubglub beamed. “Plenty of fishing if you know where to look. Hunting, too.”
 
-Xilrath nodded. "You are about a third of the way to the vault. How have you found your way around?"
+Silvius pressed further. “Any good spots between here and the Great City?”
 
-"One step at a time," Kalinar answered with a smirk. "You’ve been quite lucky. You seem to be on the right path."
+Glubglub nodded excitedly. “The barge isn’t what it used to be, but east and west of here, there are still good spots. Most go by boat.” His eyes glinted with warning. “You must be careful. The river flows to the Sunless Sea. If you’re not careful, you’ll end up there.”
 
-Czolg, still hungry for knowledge, asked, "We hear there is a forge in the vault. Any more details on that?"
+Silvius frowned. “The surface ocean?”
 
-Xilrath shrugged. "The city does have forges, of course. To make weapons to protect the city."
+Glubglub shook his head. “Different one. The Sunless Sea. It’ll carry you away. Best to stay on land.”
 
-"How welcoming is the city? If traders are accepted, maybe we would be too?" Czolg suggested.
+At Stanmore’s Emporium, the eccentric human merchant greeted them with enthusiasm. “This is a sight to see!”
 
-"Most are drow, but others stay if they have use," Xilrath admitted.
+Silvius chuckled. “I agree.”
 
-Kalinar then inquired about the Black Guardians, but Xilrath only grew suspicious. "Who said anything about Black Guardians?"
+Stanmore’s wares included pocket watches, perfumes, intricate boxes, and a collection of sparkling rocks. He gestured proudly. “Ah, my best seller—flashbangs.”
 
-"We heard it’s a route," Kalinar responded cautiously.
+Silvius wasted no time. “I’ll take all six.”
 
-"Do you know where they reside?"
+As they finalized their trade, Stanmore grinned. “Why pay more? Visit Stanmore’s!”
 
-"We only heard it was on the way, past the drow gate," Kalinar admitted.
+Silvius laughed and added, “Why pay more? Check out Stanmore! Wares of wonder, spells of lore! From potions deep to trinkets grand, finest goods in all the land!”
 
-Czolg pivoted to a new topic. "And the Shrine of Kuo-Toa?"
+Stanmore clapped along, delighted. “Well said, traveler!”
 
-Xilrath pointed down a hallway. "That is their home. We don’t mess with them. We let them do their thing. They have powers that cannot be fathomed."
+At the apothecary stall, Falleron the drow inspected Silvius’ Potion of Diminution with wide eyes. “Where did you get this?”
 
-Kalinar raised a brow. "We heard they worship large gods."
+Kalinar remained vague. “We’ve been many places.”
 
-Xilrath’s gaze darkened. "They make gods."
+Falleron’s voice lowered. “Are you willing to part with it?”
 
-With that sobering thought lingering, Czolg shifted the conversation to the river crossing. "Can you tell us about the river crossing?"
+Silvius nodded. “Apples to apples.”
 
-Xilrath responded, "The Swarvejet?" The team collectively struggled to pronounce it properly, each attempting their own variations—"Swarmjet," "Smarjit," "Suavejetty"—to Xilrath’s clear amusement.
+Falleron led them to a back room, presenting various potions. “Antitoxins, climbing potions, gaseous form, alchemist’s fire…”
 
-"Last I knew, the crossing was a toll bridge," he explained. "Maybe it has changed."
+Oscorn picked up the antitoxins. “These could be useful.”
 
-"What was the toll before?" Silvius asked.
+After a brief negotiation, the team secured potions of greater healing and various supplies.
 
-"Just some money. It’s a smaller market, so maybe it's different this time. I’m sure they will explain it to you."
+Their final stop was the book stall, run by a drow trader with a pin of bone, marking her as a trader from House Eclavdra—the house that had sent giants to the surface.
 
-Before heading into the market, the team noticed Shadowscar growing nervous. Silvius gently placed Czolg’s arm around Shadowscar and reassured him, "The big guy will take care of you."
+Oscorn perused her collection. “Anything on politics or history?”
 
-They entered the bustling market filled with drow, kuo-toa, bugbears, hobgoblins, and orcs, all chattering and trading. The team lined up to speak with Dana. Shadowscar instinctively tucked himself close to Oscorn.
+She retrieved a book. “A heritage book on Elserves and Everhate.”
 
-"Oh, you arrived," Dana greeted them.
+Oscorn handed over his parchment in trade. “I’ll take it.”
 
-"We have!" Silvius replied with enthusiasm.
+Silvius, always one for stories, inquired, “Can I trade a fiction book for a fiction book?”
 
-"I know we need to talk, but I have matters to attend to here for now. As a show of trust to the Warrens, we know you have things, but we will let you pass."
+The trader smiled. “Of course.”
 
-Each member of OTW had a similar exchange with Dana before they fully entered the market. They took stock of the available vendors:
+Silvius exchanged a copy of Tales of the Giants for a drow novel, then ordered vials of glowing, invisible, and stink ink along with a fine quill.
 
-A female drow selling tools.
-
-A male drow selling apothecary goods.
-
-A kuo-toa preparing and serving exotic food.
-
-An orc with a stall full of weapons and armor.
-
-Another kuo-toa selling hunting and fishing gear.
-
-A drow with books, writings, and parchments.
-
-A human merchant with a mishmash of trinkets and flea market-style goods.
-
-Their first stop was the orc’s stall.
-
-"Oye, what can I help you with?" the orc asked, introducing himself as Umak Goz.
-
-Silvius inquired about powerful or unusual items, but Umak admitted, "I only have standard weapons. But I do have something fun—real and fake manacles."
-
-Silvius smirked. "I like options. I’ll take both."
-
-They discussed shields and light armor, striking a tentative deal, with Umak promising, "I’ll do the manacles for 72 gold if you come back tomorrow."
-
-Their next stop was Glubglub, the kuo-toa vendor. "Oh, there is great fishing to be found around here," he exclaimed excitedly.
-
-Silvius, skeptical, asked, "Fishing gear? I haven’t seen anywhere for fishing."
-
-"You have to know where to look!" Glubglub boasted, naming various deep-dwelling fish.
-
-"If you’re interested in fishing down here, you need a boat," he warned. "The river runs all the way to the Sunless Sea, and if you’re not careful, you’ll end up there."
-
-They moved to Stanmore’s Emporium, where they exchanged playful banter with the eccentric merchant and bought all six of his prized flashbangs for 400 gold.
-
-The team then visited Falleron, the apothecary, where Silvius bartered his rare potion of diminution for a selection of potions, including greater healing and antitoxins.
-
-Finally, they approached the book vendor, where Oscorn traded for a drow heritage book. Silvius exchanged one of their adventure books for another reading tome and purchased various specialty inks.
-
-With their trading complete, they regrouped, preparing for the next leg of their journey.
+With each deal struck, Operation Trundle Wagon further ingrained themselves in the warrens, weaving their names into the underground currents of trade and power. The market had so far provided them with supplies, information, and new connections—but it also raised new questions. What lay ahead in the vault? Who truly ruled the Great City? And what role did Asperdis play in the shadows of the underdark?
