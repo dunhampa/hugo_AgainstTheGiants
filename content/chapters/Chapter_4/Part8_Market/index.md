@@ -153,7 +153,7 @@ Dana’s eyes widened. She ran her fingers reverently over the blade, then withd
 
 Dana waved a hand, and an illusory image materialized, rotating in the air.
 
-Armor of the Fallen – A chain shirt that strengthens the wearer’s resilience, offering protection while allowing free movement.
+Armor of the Fallen – A chain shirt that appeared to be made from bones and hide. Wearing this armor allows someone to raise and speak with the dead.
 
 Sentinel Shield – A shield that grants advantage on initiative rolls and perception checks, heightening the wielder’s awareness.
 
@@ -161,7 +161,7 @@ Spiked Armor – A set of armor covered in menacing spikes, allowing the wearer 
 
 Arrow Catching Shield – This shield grants a bonus to AC and has the ability to draw incoming ranged attacks away from nearby allies.
 
-Living Armor – A sinister black ring mail held together with sinew, which grants resistance to poison, psychic, and necrotic damage. However, it binds to the wearer, making it nearly impossible to remove.
+Living Armor – A sinister black set of ring mail held together with sinew, which grants resistance to poison, psychic, and necrotic damage. However, it binds to the wearer, making it nearly impossible to remove.
 
 Animated Shield – A magical shield that, when commanded, hovers around the user and provides its protective benefits without needing to be held.
 
