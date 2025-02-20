@@ -199,6 +199,6 @@ Trog Corridors: Dozens of trogs crammed into narrow corridors, likely a defensiv
 
 Bugbear Encampments: Divided into military quarters and family dwellings. One chamber housed over a hundred bugbears, including young and non-combatants. Several heavily armored warriors occupied separate rooms.
 
-Zombie Beholders: More signs of the undead, adding to the eerie feeling of the northern caves.
+Zombies: More signs of the undead, adding to the eerie feeling of the northern caves.
 
 As they finished their meal, they decided to rest, contemplating their next move against the dangers lurking in the warrens.
