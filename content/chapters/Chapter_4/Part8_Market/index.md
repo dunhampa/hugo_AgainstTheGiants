@@ -231,7 +231,7 @@ Czolg whistled. "Sounds powerful."
 
 The guard inclined his head. "To turn this place into what it is? Some say he’s a god."
 
-Silvius chimed in. "Your god?"
+Kalinar chimed in. "Your god?"
 
 The guard scoffed. "Not my god. All hail to Lolth that hails in the depths."
 
@@ -262,6 +262,8 @@ The next day, they found a much longer line at the entrance. When they finally r
 Dana gave a knowing smile. "You’re welcome to look around. Check back with me when you’re ready."
 
 Silvius inclined his head. "We appreciate the hospitality and flexibility."
+
+{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/C4 P8 Dana.JPG" Capition = "The Priestess welcomes them"  width = "60%" >}}
 
 Their first stop was Umak’s weapon stall.
 
