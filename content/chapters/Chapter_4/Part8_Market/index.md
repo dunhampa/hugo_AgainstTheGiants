@@ -202,3 +202,121 @@ Bugbear Encampments: Divided into military quarters and family dwellings. One ch
 Zombies: More signs of the undead, adding to the eerie feeling of the northern caves.
 
 As they finished their meal, they decided to rest, contemplating their next move against the dangers lurking in the warrens.
+
+Operation Trundle Wagon gathered once more, deliberating on their next steps. They had heard whispers of the twin passageways leading to Asperdis, the elusive lich who ruled the warrens from the shadows. If they wanted to make contact, they needed a plan. The consensus was clear: Dana was their best bet for an introduction.
+
+As they returned to the camp they noticed the entrance to the two caves they heard leads to Asperdis, a wary drow guard stood watch, his gaze appraising the adventurers with quiet scrutiny.
+
+Czolg stepped forward. "We heard about these caves. Know anything about them?"
+
+The guard scoffed. "It's the reason I'm here. You don't just go and talk to the master. Most that do… don’t come back."
+
+Czolg smirked. "So do I schedule an appointment, or is there a sign-up sheet?"
+
+The guard exhaled sharply, somewhere between a laugh and a sigh. "Not with me. Nobody really asks to see him. Best to speak with Dana. Do you know her?"
+
+Czolg nodded. "Yeah, we know Dana."
+
+"Then I’d start there," the guard replied. "If you really want to see him."
+
+Czolg peered down the two passageways. "Do these caves connect? What’s the difference?"
+
+"Both lead down to where he... takes his time."
+
+"Doing what, exactly?"
+
+"Running all that you see. Even though he’s not seen, he seems to run it all."
+
+Czolg whistled. "Sounds powerful."
+
+The guard inclined his head. "To turn this place into what it is? Some say he’s a god."
+
+Silvius chimed in. "Your god?"
+
+The guard scoffed. "Not my god. All hail to Lolth that hails in the depths."
+
+Czolg crossed his arms. "Can people just walk in, or—?"
+
+The guard shrugged. "I'm not going to stop you. But everyone that enters doesn’t come out."
+
+Silvius gave a sidelong glance to Czolg. "Maybe we should rest and check this out tomorrow, big guy."
+
+Oscorn toyed with the idea of sending his magical eye to scout, but ultimately, they decided to return to camp.
+
+As they made their way back, the area outside the warrens had become livelier. More merchants had set up side trades—games of chance, gambling, food stalls, and trinket vendors. The hum of underground commerce thrived in the dim glow of phosphorescent fungi.
+
+Czolg spotted their drow contacts and strode up. "Got anything on House Despana?"
+
+One of the drow chuckled. "Unlikely. Anything specific you're looking for?"
+
+"We’d like to talk to the priestess chick," Czolg said bluntly.
+
+"Of Despana?" The drow laughed. "That’s a big ask. If she passed through here, she wouldn’t be trying to get to the warrens—she’d be heading to her house. It’s not that this place is dangerous for them, but it’s safer at their own home."
+
+"Looking for connections," Czolg pressed.
+
+The drow nodded. "We’ll see what we can find."
+
+The next day, they found a much longer line at the entrance. When they finally reached Dana, Silvius greeted her with his usual charm. "We don’t mean to intrude, but we’re hoping for your insight."
+
+Dana gave a knowing smile. "You’re welcome to look around. Check back with me when you’re ready."
+
+Silvius inclined his head. "We appreciate the hospitality and flexibility."
+
+Their first stop was Umak’s weapon stall.
+
+"Umak!" Silvius greeted. "How are you today? Got anything new for us?"
+
+The orc smith chuckled. "I could only find one thing." He gestured for them to step around the table. Reaching into his chest pocket, he carefully unfolded a cloth, revealing a plain silver-plated ring.
+
+"My mastery is in weapons and armor, and your group asks for the best. Unfortunately, my cash is spent, and my stock is low. This is what I have left. It was given to me by great traders. I haven’t tested what it does—could be a risk. But people are talking about you. What you have. What you're willing to spend. You don’t seem like the penny-pinching sort."
+
+Silvius handed the ring to Czolg, who closed his eyes, channeling the power of his storm rune. The ring pulsed with elemental energy, aligning with the stone rune. It felt linked to an elemental plane, its power dormant but potent.
+
+Czolg opened his eyes and shrugged. "Meh. Doesn’t look like much."
+
+Umak blinked, surprised by Czolg’s casual dismissal.
+
+Silvius, smirking, struck a deal. In exchange for the ring, he offered an axe head, a sword, 300 gold, and a 100-gold-value gem. As he slid the ring onto his finger, he and Umak exchanged nods of respect.
+
+"A pleasure as always, Umak."
+
+Kalinar, ever eager to bond with his fellow orc, struck up a conversation about Umak’s past. The smith revealed that he had been captured in a drow raid, separated from his family, and forced into servitude. Over time, he had honed his craft, blending orcish power with drow finesse.
+
+Silvius, ever inquisitive, asked, "Think you could make barding for a pegasus?"
+
+Umak looked skeptical. "Not something I’ve seen before. Not my expertise. But I might try."
+
+Kalinar, more serious, inquired about the prevalence of slavery.
+
+Umak’s expression darkened. "All the houses deal in slaves or have field drow. That’s just the way of things down here."
+
+They moved on to the apothecary, where they were greeted by Valoneer Fondal, a drow trader with a prism pin.
+
+Silvius decided to be direct. "We’re looking for Eclavdra. The attacks on the surface, the giants—our goal is to put a stop to it for good."
+
+Valoneer’s expression turned calculating. "Eclavdra came through here. Hard to track."
+
+Silvius leaned forward. "Who’s she traveling with?"
+
+"A duergar. But pale."
+
+Oscorn frowned. "Odd. Anyone else?"
+
+"Ombi came through here, too."
+
+The team shared a glance. Another piece of the puzzle.
+
+Kalinar, meanwhile, drifted to the tool vendors, where he found high-quality lockpicks and fine craftsmanship tools. The drow vendor, Safara, smirked. "This is how I make my name in the warrens. If you’re looking for real tools, I’ve got them. If you're looking for business, we can talk elsewhere."
+
+"Name’s Kalinar," he said, sliding a gold coin across the table. "We’ll be in touch."
+
+Finally, Dana arrived to escort them to Asperdis. She led them down a narrow tunnel that opened into a massive chamber, at the center of which loomed a large gargoyle statue.
+
+"Asperdis can hear you," Dana said. "I will speak for him."
+
+Silvius stepped forward, praising the warrens for their peace and trade. He explained their true goal: to hunt down Eclavdra and stop the attacks. He also proposed an alliance to take down Brazzamel, the legendary red dragon, and split the spoils.
+
+Dana considered, then nodded. "We will give you a year. After that, we may take action on our own."
+
+A deal was struck. The path ahead remained uncertain, but one thing was clear—Operation Trundle Wagon had made their first major connections in the underdark.
