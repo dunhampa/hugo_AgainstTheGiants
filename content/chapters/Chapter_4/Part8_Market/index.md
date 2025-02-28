@@ -70,17 +70,17 @@ Silvius laughed and added, “Why pay more? Check out Stanmore! Wares of wonder,
 
 Stanmore clapped along, delighted. “Well said, traveler!”
 
-At the apothecary stall, Falleron the drow inspected Silvius’ Potion of Diminution with wide eyes. “Where did you get this?”
+At the apothecary stall, Valoneer the drow inspected Silvius’ Potion of Diminution with wide eyes. “Where did you get this?”
 
 Kalinar remained vague. “We’ve been many places.”
 
-Falleron’s voice lowered. “Are you willing to part with it?”
+Valoneer’s voice lowered. “Are you willing to part with it?”
 
 Silvius nodded. “Apples to apples.”
 
-Falleron led them to a back room, presenting various potions. “Antitoxins, climbing potions, gaseous form, alchemist’s fire…”
+Valoneer led them to a back room, presenting various potions. “Antitoxins, climbing potions, gaseous form, alchemist’s fire…”
 
-{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/C4 P8 apothicary.PNG" Capition = "Falleron displays his wares"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/C4 P8 apothicary.PNG" Capition = "Valoneer displays his wares"  width = "60%" >}}
 
 Oscorn picked up the antitoxins. “These could be useful.”
 
@@ -315,7 +315,7 @@ The team shared a glance and Silvius could remember eveery detail of that hated 
 
 {{<imageToClickGlobal imgPosition = "right" imagePath = "/img/C4 P8 Ombi.png" Capition = "Ombi the terrible Dwarf"  width = "60%" >}}
 
-Kalinar, meanwhile, drifted to the tool vendors, where he found high-quality lockpicks and fine craftsmanship tools. The drow vendor, Safara, smirked. "This is how I make my name in the warrens. If you’re looking for real tools, I’ve got them. If you're looking for business, we can talk elsewhere."
+Kalinar, meanwhile, drifted to the tool vendors, where he found high-quality lockpicks and fine craftsmanship tools. The drow vendor, Zafara, smirked. "This is how I make my name in the warrens. If you’re looking for real tools, I’ve got them. If you're looking for business, we can talk elsewhere."
 
 "Name’s Kalinar," he said, sliding a gold coin across the table. "We’ll be in touch."
 
