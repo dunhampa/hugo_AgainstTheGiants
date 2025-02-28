@@ -80,6 +80,8 @@ Silvius nodded. “Apples to apples.”
 
 Falleron led them to a back room, presenting various potions. “Antitoxins, climbing potions, gaseous form, alchemist’s fire…”
 
+{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/C4 P8 apothicary.PNG" Capition = "Falleron displays his wares"  width = "60%" >}}
+
 Oscorn picked up the antitoxins. “These could be useful.”
 
 After a brief negotiation, the team secured potions of greater healing and various supplies.
@@ -263,7 +265,7 @@ Dana gave a knowing smile. "You’re welcome to look around. Check back with me 
 
 Silvius inclined his head. "We appreciate the hospitality and flexibility."
 
-{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/C4 P8 Dana.JPG" Capition = "The Priestess welcomes them"  width = "60%" >}}
+{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/C4 P8 Dana Trade.PNG" Capition = "The Priestess welcomes them"  width = "60%" >}}
 
 Their first stop was Umak’s weapon stall.
 
@@ -272,6 +274,8 @@ Their first stop was Umak’s weapon stall.
 The orc smith chuckled. "I could only find one thing." He gestured for them to step around the table. Reaching into his chest pocket, he carefully unfolded a cloth, revealing a plain silver-plated ring.
 
 "My mastery is in weapons and armor, and your group asks for the best. Unfortunately, my cash is spent, and my stock is low. This is what I have left. It was given to me by great traders. I haven’t tested what it does—could be a risk. But people are talking about you. What you have. What you're willing to spend. You don’t seem like the penny-pinching sort."
+
+{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/C4 P8 Umack Ring.jpeg" Capition = "Umak displays his prized ancient ring"  width = "60%" >}}
 
 Silvius handed the ring to Czolg, who closed his eyes, channeling the power of his storm rune. The ring pulsed with elemental energy, aligning with the stone rune. It felt linked to an elemental plane, its power dormant but potent.
 
@@ -307,7 +311,9 @@ Oscorn frowned. "Odd. Anyone else?"
 
 "Ombi came through here, too."
 
-The team shared a glance. Another piece of the puzzle.
+The team shared a glance and Silvius could remember eveery detail of that hated Dwarf.
+
+{{<imageToClickGlobal imgPosition = "right" imagePath = "/img/C4 P8 Ombi.png" Capition = "Ombi the terrible Dwarf"  width = "60%" >}}
 
 Kalinar, meanwhile, drifted to the tool vendors, where he found high-quality lockpicks and fine craftsmanship tools. The drow vendor, Safara, smirked. "This is how I make my name in the warrens. If you’re looking for real tools, I’ve got them. If you're looking for business, we can talk elsewhere."
 
