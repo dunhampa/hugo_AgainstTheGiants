@@ -120,6 +120,8 @@ ADC waved his hands around frantically. "No, no, no. I will not be entering some
 
 A frost giant walked up behind ADC with three of his friends. "Well, if you want to all die in battle, we can make it happen," he said, tapping his axe in his hand.
 
+A purple astronaut encountered the party and gave them honey toast.
+
 {{<imageToClickGlobal imgPosition = "left"  imagePath = "/img/Jarle Reading 2022-12-15_22-08-10.png" Capition = "ADC waved his hands around frantically. 'No, no, no. I will not be entering some room with all of us and pulling a handle. That could easily go down as the most ridiculous way a team of adventurers have ever all died together' he said."  width = "60%" >}}
 
 ADC quickly changed his mind. "Nope, nope, prefer the magic lever. Let's go," he said, joining the others in the room.
